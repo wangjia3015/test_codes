@@ -1,0 +1,2080 @@
+1;en@Downloaded videos|zh-CN@下载的视频|zh-TW@下載的視頻
+2;en@Cache|zh-CN@缓存|zh-TW@緩存
+3;en@Ad cache|zh-CN@广告缓存|zh-TW@廣告緩存
+4;en@Image cache|zh-CN@图片缓存|zh-TW@圖片緩存
+5;en@Downloaded funny pictures|zh-CN@下载的囧图|zh-TW@下載的囧圖
+6;en@News image cache|zh-CN@新闻图片缓存|zh-TW@新聞圖片緩存
+7;en@Ad image cache|zh-CN@广告图片缓存|zh-TW@廣告圖片緩存
+8;en@Downloaded books|zh-CN@下载的书籍|zh-TW@下載的書籍
+9;en@Data cache|zh-CN@数据缓存|zh-TW@數據緩存
+10;en@Log files|zh-CN@日志文件|zh-TW@日誌檔
+11;en@Downloaded resources|zh-CN@下载的资源|zh-TW@下載的資源
+12;en@Downloaded files|zh-CN@下载的文件|zh-TW@下載的文件
+13;en@Saved files|zh-CN@保存的文件|zh-TW@保存的檔
+14;en@Log cache|zh-CN@日志缓存|zh-TW@日誌緩存
+15;en@Downloaded cloud files|zh-CN@下载的云端文件|zh-TW@下載的雲端文件
+16;en@Wallpaper cache|zh-CN@壁纸缓存|zh-TW@壁紙緩存
+17;en@Weather background images|zh-CN@天气背景图片|zh-TW@天氣背景圖片
+18;en@Downloaded weather voice packs|zh-CN@下载的天气语音包|zh-TW@下載的天氣語音包
+19;en@Configuration files|zh-CN@配置文件|zh-TW@設定檔
+20;en@Preview image cache|zh-CN@预览图缓存|zh-TW@預覽圖緩存
+21;en@Application updates|zh-CN@应用更新|zh-TW@應用更新
+22;en@Downloaded weather plug-ins|zh-CN@下载的天气插件|zh-TW@下載的天氣外掛程式
+23;en@Icon cache|zh-CN@图标缓存|zh-TW@圖示緩存
+24;en@Downloaded fonts|zh-CN@下载的字体|zh-TW@下載的字體
+25;en@Application icon cache|zh-CN@应用图标缓存|zh-TW@應用圖示緩存
+26;en@Header image|zh-CN@标题图片|zh-TW@標題圖片
+27;en@Category|zh-CN@类别|zh-TW@類別
+28;en@Cover image|zh-CN@封面图片|zh-TW@封面圖片
+29;en@Preview image|zh-CN@预览图|zh-TW@預覽圖
+30;en@Downloaded themes|zh-CN@下载的主题|zh-TW@下載的主題
+31;en@Downloaded software|zh-CN@下载的软件|zh-TW@下載的軟體
+32;en@Downloaded wallpapers|zh-CN@下载的壁纸|zh-TW@下載的壁紙
+33;en@Downloaded ringtones|zh-CN@下载的铃声|zh-TW@下載的鈴聲
+34;en@Saved panoramic image data|zh-CN@保存的全景图片数据|zh-TW@保存的全景圖片資料
+35;en@Saved panoramic images|zh-CN@保存的全景图片|zh-TW@保存的全景圖片
+36;en@Thumbnail cache|zh-CN@缩略图缓存|zh-TW@縮略圖緩存
+37;en@Downloaded installers|zh-CN@下载的安装包|zh-TW@下載的安裝包
+38;en@User profile picture|zh-CN@用户头像|zh-TW@用戶頭像
+39;en@Monitoring log|zh-CN@监控日志|zh-TW@監控日誌
+40;en@Compressed files|zh-CN@压缩文件|zh-TW@壓縮檔
+41;en@App icons|zh-CN@APP图标|zh-TW@APP圖示
+42;en@Sent images|zh-CN@发送过的图片|zh-TW@發送過的圖片
+43;en@Downloaded lock screen themes|zh-CN@下载的锁屏主题|zh-TW@下載的鎖屏主題
+44;en@Lock screen wallpaper|zh-CN@锁屏壁纸|zh-TW@鎖屏壁紙
+45;en@Downloaded APKs|zh-CN@下载的apk|zh-TW@下載的apk
+46;en@Application icon|zh-CN@应用图标|zh-TW@應用圖示
+47;en@Plug-in icon|zh-CN@插件图标|zh-TW@外掛程式圖示
+48;en@Weather search results cache|zh-CN@天气查询结果缓存|zh-TW@天氣查詢結果緩存
+49;en@Private files|zh-CN@隐私文件|zh-TW@隱私文件
+50;en@Photos taken|zh-CN@拍摄的照片|zh-TW@拍攝的照片
+51;en@Ringtone album|zh-CN@铃声专辑|zh-TW@鈴聲專輯
+52;en@Panoramas taken|zh-CN@拍摄的全景照片|zh-TW@拍攝的全景照片
+53;en@Theme thumbnail cache|zh-CN@主题缩略图缓存|zh-TW@主題縮略圖緩存
+54;en@Downloaded theme files|zh-CN@下载的主题文件|zh-TW@下載的主題檔
+55;en@File cache|zh-CN@文件缓存|zh-TW@文件緩存
+56;en@HD images|zh-CN@高清大图|zh-TW@高清大圖
+57;en@Game data packs|zh-CN@游戏数据包|zh-TW@遊戲數據包
+58;en@QQ Speed images|zh-CN@飞车图片|zh-TW@飛車圖片
+59;en@Voice files|zh-CN@语音文件|zh-TW@語音檔
+60;en@Game data|zh-CN@游戏数据|zh-TW@遊戲數據
+61;en@Game score cache|zh-CN@游戏分数缓存|zh-TW@遊戲分數緩存
+62;en@Audio cache|zh-CN@音频缓存|zh-TW@音訊緩存
+63;en@Saved images|zh-CN@保存的图片|zh-TW@保存的圖片
+64;en@Downloaded music|zh-CN@下载的音乐|zh-TW@下載的音樂
+65;en@Offline music|zh-CN@离线音乐|zh-TW@離線音樂
+66;en@Recommendation cache|zh-CN@精品推荐缓存|zh-TW@精品推薦緩存
+67;en@Image preview|zh-CN@图片预览|zh-TW@圖片預覽
+68;en@Downloaded images|zh-CN@下载的图片|zh-TW@下載的圖片
+69;en@Web page cache|zh-CN@网页缓存|zh-TW@網頁緩存
+70;en@Downloaded ringtones|zh-CN@已下载的铃声|zh-TW@已下載的鈴聲
+71;en@Downloaded themes|zh-CN@已下载的主题|zh-TW@已下載的主題
+72;en@Theme cache|zh-CN@主题缓存|zh-TW@主題緩存
+73;en@Desktop clock and weather|zh-CN@桌面时钟和天气|zh-TW@桌面時鐘和天氣
+74;en@Downloaded desktop themes|zh-CN@下载的桌面主题|zh-TW@下載的桌面主題
+75;en@Theme image cache|zh-CN@主题图片缓存|zh-TW@主題圖片緩存
+76;en@Theme wallpapers|zh-CN@主题壁纸|zh-TW@主題壁紙
+77;en@Weather clock skins|zh-CN@天气时钟皮肤|zh-TW@天氣時鐘皮膚
+78;en@Theme thumbnails|zh-CN@主题缩略图|zh-TW@主題縮略圖
+79;en@Backup|zh-CN@备份|zh-TW@備份
+80;en@Wallpapers|zh-CN@壁纸|zh-TW@壁紙
+81;en@Animated wallpaper cache|zh-CN@动态图片缓存|zh-TW@動態圖片緩存
+82;en@Photos taken|zh-CN@拍下的照片|zh-TW@拍下的照片
+83;en@Uploaded installers|zh-CN@上传的安装包|zh-TW@上傳的安裝包
+84;en@Uploaded files|zh-CN@上传的文件|zh-TW@上傳的文件
+85;en@Article images|zh-CN@文章中的图片|zh-TW@文章中的圖片
+86;en@Downloaded articles|zh-CN@下载的文章|zh-TW@下載的文章
+87;en@Saved photos|zh-CN@保存的照片|zh-TW@保存的照片
+88;en@Recycled files|zh-CN@回收站的文件|zh-TW@回收站的文件
+89;en@Downloaded books|zh-CN@下载的图书|zh-TW@下載的圖書
+90;en@Added bookmarks|zh-CN@添加的书签|zh-TW@添加的書簽
+91;en@Saved books|zh-CN@保存的图书|zh-TW@保存的圖書
+92;en@Temp cache|zh-CN@临时缓存|zh-TW@臨時緩存
+93;en@News images|zh-CN@新闻图片|zh-TW@新聞圖片
+94;en@Downloaded stickers|zh-CN@下载的贴图|zh-TW@下載的貼圖
+95;en@Sticker cache|zh-CN@贴图缓存|zh-TW@貼圖緩存
+96;en@Video icons|zh-CN@视频图标|zh-TW@視頻圖示
+97;en@Video thumbnails|zh-CN@视频缩略图|zh-TW@視頻縮略圖
+98;en@Grid covers|zh-CN@网格封面|zh-TW@網格封面
+99;en@List covers|zh-CN@列表封面|zh-TW@列表封面
+100;en@All covers|zh-CN@全部封面|zh-TW@全部封面
+101;en@Media cache|zh-CN@媒体缓存|zh-TW@媒體緩存
+102;en@Contact photo|zh-CN@联系人头像|zh-TW@連絡人頭像
+103;en@Downloaded photos|zh-CN@下载的照片|zh-TW@下載的照片
+104;en@Message files|zh-CN@消息文件|zh-TW@消息檔
+105;en@Map cache|zh-CN@地图缓存|zh-TW@地圖緩存
+106;en@Photo album thumbnails|zh-CN@相册缩略图|zh-TW@相冊縮略圖
+107;en@Album covers|zh-CN@专辑封面|zh-TW@專輯封面
+108;en@Quarantined files|zh-CN@隔离区文件|zh-TW@隔離區文件
+109;en@Application download cache|zh-CN@应用程序下载缓存|zh-TW@應用程式下載緩存
+110;en@History cache|zh-CN@历史记录缓存|zh-TW@歷史記錄緩存
+111;en@Application recommendation cache|zh-CN@应用推荐缓存|zh-TW@應用推薦緩存
+112;en@Push cache|zh-CN@推送缓存|zh-TW@推送緩存
+113;en@Download tasks|zh-CN@下载任务|zh-TW@下載任務
+114;en@Browser bookmarks|zh-CN@浏览器书签|zh-TW@流覽器書簽
+115;en@Classic theme installer|zh-CN@经典主题安装包|zh-TW@經典主題安裝包
+116;en@Default theme configuration files|zh-CN@默认主题配置文件|zh-TW@預設主題設定檔
+117;en@Theme files|zh-CN@主题文件|zh-TW@主題檔
+118;en@Downloaded theme installers|zh-CN@下载的主题安装包|zh-TW@下載的主題安裝包
+119;en@Crash log|zh-CN@崩溃日志|zh-TW@崩潰日誌
+120;en@Received files|zh-CN@收到的文件|zh-TW@收到的文件
+121;en@Logo cache|zh-CN@Logo缓存|zh-TW@Logo緩存
+122;en@Background images|zh-CN@背景图片|zh-TW@背景圖片
+123;en@Downloaded news|zh-CN@下载的新闻|zh-TW@下載的新聞
+124;en@Shared photos|zh-CN@分享的照片|zh-TW@分享的照片
+125;en@Cached images and videos|zh-CN@图片和视频的缓存|zh-TW@圖片和視頻的緩存
+126;en@Recorded sounds|zh-CN@录制的声音|zh-TW@錄製的聲音
+127;en@Fonts|zh-CN@字体|zh-TW@字體
+128;en@Desktop theme cache|zh-CN@桌面主题缓存|zh-TW@桌面主題緩存
+129;en@Lock screen theme cache|zh-CN@锁屏主题缓存|zh-TW@鎖屏主題緩存
+130;en@Sticker store cache|zh-CN@贴图商店缓存|zh-TW@貼圖商店緩存
+131;en@Greeting card templates|zh-CN@贺卡模版图|zh-TW@賀卡模版圖
+132;en@Edited photos|zh-CN@编辑过的照片|zh-TW@編輯過的照片
+133;en@SMS library cache|zh-CN@短信库缓存|zh-TW@短信庫緩存
+134;en@Doodle files|zh-CN@涂鸦文件|zh-TW@塗鴉文件
+135;en@Audio messages|zh-CN@音频消息|zh-TW@音訊消息
+136;en@Desktop theme image cache|zh-CN@桌面主题图片缓存|zh-TW@桌面主題圖片緩存
+137;en@Lock screen theme image cache|zh-CN@锁屏主题图片缓存|zh-TW@鎖屏主題圖片緩存
+138;en@Lyrics|zh-CN@歌词|zh-TW@歌詞
+139;en@Downloaded movies|zh-CN@下载的电影|zh-TW@下載的電影
+140;en@Scanned file cache|zh-CN@扫描过的文件缓存|zh-TW@掃描過的檔緩存
+141;en@Offline files|zh-CN@离线文件|zh-TW@離線文件
+142;en@Software recommendation icons|zh-CN@软件推荐图标|zh-TW@軟體推薦圖示
+143;en@Video cache|zh-CN@视频缓存|zh-TW@視頻緩存
+144;en@Local storage|zh-CN@本地存储|zh-TW@本機存放區
+145;en@Saved videos|zh-CN@保存的视频|zh-TW@保存的視頻
+146;en@Ringtone cache|zh-CN@铃声缓存|zh-TW@鈴聲緩存
+147;en@Album images|zh-CN@专辑图片|zh-TW@專輯圖片
+148;en@History|zh-CN@记录|zh-TW@記錄
+149;en@Configuration cache|zh-CN@配置缓存|zh-TW@配置緩存
+150;en@Books|zh-CN@图书|zh-TW@圖書
+151;en@Study plans|zh-CN@读书计划|zh-TW@讀書計畫
+152;en@Font cache|zh-CN@字体缓存|zh-TW@字體緩存
+153;en@Hosted data|zh-CN@托管数据|zh-TW@託管數據
+154;en@Cached ad bar images|zh-CN@广告栏的图片缓存|zh-TW@廣告欄的圖片緩存
+155;en@Downloaded games|zh-CN@下载的游戏|zh-TW@下載的遊戲
+156;en@Room cache|zh-CN@房间缓存|zh-TW@房間緩存
+157;en@Comment cache|zh-CN@评论缓存|zh-TW@評論緩存
+158;en@Configuration backup|zh-CN@配置备份|zh-TW@配置備份
+159;en@Exported chat history|zh-CN@导出的聊天记录|zh-TW@匯出的聊天記錄
+160;en@Item store cache|zh-CN@物品商店缓存|zh-TW@物品商店緩存
+161;en@Downloaded emojis|zh-CN@下载的表情|zh-TW@下載的表情
+162;en@Kakao photo album thumbnails|zh-CN@Kakao相册缩略图|zh-TW@Kakao相冊縮略圖
+163;en@Facebook profile pictures|zh-CN@Facebook头像|zh-TW@Facebook頭像
+164;en@Poster images|zh-CN@海报图片|zh-TW@海報圖片
+165;en@Backup data|zh-CN@备份数据|zh-TW@備份資料
+166;en@Notification  cache|zh-CN@通知消息缓存|zh-TW@通知消息緩存
+167;en@Chat history backup|zh-CN@备份的聊天记录|zh-TW@備份的聊天記錄
+168;en@Saved picture messages|zh-CN@保存的图片消息|zh-TW@保存的圖片消息
+169;en@Transferred videos|zh-CN@传输的视频|zh-TW@傳輸的視頻
+170;en@Saved screenshots|zh-CN@保存的截图|zh-TW@保存的截圖
+171;en@Video thumbnails|zh-CN@影音缩略图|zh-TW@影音縮略圖
+172;en@Unknown|zh-CN@未知|zh-TW@未知
+173;en@Image resources|zh-CN@图片资源|zh-TW@圖片資源
+174;en@Log|zh-CN@日志|zh-TW@日誌
+175;en@Audio preview cache|zh-CN@试听缓存|zh-TW@試聽緩存
+176;en@Recorded videos|zh-CN@录制的视频|zh-TW@錄製的視頻
+177;en@Image templates|zh-CN@图片模板|zh-TW@圖片範本
+178;en@Full-size image cache|zh-CN@大图缓存|zh-TW@大圖緩存
+179;en@Small-size image cache|zh-CN@小图缓存|zh-TW@小圖緩存
+180;en@Downloaded wallpaper images|zh-CN@下载的壁纸图片|zh-TW@下載的壁紙圖片
+181;en@Game cache|zh-CN@游戏缓存|zh-TW@遊戲緩存
+182;en@Stickers|zh-CN@贴纸|zh-TW@貼紙
+183;en@Album cover images|zh-CN@专辑封面图片|zh-TW@專輯封面圖片
+184;en@Group list|zh-CN@群列表|zh-TW@群列表
+185;en@Icons and news images|zh-CN@图标和新闻图片|zh-TW@圖示和新聞圖片
+186;en@Article cache|zh-CN@文章缓存|zh-TW@文章緩存
+187;en@Category list|zh-CN@类别列表|zh-TW@類別列表
+188;en@Posted photos|zh-CN@发布的照片|zh-TW@發佈的照片
+189;en@Music data packets|zh-CN@音乐数据包|zh-TW@音樂資料包
+190;en@Temp files|zh-CN@临时文件|zh-TW@暫存檔案
+191;en@Map tile cache|zh-CN@地图图块缓存|zh-TW@地圖圖塊緩存
+192;en@Downloaded maps|zh-CN@下载的地图|zh-TW@下載的地圖
+193;en@List cache|zh-CN@列表缓存|zh-TW@列表緩存
+194;en@Software update cache|zh-CN@软件更新缓存|zh-TW@軟體更新緩存
+195;en@View log|zh-CN@检测日志|zh-TW@檢測日誌
+196;en@Offline videos|zh-CN@离线视频|zh-TW@離線視頻
+197;en@Game installers|zh-CN@游戏安装包|zh-TW@遊戲安裝包
+198;en@Ringtones|zh-CN@手机铃声|zh-TW@手機鈴聲
+199;en@Photo and voice messages|zh-CN@图片和语音消息|zh-TW@圖片和語音訊息
+200;en@Downloaded songs|zh-CN@已下载的歌曲|zh-TW@已下載的歌曲
+201;en@Saved wallpapers|zh-CN@保存的壁纸|zh-TW@保存的壁紙
+202;en@Shared images|zh-CN@分享的图片|zh-TW@分享的圖片
+203;en@Voice messages|zh-CN@语音消息|zh-TW@語音訊息
+204;en@Picture messages|zh-CN@图片消息|zh-TW@圖片消息
+205;en@Downloaded emoji packs|zh-CN@下载的表情包|zh-TW@下載的表情包
+206;en@Photo album cache|zh-CN@相册缓存|zh-TW@相冊緩存
+207;en@Qzone cache|zh-CN@QQ空间缓存|zh-TW@QQ空間緩存
+208;en@Qzone cache|zh-CN@QQ空间的缓存|zh-TW@QQ空間的緩存
+209;en@Zone cache|zh-CN@空间缓存|zh-TW@空間緩存
+210;en@Monitor files|zh-CN@监控文件|zh-TW@監控文件
+211;en@Voice message history|zh-CN@语音消息记录|zh-TW@語音訊息記錄
+212;en@Zone photos|zh-CN@空间照片|zh-TW@空間照片
+213;en@Contact picture cache|zh-CN@联系人头像缓存|zh-TW@連絡人頭像緩存
+214;en@Zone photo thumbnails|zh-CN@空间照片缩略图|zh-TW@空間照片縮略圖
+215;en@Message image cache|zh-CN@消息图片缓存|zh-TW@消息圖片緩存
+216;en@Thumbnail cache|zh-CN@缩率图缓存|zh-TW@縮率圖緩存
+217;en@Theme preview images|zh-CN@主题预览图|zh-TW@主題預覽圖
+218;en@Downloaded chat backgrounds|zh-CN@下载的聊天背景|zh-TW@下載的聊天背景
+219;en@Applied themes|zh-CN@使用的主题|zh-TW@使用的主題
+220;en@Received images|zh-CN@收到的图片|zh-TW@收到的圖片
+221;en@Transferred files|zh-CN@传输的文件|zh-TW@傳輸的文件
+222;en@Reading Center database files|zh-CN@阅读中心数据库文件|zh-TW@閱讀中心資料庫檔
+223;en@Reading Center online reading cache|zh-CN@阅读中心在线阅读缓存|zh-TW@閱讀中心線上閱讀緩存
+224;en@Reading Center book covers|zh-CN@阅读中心书的封面|zh-TW@閱讀中心書的封面
+225;en@Images|zh-CN@图片|zh-TW@圖片
+226;en@Downloaded applications|zh-CN@下载的应用|zh-TW@下載的應用
+227;en@Uploaded images|zh-CN@上传的图片|zh-TW@上傳的圖片
+228;en@Wallpaper thumbnails|zh-CN@壁纸缩略图|zh-TW@壁紙縮略圖
+229;en@Offline images|zh-CN@离线图片|zh-TW@離線圖片
+230;en@Downloaded skin packs|zh-CN@下载的皮肤包|zh-TW@下載的皮膚包
+231;en@Music cache|zh-CN@音乐缓存|zh-TW@音樂緩存
+232;en@Recordings|zh-CN@录音|zh-TW@錄音
+233;en@Downloaded background images|zh-CN@下载的背景图片|zh-TW@下載的背景圖片
+234;en@Talking greetings|zh-CN@语音礼物|zh-TW@語音禮物
+235;en@Application center image cache|zh-CN@应用中心图片缓存|zh-TW@應用中心圖片緩存
+236;en@Product info cache|zh-CN@商品信息缓存|zh-TW@商品資訊緩存
+237;en@Product category info|zh-CN@商品分类信息|zh-TW@商品分類資訊
+238;en@Navigation info cache|zh-CN@导航信息缓存|zh-TW@導航資訊緩存
+239;en@Skin cache|zh-CN@皮肤缓存|zh-TW@皮膚緩存
+240;en@Downloaded dictionaries|zh-CN@下载的词典|zh-TW@下載的詞典
+241;en@Downloaded skins|zh-CN@下载的皮肤|zh-TW@下載的皮膚
+242;en@Mail attachments|zh-CN@邮件附件|zh-TW@郵件附件
+243;en@Local books|zh-CN@本地的图书|zh-TW@本地的圖書
+244;en@Cover cache|zh-CN@封面缓存|zh-TW@封面緩存
+245;en@Downloaded singles|zh-CN@下载单曲|zh-TW@下載單曲
+246;en@Preview music|zh-CN@试听音乐|zh-TW@試聽音樂
+247;en@Skin|zh-CN@皮肤|zh-TW@皮膚
+248;en@Upgrade cache|zh-CN@升级缓存|zh-TW@升級緩存
+249;en@Compressed files|zh-CN@压缩的文件|zh-TW@壓縮的檔
+250;en@Decompressed files|zh-CN@解压缩的文件|zh-TW@解壓縮的檔
+251;en@Photos and videos taken|zh-CN@拍摄的照片和视频|zh-TW@拍攝的照片和視頻
+252;en@Downloaded packages|zh-CN@下载的套餐|zh-TW@下載的套餐
+253;en@Edited photos|zh-CN@编辑的照片|zh-TW@編輯的照片
+254;en@Music score cache|zh-CN@乐谱缓存|zh-TW@樂譜緩存
+255;en@User cache|zh-CN@用户缓存|zh-TW@用戶緩存
+256;en@Web video cache|zh-CN@网页视频缓存|zh-TW@網頁視頻緩存
+257;en@Picture message thumbnails|zh-CN@图片消息缩略图|zh-TW@圖片消息縮略圖
+258;en@Video messages|zh-CN@视频消息|zh-TW@視頻消息
+259;en@Profile picture|zh-CN@头像|zh-TW@頭像
+260;en@Follower profile picture|zh-CN@关注者的头像|zh-TW@關注者的頭像
+261;en@Previous profile pictures|zh-CN@用过的头像|zh-TW@用過的頭像
+262;en@Screenshot images|zh-CN@截屏图片|zh-TW@截屏圖片
+263;en@Downloaded video cache|zh-CN@下载的视频缓存|zh-TW@下載的視頻緩存
+264;en@Plug-in management cache|zh-CN@插件管理缓存|zh-TW@外掛程式管理緩存
+265;en@Downloaded PDF files|zh-CN@下载的pdf文件|zh-TW@下載的pdf文件
+266;en@Cached image cache|zh-CN@图片缓存缓存|zh-TW@圖片緩存緩存
+267;en@Downloaded magazines|zh-CN@下载的杂志|zh-TW@下載的雜誌
+268;en@Downloaded English pronunciations|zh-CN@下载的英语发音|zh-TW@下載的英語發音
+269;en@Chat background images|zh-CN@聊天背景图|zh-TW@聊天背景圖
+270;en@Image thumbnails|zh-CN@图片缩略图|zh-TW@圖片縮略圖
+271;en@Shared videos|zh-CN@分享的视频|zh-TW@分享的視頻
+272;en@Saved voice files|zh-CN@保存的语音文件|zh-TW@保存的語音檔
+273;en@Profile pictures and images|zh-CN@头像和图片|zh-TW@頭像和圖片
+274;en@Offline music cache|zh-CN@离线音乐缓存|zh-TW@離線音樂緩存
+275;en@Audio message history|zh-CN@音频消息记录|zh-TW@音訊消息記錄
+276;en@Downloaded attachments|zh-CN@下载的附件|zh-TW@下載的附件
+277;en@Playlists|zh-CN@播放列表|zh-TW@播放清單
+278;en@Emoji messages|zh-CN@表情消息|zh-TW@表情消息
+279;en@Picture message preview|zh-CN@图片消息预览图|zh-TW@圖片消息預覽圖
+280;en@Sticker caches|zh-CN@表情图片缓存|zh-TW@表情圖片緩存
+281;en@Chat backgrounds|zh-CN@聊天背景|zh-TW@聊天背景
+282;en@Chat background cache|zh-CN@聊天背景缓存|zh-TW@聊天背景緩存
+283;en@Text messages|zh-CN@文字消息|zh-TW@文字消息
+284;en@Plug-in image cache|zh-CN@插件图片缓存|zh-TW@外掛程式圖片緩存
+285;en@Offline news list|zh-CN@离线新闻列表|zh-TW@離線新聞列表
+286;en@Offline news|zh-CN@离线新闻|zh-TW@離線新聞
+287;en@Doodles|zh-CN@涂鸦作品|zh-TW@塗鴉作品
+288;en@Product images|zh-CN@商品图片|zh-TW@商品圖片
+289;en@Image cache and video thumbnails|zh-CN@图片缓存和视频缩略图|zh-TW@圖片緩存和視頻縮略圖
+290;en@Images from questions asked|zh-CN@提问中拍的图片|zh-TW@提問中拍的圖片
+291;en@Offline book cache|zh-CN@离线图书缓存|zh-TW@離線圖書緩存
+292;en@Job info|zh-CN@职位信息|zh-TW@職位信息
+293;en@Application cache|zh-CN@应用缓存|zh-TW@應用緩存
+294;en@Sticker caches|zh-CN@表情缓存|zh-TW@表情緩存
+295;en@Singer list photos|zh-CN@歌手列表的头像|zh-TW@歌手列表的頭像
+296;en@Profile picture and image cache|zh-CN@头像和图片缓存|zh-TW@頭像和圖片緩存
+297;en@Maps downloading|zh-CN@正在下载的地图|zh-TW@正在下載的地圖
+298;en@Downloaded map packs|zh-CN@下载的地图包|zh-TW@下載的地圖包
+299;en@Screenshots|zh-CN@截图|zh-TW@截圖
+300;en@Downloaded notification ringtones|zh-CN@下载的通知铃声|zh-TW@下載的通知鈴聲
+301;en@Broadcast thumbnails|zh-CN@广播缩略图|zh-TW@廣播縮略圖
+302;en@Online cache|zh-CN@在线缓存|zh-TW@線上緩存
+303;en@Video browsing history|zh-CN@视频浏览记录|zh-TW@視頻流覽記錄
+304;en@Cloud note images|zh-CN@云记事中的图片|zh-TW@雲記事中的圖片
+305;en@Page cache|zh-CN@页面缓存|zh-TW@頁面緩存
+306;en@Cloud note voice files|zh-CN@云记事中的语音|zh-TW@雲記事中的語音
+307;en@Downloaded periodicals|zh-CN@下载的期刊|zh-TW@下載的期刊
+308;en@Stickers|zh-CN@表情图片|zh-TW@表情圖片
+309;en@Local theme preview image|zh-CN@本地主题的预览图|zh-TW@本地主題的預覽圖
+310;en@Error log cache|zh-CN@错误日志缓存|zh-TW@錯誤日誌緩存
+311;en@Game icon and image cache|zh-CN@游戏图标和图片缓存|zh-TW@遊戲圖示和圖片緩存
+312;en@Downloaded game packs|zh-CN@下载的游戏包|zh-TW@下載的遊戲包
+313;en@Icons and images|zh-CN@图标及图片|zh-TW@圖示及圖片
+314;en@Temp file cache|zh-CN@临时文件缓存|zh-TW@暫存檔案緩存
+315;en@Broadcast voice files|zh-CN@播报的语音|zh-TW@播報的語音
+316;en@Class audio|zh-CN@课程音频|zh-TW@課程音訊
+317;en@Voice file cache|zh-CN@语音缓存|zh-TW@語音緩存
+318;en@Game resources|zh-CN@游戏资源|zh-TW@遊戲資源
+319;en@Login page images|zh-CN@登陆页面图片|zh-TW@登陸頁面圖片
+320;en@Offline video cache|zh-CN@离线视频缓存|zh-TW@離線視頻緩存
+321;en@Friend profile pictures|zh-CN@好友头像|zh-TW@好友頭像
+322;en@Strategy guide images|zh-CN@攻略图片|zh-TW@攻略圖片
+323;en@Article image cache|zh-CN@文章图片缓存|zh-TW@文章圖片緩存
+324;en@Downloaded media|zh-CN@下载的媒体|zh-TW@下載的媒體
+325;en@Images and audio|zh-CN@图片和音频|zh-TW@圖片和音訊
+326;en@Event log|zh-CN@事故记录|zh-TW@事故記錄
+327;en@Info and images|zh-CN@资讯和图片|zh-TW@資訊和圖片
+328;en@Downloaded weeklies|zh-CN@下载的周刊|zh-TW@下載的週刊
+329;en@Sound cache|zh-CN@声音缓存|zh-TW@聲音緩存
+330;en@Received images|zh-CN@接收的图片|zh-TW@接收的圖片
+331;en@Word pronunciation|zh-CN@单词发音|zh-TW@單詞發音
+332;en@Downloaded lock screen wallpaper|zh-CN@下载的锁屏壁纸|zh-TW@下載的鎖屏壁紙
+333;en@Images captured in notes|zh-CN@笔记中拍过的图片|zh-TW@筆記中拍過的圖片
+334;en@Photos captured in notes|zh-CN@笔记中拍过的照片|zh-TW@筆記中拍過的照片
+335;en@Evernote useful tips|zh-CN@印象最前线内容|zh-TW@印象最前線內容
+336;en@Note cache|zh-CN@笔记缓存|zh-TW@筆記緩存
+337;en@Cached audio recordings in notes|zh-CN@笔记中的录音缓存|zh-TW@筆記中的錄音緩存
+338;en@Map location cache|zh-CN@地图定位缓存|zh-TW@地圖定位緩存
+339;en@Downloaded audio|zh-CN@下载的音频|zh-TW@下載的音訊
+340;en@Recorded music|zh-CN@录制的音乐|zh-TW@錄製的音樂
+341;en@Cached image|zh-CN@缓存图片|zh-TW@緩存圖片
+342;en@Cached ad images|zh-CN@广告的图片缓存|zh-TW@廣告的圖片緩存
+343;en@Update cache|zh-CN@更新缓存|zh-TW@更新緩存
+344;en@Image and list cache|zh-CN@图片和列表缓存|zh-TW@圖片和清單緩存
+345;en@Music cache|zh-CN@歌曲缓存|zh-TW@歌曲緩存
+346;en@Stickers|zh-CN@表情|zh-TW@表情
+347;en@Music favorites|zh-CN@收藏的音乐|zh-TW@收藏的音樂
+348;en@Musical accompaniment|zh-CN@音乐伴奏|zh-TW@音樂伴奏
+349;en@Cached analysis|zh-CN@分析缓存|zh-TW@分析緩存
+350;en@Downloaded sounds|zh-CN@下载的声音|zh-TW@下載的聲音
+351;en@Call history|zh-CN@通话记录|zh-TW@通話記錄
+352;en@Profile picture previews|zh-CN@头像预览图|zh-TW@頭像預覽圖
+353;en@Profile picture thumbnails|zh-CN@头像缩略图|zh-TW@頭像縮略圖
+354;en@Downloaded ROMs|zh-CN@下载的roms|zh-TW@下載的roms
+355;en@Font previews|zh-CN@字体预览图|zh-TW@字體預覽圖
+356;en@Voice navigation log|zh-CN@导航语音记录|zh-TW@導航語音記錄
+357;en@Traffic info cache|zh-CN@路况信息缓存|zh-TW@路況資訊緩存
+358;en@Location cache|zh-CN@定位缓存|zh-TW@定位緩存
+359;en@Video recordings|zh-CN@录像|zh-TW@錄影
+360;en@Thumbnails|zh-CN@缩略图|zh-TW@縮略圖
+361;en@Product image cache|zh-CN@商品图片缓存|zh-TW@商品圖片緩存
+362;en@Downloaded background images|zh-CN@下载的背景图|zh-TW@下載的背景圖
+363;en@Downloaded decorations|zh-CN@下载的装饰图|zh-TW@下載的裝飾圖
+364;en@Browser cache|zh-CN@浏览缓存|zh-TW@流覽緩存
+365;en@Generated images|zh-CN@生成的图片|zh-TW@生成的圖片
+366;en@Downloaded Bibles|zh-CN@下载的圣经|zh-TW@下載的聖經
+367;en@Images from chat|zh-CN@聊天中的图片|zh-TW@聊天中的圖片
+368;en@Voice files from chat|zh-CN@聊天中的语音|zh-TW@聊天中的語音
+369;en@Game icons|zh-CN@游戏图标|zh-TW@遊戲圖示
+370;en@Font style cache|zh-CN@字体样式图片缓存|zh-TW@字體樣式圖片緩存
+371;en@Temp cache for downloaded skin packs|zh-CN@下载皮肤包临时缓存|zh-TW@下載皮膚包臨時緩存
+372;en@Lifestyle info icons|zh-CN@生活资讯图标|zh-TW@生活資訊圖示
+373;en@Real image cache|zh-CN@实景图片缓存|zh-TW@實景圖片緩存
+374;en@Downloaded voice packs|zh-CN@下载的语音包|zh-TW@下載的語音包
+375;en@Wallpaper thumbnail cache|zh-CN@壁纸缩略图缓存|zh-TW@壁紙縮略圖緩存
+376;en@Facebook cache|zh-CN@Facebook缓存|zh-TW@Facebook緩存
+377;en@Twitter cache|zh-CN@Twitter缓存|zh-TW@Twitter緩存
+378;en@User messages|zh-CN@用户消息|zh-TW@使用者消息
+379;en@Singer profile picture|zh-CN@歌手头像|zh-TW@歌手頭像
+380;en@User info|zh-CN@用户信息|zh-TW@使用者資訊
+381;en@Ad cached images|zh-CN@广告缓存图片|zh-TW@廣告緩存圖片
+382;en@Interface images|zh-CN@界面图片|zh-TW@介面圖片
+383;en@Screenshots|zh-CN@屏幕截图|zh-TW@螢幕截圖
+384;en@Application store cache|zh-CN@应用市场缓存|zh-TW@應用市場緩存
+385;en@Message cache|zh-CN@消息缓存|zh-TW@消息緩存
+386;en@Singer images|zh-CN@歌手图片|zh-TW@歌手圖片
+387;en@Downloaded MVs|zh-CN@下载的MV|zh-TW@下載的MV
+388;en@User profile picture cache|zh-CN@用户头像缓存|zh-TW@用戶頭像緩存
+389;en@Game sound effects|zh-CN@游戏音效|zh-TW@遊戲音效
+390;en@Game configuration files|zh-CN@游戏配置文件|zh-TW@遊戲設定檔
+391;en@Game images/data|zh-CN@游戏图片/数据|zh-TW@遊戲圖片/資料
+392;en@Cache files|zh-CN@缓存文件|zh-TW@快取檔案
+393;en@Game data cache|zh-CN@游戏数据缓存|zh-TW@遊戲數據緩存
+394;en@Downloaded plug-ins|zh-CN@下载的插件|zh-TW@下載的外掛程式
+395;en@Downloaded weather backgrounds|zh-CN@下载的天气背景|zh-TW@下載的天氣背景
+396;en@Downloaded characterized voices|zh-CN@下载的个性语音|zh-TW@下載的個性語音
+397;en@Topographic map cache|zh-CN@地形图片缓存|zh-TW@地形圖片緩存
+398;en@Plug-in installers|zh-CN@插件安装包|zh-TW@外掛程式安裝包
+399;en@Requested karaoke music|zh-CN@点唱的音乐|zh-TW@點唱的音樂
+400;en@Navigation cache|zh-CN@导航缓存|zh-TW@導航緩存
+401;en@Directory cache|zh-CN@目录缓存|zh-TW@目錄緩存
+402;en@Offline articles|zh-CN@离线文章|zh-TW@離線文章
+403;en@News cache|zh-CN@新闻缓存|zh-TW@新聞緩存
+404;en@HD images|zh-CN@清晰大图|zh-TW@清晰大圖
+405;en@Game icon cache|zh-CN@游戏图标缓存|zh-TW@遊戲圖示緩存
+406;en@Score history|zh-CN@得分记录|zh-TW@得分記錄
+407;en@Error log|zh-CN@错误日志|zh-TW@錯誤日誌
+408;en@Downloaded animated wallpapers|zh-CN@下载的动态壁纸|zh-TW@下載的動態壁紙
+409;en@Ads|zh-CN@广告|zh-TW@廣告
+410;en@Guitar audio|zh-CN@吉他音频|zh-TW@吉他音訊
+411;en@Saved songs|zh-CN@保存的歌曲|zh-TW@保存的歌曲
+412;en@Huaban travel images|zh-CN@花瓣旅行图片|zh-TW@花瓣旅行圖片
+413;en@Huaban illustrations|zh-CN@花瓣手绘插图|zh-TW@花瓣手繪插圖
+414;en@Huaban babe photos|zh-CN@花瓣美女图片|zh-TW@花瓣美女圖片
+415;en@Image of the day|zh-CN@今日焦点图片|zh-TW@今日焦點圖片
+416;en@Scenery images|zh-CN@场景图片|zh-TW@場景圖片
+417;en@Downloaded audio and video|zh-CN@下载的音视频|zh-TW@下載的音視頻
+418;en@Gift images|zh-CN@礼物图片|zh-TW@禮物圖片
+419;en@Photo album images|zh-CN@相册图片|zh-TW@相冊圖片
+420;en@Video themes and soundtracks|zh-CN@视频主题和配乐|zh-TW@視頻主題和配樂
+421;en@Downloaded materials|zh-CN@下载的素材|zh-TW@下載的素材
+422;en@Online desktop clock 1x2 previews|zh-CN@在线桌面时钟1x2预览图|zh-TW@線上桌面時鐘1x2預覽圖
+423;en@Online desktop clock 1x2 thumbnails|zh-CN@在线桌面时钟1x2缩略图|zh-TW@線上桌面時鐘1x2縮略圖
+424;en@Online desktop clock 2x2 previews|zh-CN@在线桌面时钟2x2预览图|zh-TW@線上桌面時鐘2x2預覽圖
+425;en@Online desktop clock 2x2 thumbnails|zh-CN@在线桌面时钟2x2缩略图|zh-TW@線上桌面時鐘2x2縮略圖
+426;en@Online desktop clock 2x4 previews|zh-CN@在线桌面时钟2x4预览图|zh-TW@線上桌面時鐘2x4預覽圖
+427;en@Online desktop clock 2x4 thumbnails|zh-CN@在线桌面时钟2x4缩略图|zh-TW@線上桌面時鐘2x4縮略圖
+428;en@Online desktop frame 2x4 previews|zh-CN@在线桌面相框2x4预览图|zh-TW@線上桌面相框2x4預覽圖
+429;en@Online desktop frame 2x4 thumbnails|zh-CN@在线桌面相框2x4缩略图|zh-TW@線上桌面相框2x4縮略圖
+430;en@Online desktop frame 4x4 previews|zh-CN@在线桌面相框4x4预览图|zh-TW@線上桌面相框4x4預覽圖
+431;en@Online desktop frame 4x4 thumbnails|zh-CN@在线桌面相框4x4缩略图|zh-TW@線上桌面相框4x4縮略圖
+432;en@Online boot animation previews|zh-CN@在线开机动画预览图|zh-TW@線上開機動畫預覽圖
+433;en@Online boot animation thumbnails|zh-CN@在线开机动画缩略图|zh-TW@線上開機動畫縮略圖
+434;en@Online dialer interface previews|zh-CN@在线拨号界面预览图|zh-TW@線上撥號介面預覽圖
+435;en@Online dialer interface thumbnails|zh-CN@在线拨号界面缩略图|zh-TW@線上撥號介面縮略圖
+436;en@Online font previews|zh-CN@在线字体预览图|zh-TW@線上字體預覽圖
+437;en@Online font banner images|zh-CN@在线字体标题图|zh-TW@線上字體標題圖
+438;en@Online font thumbnail cache|zh-CN@在线字体缩略图缓存|zh-TW@線上字體縮略圖緩存
+439;en@Online icon previews|zh-CN@在线图标预览图|zh-TW@線上圖示預覽圖
+440;en@Online icon banner images|zh-CN@在线图标标题图|zh-TW@線上圖示標題圖
+441;en@Online icon thumbnail cache|zh-CN@在线图标缩略图缓存|zh-TW@線上圖示縮略圖緩存
+442;en@Online desktop previews|zh-CN@在线桌面预览图|zh-TW@線上桌面預覽圖
+443;en@Online desktop thumbnail cache|zh-CN@在线桌面缩略图缓存|zh-TW@線上桌面縮略圖緩存
+444;en@Online lock screen wallpaper previews|zh-CN@在线锁屏壁纸预览图|zh-TW@線上鎖屏壁紙預覽圖
+445;en@Online lock screen wallpaper banner images|zh-CN@在线锁屏壁纸标题图|zh-TW@線上鎖屏壁紙標題圖
+446;en@Online Lock screen wallpaper thumbnail cache|zh-CN@在线锁屏壁纸缩略图缓存|zh-TW@線上鎖屏壁紙縮略圖緩存
+447;en@Online lock screen pattern previews|zh-CN@在线锁屏样式预览图|zh-TW@線上鎖屏樣式預覽圖
+448;en@Online lock screen pattern banner images|zh-CN@在线锁屏样式标题图|zh-TW@線上鎖屏樣式標題圖
+449;en@Online Lock screen pattern  thumbnail cache|zh-CN@在线锁屏样式缩略图缓存|zh-TW@線上鎖屏樣式縮略圖緩存
+450;en@Online variable wallpaper previews|zh-CN@在线百变壁纸预览图|zh-TW@線上百變壁紙預覽圖
+451;en@Online variable wallpaper thumbnails|zh-CN@在线百变壁纸缩略图|zh-TW@線上百變壁紙縮略圖
+452;en@Online SMS theme previews|zh-CN@在线短信主题预览图|zh-TW@線上短信主題預覽圖
+453;en@Online SMS theme thumbnail cache|zh-CN@在线短信主题缩略图缓存|zh-TW@線上短信主題縮略圖緩存
+454;en@Online notification ringtone banner images|zh-CN@在线通知铃声标题图|zh-TW@線上通知鈴聲標題圖
+455;en@Online ringtone banner images|zh-CN@在线铃声标题图|zh-TW@線上鈴聲標題圖
+456;en@Online notification previews|zh-CN@在线通知栏预览图|zh-TW@線上通知欄預覽圖
+457;en@Online notification thumbnail cache|zh-CN@在线通知栏缩略图缓存|zh-TW@線上通知欄縮略圖緩存
+458;en@Online theme previews|zh-CN@在线主题预览图|zh-TW@線上主題預覽圖
+459;en@Online theme banner images|zh-CN@在线主题标题图|zh-TW@線上主題標題圖
+460;en@Online theme thumbnail cache|zh-CN@在线主题缩略图缓存|zh-TW@線上主題縮略圖緩存
+461;en@Online wallpaper previews|zh-CN@在线桌面壁纸预览图|zh-TW@線上桌面壁紙預覽圖
+462;en@Online wallpaper banner images|zh-CN@在线桌面壁纸标题图|zh-TW@線上桌面壁紙標題圖
+463;en@Desktop wallpaper thumbnail cache|zh-CN@在线桌面壁纸缩略图缓存|zh-TW@線上桌面壁紙縮略圖緩存
+464;en@Downloaded books|zh-CN@下载的书|zh-TW@下載的書
+465;en@Operation cache|zh-CN@操作缓存|zh-TW@操作緩存
+466;en@Photo thumbnail cache|zh-CN@照片缩略图缓存|zh-TW@照片縮略圖緩存
+467;en@Camera effects images|zh-CN@相机特效图片|zh-TW@相機特效圖片
+468;en@Comic cache|zh-CN@漫画缓存|zh-TW@漫畫緩存
+469;en@Downloaded comics|zh-CN@下载的漫画|zh-TW@下載的漫畫
+470;en@RSS cache|zh-CN@RSS缓存|zh-TW@RSS緩存
+471;en@Received videos|zh-CN@接收的视频|zh-TW@接收的視頻
+472;en@Received documents|zh-CN@接收的文件|zh-TW@接收的文件
+473;en@Received contact cards|zh-CN@接收的联系人名片|zh-TW@接收的連絡人名片
+474;en@Received audio files|zh-CN@接收的音频文件|zh-TW@接收的音訊文件
+475;en@Received installers|zh-CN@接收的安装包|zh-TW@接收的安裝包
+476;en@Software icons|zh-CN@软件图标|zh-TW@軟體圖示
+477;en@Offline cache|zh-CN@离线缓存|zh-TW@離線緩存
+478;en@Font resources|zh-CN@字体资源|zh-TW@字體資源
+479;en@Data resources|zh-CN@数据资源|zh-TW@資料資源
+480;en@Display resources|zh-CN@展示资源|zh-TW@展示資源
+481;en@Music resources|zh-CN@音乐资源|zh-TW@音樂資源
+482;en@Text resources|zh-CN@文本资源|zh-TW@文本資源
+483;en@Web cache|zh-CN@Web缓存|zh-TW@Web緩存
+484;en@Web image cache|zh-CN@网页图片缓存|zh-TW@網頁圖片緩存
+485;en@Recently used photos|zh-CN@最近使用的照片|zh-TW@最近使用的照片
+486;en@Bank card icons|zh-CN@银行卡图标|zh-TW@銀行卡圖示
+487;en@Public number icons|zh-CN@公共号图标|zh-TW@公共號圖示
+488;en@Favorites cache|zh-CN@收藏夹缓存|zh-TW@我的最愛緩存
+489;en@Public number image cache|zh-CN@公共号图片缓存|zh-TW@公共號圖片緩存
+490;en@Game center image cache|zh-CN@游戏中心图片缓存|zh-TW@遊戲中心圖片緩存
+491;en@Photos taken|zh-CN@拍过的照片|zh-TW@拍過的照片
+492;en@Game image cache|zh-CN@游戏图片缓存|zh-TW@遊戲圖片緩存
+493;en@Public number voice file history|zh-CN@公共号语音记录|zh-TW@公共號語音記錄
+494;en@Network packet cache|zh-CN@网络包缓存|zh-TW@網路包緩存
+495;en@Voice prompt cache|zh-CN@提示语音缓存|zh-TW@提示語音緩存
+496;en@Tool cache|zh-CN@工具缓存|zh-TW@工具緩存
+497;en@Local log|zh-CN@本地日志|zh-TW@本地日誌
+498;en@Address cache|zh-CN@地址缓存|zh-TW@地址緩存
+499;en@Saved or captured images|zh-CN@保存或拍摄的图片|zh-TW@保存或拍攝的圖片
+500;en@Starred user icons|zh-CN@星标用户图标|zh-TW@星標使用者圖示
+501;en@Backup files|zh-CN@备份文件|zh-TW@備份檔案
+502;en@Configuration file cache|zh-CN@配置文件缓存|zh-TW@設定檔緩存
+503;en@Contact pictures|zh-CN@联系人图片|zh-TW@連絡人圖片
+504;en@Downloaded stickers data|zh-CN@下载的表情数据|zh-TW@下載的表情數據
+505;en@Downloaded stickers|zh-CN@下载的表情图片|zh-TW@下載的表情圖片
+506;en@Customized exclusive stickers|zh-CN@自制专属表情|zh-TW@自製專屬表情
+507;en@Downloaded exclusive sticker packs|zh-CN@下载的专属表情包|zh-TW@下載的專屬表情包
+508;en@Local audio recordings|zh-CN@本地录音|zh-TW@本地錄音
+509;en@Voice messages and profile pictures|zh-CN@语音消息和头像|zh-TW@語音訊息和頭像
+510;en@Uploaded videos|zh-CN@上传的视频|zh-TW@上傳的視頻
+511;en@Login log|zh-CN@登陆日志|zh-TW@登陸日誌
+512;en@Recommendation icons|zh-CN@精品推荐图标|zh-TW@精品推薦圖示
+513;en@Bookmark images|zh-CN@书签图片|zh-TW@書簽圖片
+514;en@Profile picture cache|zh-CN@头像缓存|zh-TW@頭像緩存
+515;en@Live telecast caches|zh-CN@直播缓存|zh-TW@直播緩存
+516;en@Transferred music|zh-CN@传输的音乐|zh-TW@傳輸的音樂
+517;en@Received installers|zh-CN@接受的安装包|zh-TW@接受的安裝包
+518;en@Received documents|zh-CN@接受的文件|zh-TW@接受的檔
+519;en@Received images|zh-CN@接受的图片|zh-TW@接受的圖片
+520;en@Offline reading cache|zh-CN@离线阅读缓存|zh-TW@離線閱讀緩存
+521;en@Private downloaded books|zh-CN@下载的隐私图书|zh-TW@下載的隱私圖書
+522;en@Login account|zh-CN@登录帐号|zh-TW@登錄帳號
+523;en@Program music|zh-CN@程序的音乐|zh-TW@程式的音樂
+524;en@Pronunciation cache|zh-CN@发音缓存|zh-TW@發音緩存
+525;en@Sent chat history|zh-CN@发送的对话记录|zh-TW@發送的對話記錄
+526;en@Chat history backup|zh-CN@备份的对话记录|zh-TW@備份的對話記錄
+527;en@Broadcast message|zh-CN@广播消息|zh-TW@廣播消息
+528;en@Media library images|zh-CN@媒体库图片|zh-TW@媒體庫圖片
+529;en@Image files|zh-CN@图片文件|zh-TW@圖片檔
+530;en@Photos|zh-CN@照片|zh-TW@照片
+531;en@OCR'd documents|zh-CN@OCR识别后的文档|zh-TW@OCR識別後的文檔
+532;en@Update files|zh-CN@更新文件|zh-TW@更新檔
+533;en@Cached books|zh-CN@图书的缓存|zh-TW@圖書的緩存
+534;en@Hot topic cache|zh-CN@热门专题缓存|zh-TW@熱門專題緩存
+535;en@Daily practice cache|zh-CN@每日一练缓存|zh-TW@每日一練緩存
+536;en@Test calendar cache|zh-CN@考试日历缓存|zh-TW@考試日曆緩存
+537;en@Listening comprehension cache|zh-CN@听力缓存|zh-TW@聽力緩存
+538;en@Featured application cache|zh-CN@推荐应用缓存|zh-TW@推薦應用緩存
+539;en@Downloaded data packets|zh-CN@下载的数据包|zh-TW@下載的數據包
+540;en@Book cover|zh-CN@书的封面|zh-TW@書的封面
+541;en@Video info|zh-CN@视频信息|zh-TW@視頻資訊
+542;en@Navigation data log|zh-CN@导航数据记录|zh-TW@導航資料記錄
+543;en@Subway maps|zh-CN@地铁图|zh-TW@地鐵圖
+544;en@Downloaded novels|zh-CN@下载的小说|zh-TW@下載的小說
+545;en@Saved torrents|zh-CN@保存的种子|zh-TW@保存的種子
+546;en@Downloaded stories|zh-CN@下载的故事|zh-TW@下載的故事
+547;en@Received videos|zh-CN@接受的视频|zh-TW@接受的視頻
+548;en@Dictionary data|zh-CN@词典数据|zh-TW@詞典數據
+549;en@Saved audio recordings|zh-CN@保存的录音|zh-TW@保存的錄音
+550;en@Downloaded installer|zh-CN@下载安装包|zh-TW@下載安裝包
+551;en@APK cache|zh-CN@APK缓存|zh-TW@APK緩存
+552;en@Photos not sent|zh-CN@拍完没发的照片|zh-TW@拍完沒發的照片
+553;en@Ad images|zh-CN@广告栏图片|zh-TW@廣告欄圖片
+554;en@Local books|zh-CN@本地图书|zh-TW@本地圖書
+555;en@Downloaded strategy guides|zh-CN@下载的攻略|zh-TW@下載的攻略
+556;en@Greeting card images|zh-CN@贺卡图片|zh-TW@賀卡圖片
+557;en@Video message thumbnails|zh-CN@视频消息缩略图|zh-TW@視頻消息縮略圖
+558;en@Configuration info cache|zh-CN@配置信息缓存|zh-TW@配置資訊緩存
+559;en@Voice navigation history|zh-CN@语音导航记录|zh-TW@語音瀏覽記錄
+560;en@Notes|zh-CN@笔记|zh-TW@筆記
+561;en@Media files in notes|zh-CN@笔记中的媒体文件|zh-TW@筆記中的媒體檔
+562;en@Login info|zh-CN@登陆信息|zh-TW@登陸信息
+563;en@Language packs downloading|zh-CN@下载中的语言包|zh-TW@下載中的語言包
+564;en@Downloaded language packs|zh-CN@下载的语言包|zh-TW@下載的語言包
+565;en@Downloaded listening comp books|zh-CN@下载的听力图书|zh-TW@下載的聽力圖書
+566;en@Query logs|zh-CN@查询记录|zh-TW@查詢記錄
+567;en@Saved barcodes|zh-CN@保存的条形码|zh-TW@保存的條碼
+568;en@Photo decorations|zh-CN@照片装饰物件|zh-TW@照片裝飾物件
+569;en@Audio recording files|zh-CN@录音文件|zh-TW@錄音文件
+570;en@Uploaded audio recordings|zh-CN@上传的录音|zh-TW@上傳的錄音
+571;en@Alarms operation log|zh-CN@闹钟操作记录|zh-TW@鬧鐘操作記錄
+572;en@Applied alarm backgrounds|zh-CN@设置的闹钟背景|zh-TW@設置的鬧鐘背景
+573;en@Ringtone images|zh-CN@铃声图片|zh-TW@鈴聲圖片
+574;en@Downloaded watermark library|zh-CN@下载的水印库|zh-TW@下載的浮水印庫
+575;en@Downloaded lexicon|zh-CN@下载的词库|zh-TW@下載的詞庫
+576;en@Downloaded pronunciation packs|zh-CN@下载的发声包|zh-TW@下載的發聲包
+577;en@WV file cache|zh-CN@wv缓存|zh-TW@wv緩存
+578;en@Saved tones|zh-CN@保存的铃音|zh-TW@保存的鈴音
+579;en@Videos failed to upload|zh-CN@上传失败的视频|zh-TW@上傳失敗的視頻
+580;en@Decoration templates|zh-CN@装饰模板|zh-TW@裝飾範本
+581;en@Recent photos|zh-CN@最近的照片|zh-TW@最近的照片
+582;en@Favorites list|zh-CN@收藏列表|zh-TW@收藏列表
+583;en@Ad images|zh-CN@广告图片|zh-TW@廣告圖片
+584;en@Imported wallpapers|zh-CN@已导入的壁纸|zh-TW@已導入的壁紙
+585;en@Backed-up wallpaper photos|zh-CN@备份的壁纸照片|zh-TW@備份的壁紙照片
+586;en@Frame thumbnail cache|zh-CN@相框缩略图缓存|zh-TW@相框縮略圖緩存
+587;en@Downloaded frames|zh-CN@下载的相框|zh-TW@下載的相框
+588;en@Saving history|zh-CN@保存的记录|zh-TW@保存的記錄
+589;en@Photo cache|zh-CN@照片缓存|zh-TW@照片緩存
+590;en@Downloaded software installers|zh-CN@下载的软件安装包|zh-TW@下載的軟體安裝包
+591;en@My greeting cards|zh-CN@制作的贺卡|zh-TW@製作的賀卡
+592;en@Greeting card audio recordings|zh-CN@录制的贺卡声音|zh-TW@錄製的賀卡聲音
+593;en@Viewed info cache|zh-CN@浏览过的信息缓存|zh-TW@流覽過的資訊緩存
+594;en@Saved games|zh-CN@保存的游戏|zh-TW@保存的遊戲
+595;en@Wallpaper favorites|zh-CN@收藏的壁纸|zh-TW@收藏的壁紙
+596;en@Subway info cache|zh-CN@地铁信息缓存|zh-TW@地鐵信息緩存
+597;en@Script cache|zh-CN@脚本缓存|zh-TW@腳本緩存
+598;en@Page style cache|zh-CN@页面样式缓存|zh-TW@頁面樣式緩存
+599;en@Share cache|zh-CN@分享缓存|zh-TW@分享緩存
+600;en@Navigation-generated map cache|zh-CN@导航产生的地图缓存|zh-TW@導航產生的地圖緩存
+601;en@Navigation log|zh-CN@导航日志|zh-TW@導航日誌
+602;en@Navigation temp cache|zh-CN@导航的临时缓存|zh-TW@導航的臨時緩存
+603;en@Navigation-generated cache|zh-CN@导航产生的缓存|zh-TW@導航產生的緩存
+604;en@Wallpaper preview images|zh-CN@壁纸预览图|zh-TW@壁紙預覽圖
+605;en@Downloaded translation packs|zh-CN@下载的翻译包|zh-TW@下載的翻譯包
+606;en@Photo thumbnails|zh-CN@照片缩略图|zh-TW@照片縮略圖
+607;en@Sentence pronunciation|zh-CN@句子发音|zh-TW@句子發音
+608;en@Test question images|zh-CN@测试题图片|zh-TW@測試題圖片
+609;en@Pictograph images|zh-CN@象形字图片|zh-TW@象形字圖片
+610;en@Optional share|zh-CN@自选股|zh-TW@自選股
+611;en@Info cache|zh-CN@资讯缓存|zh-TW@資訊緩存
+612;en@Scenic image cache|zh-CN@情景图片缓存|zh-TW@情景圖片緩存
+613;en@Offline novels|zh-CN@离线小说|zh-TW@離線小說
+614;en@Offline downloads|zh-CN@离线下载|zh-TW@離線下載
+615;en@Videos|zh-CN@视频|zh-TW@視頻
+616;en@Received documents|zh-CN@接收的文档|zh-TW@接收的文檔
+617;en@Game history|zh-CN@游戏记录|zh-TW@遊戲記錄
+618;en@Downloaded songs|zh-CN@下载的歌曲|zh-TW@下載的歌曲
+619;en@Downloaded guides|zh-CN@下载的锦囊|zh-TW@下載的錦囊
+620;en@Guides being downloaded|zh-CN@正在下载的锦囊|zh-TW@正在下載的錦囊
+621;en@Download cache|zh-CN@下载缓存|zh-TW@下載緩存
+622;en@Doodle images|zh-CN@涂鸦图片|zh-TW@塗鴉圖片
+623;en@Maps|zh-CN@地图|zh-TW@地圖
+624;en@Location list|zh-CN@地点列表|zh-TW@地點列表
+625;en@Downloaded system update packages|zh-CN@下载的系统更新包|zh-TW@下載的系統更新包
+626;en@Music files|zh-CN@音乐文件|zh-TW@音樂檔
+627;en@Images saved to phone|zh-CN@保存到手机的图|zh-TW@保存到手機的圖
+628;en@Local photo album thumbnails|zh-CN@本地相册缩略图|zh-TW@本地相冊縮略圖
+629;en@Book cover art cache|zh-CN@图书封面缓存|zh-TW@圖書封面緩存
+630;en@News content cache|zh-CN@新闻内容缓存|zh-TW@新聞內容緩存
+631;en@Special effect cache|zh-CN@特效缓存|zh-TW@特效緩存
+632;en@Record images|zh-CN@唱片图片|zh-TW@唱片圖片
+633;en@Internet cache|zh-CN@上网缓存|zh-TW@上網緩存
+634;en@Downloaded templates|zh-CN@下载的模板|zh-TW@下載的範本
+635;en@Cache generated by image enhancement|zh-CN@美化图片产生的缓存|zh-TW@美化圖片產生的緩存
+636;en@Cache generated by portrait enhancement|zh-CN@人像美容产生的缓存|zh-TW@人像美容產生的緩存
+637;en@Enhancement tool cache|zh-CN@美化工具缓存|zh-TW@美化工具緩存
+638;en@Material preview cache|zh-CN@素材预览图缓存|zh-TW@素材預覽圖緩存
+639;en@Downloaded special effects|zh-CN@下载的特效|zh-TW@下載的特效
+640;en@Downloaded simple frame|zh-CN@下载的简单边框|zh-TW@下載的簡單邊框
+641;en@Downloaded rainbow frame|zh-CN@下载的炫彩边框|zh-TW@下載的炫彩邊框
+642;en@Downloaded speech bubbles|zh-CN@下载的会话气泡|zh-TW@下載的會話氣泡
+643;en@Downloaded Marseilles-style design|zh-CN@下载的马赛色样式|zh-TW@下載的馬賽色樣式
+644;en@Downloaded poster puzzle frame|zh-CN@下载的海报拼图边框|zh-TW@下載的海報拼圖邊框
+645;en@Downloaded freestyle screen backgrounds|zh-CN@下载的自由屏幕背景|zh-TW@下載的自由螢幕背景
+646;en@Downloaded puzzle frames|zh-CN@下载的拼图边框|zh-TW@下載的拼圖邊框
+647;en@Speech bubble effect cache|zh-CN@会话气泡图效缓存|zh-TW@會話氣泡圖效緩存
+648;en@Puzzle frame effect cache|zh-CN@拼图边框图效缓存|zh-TW@拼圖邊框圖效緩存
+649;en@Poster puzzle frame effect cache|zh-CN@海报拼图边框图效缓存|zh-TW@海報拼圖邊框圖效緩存
+650;en@Freestyle screen background effect cache|zh-CN@自由屏幕背景图效缓存|zh-TW@自由螢幕背景圖效緩存
+651;en@Grid effect cache|zh-CN@九宫切图图效缓存|zh-TW@九宮切圖圖效緩存
+652;en@Simple frame effect cache|zh-CN@简单边框图效缓存|zh-TW@簡單邊框圖效緩存
+653;en@Mosaic effect cache|zh-CN@马赛克图效缓存|zh-TW@馬賽克圖效緩存
+654;en@Rainbow frame effect cache|zh-CN@炫彩边框图效缓存|zh-TW@炫彩邊框圖效緩存
+655;en@Puzzle-generated cache|zh-CN@拼图产生的缓存|zh-TW@拼圖產生的緩存
+656;en@Database cache|zh-CN@数据库缓存|zh-TW@資料庫緩存
+657;en@New weekly images|zh-CN@每周新图|zh-TW@每週新圖
+658;en@Downloaded application installers|zh-CN@下载的应用安装包|zh-TW@下載的應用安裝包
+659;en@Downloaded audio files|zh-CN@下载的音频文件|zh-TW@下載的音訊檔
+660;en@Downloaded listening comp files|zh-CN@下载的听力|zh-TW@下載的聽力
+661;en@Chat images|zh-CN@聊天图片|zh-TW@聊天圖片
+662;en@Name card photos|zh-CN@名片照片|zh-TW@名片照片
+663;en@Shake-and-capture screenshot images|zh-CN@甩动截屏保存的图片|zh-TW@甩動截屏保存的圖片
+664;en@Privacy vault files|zh-CN@隐私空间文件|zh-TW@隱私空間檔
+665;en@App icon cache|zh-CN@App图标缓存|zh-TW@App圖示緩存
+666;en@Splash screen image cache|zh-CN@启动画面图片缓存|zh-TW@啟動畫面圖片緩存
+667;en@Tool icon cache|zh-CN@工具图标缓存|zh-TW@工具圖示緩存
+668;en@News favorites|zh-CN@收藏的新闻|zh-TW@收藏的新聞
+669;en@Info cache|zh-CN@信息缓存|zh-TW@信息緩存
+670;en@Covers and icons|zh-CN@封面和图标|zh-TW@封面和圖示
+671;en@Video info cache|zh-CN@视频信息缓存|zh-TW@視頻資訊緩存
+672;en@Call recordings|zh-CN@通话录音|zh-TW@通話錄音
+673;en@Cached music|zh-CN@缓存的音乐|zh-TW@緩存的音樂
+674;en@Shared game accomplishments|zh-CN@分享的闯关结果|zh-TW@分享的闖關結果
+675;en@Cached video|zh-CN@缓存的视频|zh-TW@緩存的視頻
+676;en@Station images|zh-CN@电台图片|zh-TW@電臺圖片
+677;en@Saved animated emojis|zh-CN@保存的动态表情|zh-TW@保存的動態表情
+678;en@Viewed text|zh-CN@浏览过的文字|zh-TW@流覽過的文字
+679;en@Music cover art cache|zh-CN@音乐封面缓存|zh-TW@音樂封面緩存
+680;en@Downloaded music lyrics|zh-CN@下载的音乐歌词|zh-TW@下載的音樂歌詞
+681;en@Previewed/downloaded music|zh-CN@听过/下载的音乐|zh-TW@聽過/下載的音樂
+682;en@Text  favorites|zh-CN@收藏的文字内容|zh-TW@收藏的文字內容
+683;en@Upgrade files|zh-CN@升级文件|zh-TW@升級檔
+684;en@Offline maps|zh-CN@离线地图|zh-TW@離線地圖
+685;en@Downloaded e-books|zh-CN@下载的电子书|zh-TW@下載的電子書
+686;en@Friendship photo wall|zh-CN@交友照片墙|zh-TW@交友照片牆
+687;en@Class notes|zh-CN@课堂笔记|zh-TW@課堂筆記
+688;en@History|zh-CN@历史记录|zh-TW@歷史記錄
+689;en@Recent images|zh-CN@最近的图片|zh-TW@最近的圖片
+690;en@Downloaded driving tutorial videos|zh-CN@下载的学车视频|zh-TW@下載的學車視頻
+691;en@Downloaded documents|zh-CN@下载的文档|zh-TW@下載的文檔
+692;en@Torrents|zh-CN@种子文件|zh-TW@種子文件
+693;en@Documents uploading|zh-CN@正在上传的文件|zh-TW@正在上傳的文件
+694;en@Cloud album images|zh-CN@云相册图片|zh-TW@雲相冊圖片
+695;en@Application list cache|zh-CN@应用列表缓存|zh-TW@應用列表緩存
+696;en@Photo album thumbnail cache|zh-CN@相册缩略图缓存|zh-TW@相冊縮略圖緩存
+697;en@Channel icons|zh-CN@频道图标|zh-TW@頻道圖示
+698;en@Chat history|zh-CN@聊天记录|zh-TW@聊天記錄
+699;en@Top charts|zh-CN@排行榜|zh-TW@排行榜
+700;en@Profile picture cache|zh-CN@头图缓存|zh-TW@頭圖緩存
+701;en@Search history|zh-CN@搜索历史|zh-TW@搜索歷史
+702;en@Online music image and list cache|zh-CN@在线音乐图片和列表缓存|zh-TW@線上音樂圖片和清單緩存
+703;en@Lyric cache|zh-CN@歌词缓存|zh-TW@歌詞緩存
+704;en@Offline song cache|zh-CN@离线歌曲缓存|zh-TW@離線歌曲緩存
+705;en@Station icon cache|zh-CN@电台图标缓存|zh-TW@電臺圖示緩存
+706;en@MV channels|zh-CN@MV频道|zh-TW@MV頻道
+707;en@Edit downloaded background|zh-CN@编辑下载的底图|zh-TW@編輯下載的底圖
+708;en@Offline MVs|zh-CN@离线MV|zh-TW@離線MV
+709;en@Saved documents|zh-CN@保存的文档|zh-TW@保存的文檔
+710;en@Installer cache|zh-CN@安装包缓存|zh-TW@安裝包緩存
+711;en@Article list cache|zh-CN@文章列表缓存|zh-TW@文章列表緩存
+712;en@Articles  favorites|zh-CN@收藏的文章|zh-TW@收藏的文章
+713;en@Saved warning tones|zh-CN@保存的警告音|zh-TW@保存的警告音
+714;en@Saved ringtones|zh-CN@保存的铃声|zh-TW@保存的鈴聲
+715;en@Saved music|zh-CN@保存的音乐|zh-TW@保存的音樂
+716;en@Saved notification tones|zh-CN@保存的通知音|zh-TW@保存的通知音
+717;en@label|zh-CN@label|zh-TW@label
+718;en@Transferred installers|zh-CN@传送的安装包|zh-TW@傳送的安裝包
+719;en@Received application installers|zh-CN@接收的应用安装包|zh-TW@接收的應用安裝包
+720;en@Received music|zh-CN@接收的音乐|zh-TW@接收的音樂
+721;en@Desktop widget image cache|zh-CN@桌面小工具图片缓存|zh-TW@桌面小工具圖片緩存
+722;en@Cover image cache|zh-CN@封面图片缓存|zh-TW@封面圖片緩存
+723;en@Full-size picture messages|zh-CN@大图消息|zh-TW@大圖消息
+724;en@Location information|zh-CN@位置信息|zh-TW@位置資訊
+725;en@Rainfall distribution maps|zh-CN@雨水分布图|zh-TW@雨水分佈圖
+726;en@Sent images|zh-CN@发过的图片|zh-TW@發過的圖片
+727;en@Artist images|zh-CN@艺术家图片|zh-TW@藝術家圖片
+728;en@Images and icons|zh-CN@图片和图标|zh-TW@圖片和圖示
+729;en@Streetview cache|zh-CN@街景缓存|zh-TW@街景緩存
+730;en@Weather cache|zh-CN@天气缓存|zh-TW@天氣緩存
+731;en@Favorited photo history|zh-CN@收藏照片的记录|zh-TW@收藏照片的記錄
+732;en@Saved stickers|zh-CN@保存的表情|zh-TW@保存的表情
+733;en@Saved comics|zh-CN@保存的漫画|zh-TW@保存的漫畫
+734;en@Downloaded theme wallpapers|zh-CN@下载的主题壁纸|zh-TW@下載的主題壁紙
+735;en@News image cache|zh-CN@新闻中的图片缓存|zh-TW@新聞中的圖片緩存
+736;en@Recommended softwares|zh-CN@推荐的软件|zh-TW@推薦的軟體
+737;en@Subscribed channel cache|zh-CN@订阅频道的缓存|zh-TW@訂閱頻道的緩存
+738;en@Offline channel info|zh-CN@离线的频道消息|zh-TW@離線的頻道消息
+739;en@Material images|zh-CN@素材图片|zh-TW@素材圖片
+740;en@Book cover images|zh-CN@图书封面图片|zh-TW@圖書封面圖片
+741;en@Reading-generated data files|zh-CN@阅读产生的数据文件|zh-TW@閱讀產生的資料檔案
+742;en@Kernel backup|zh-CN@内核备份|zh-TW@內核備份
+743;en@Video snapshots|zh-CN@视频快照|zh-TW@視頻快照
+744;en@Game music|zh-CN@游戏音乐|zh-TW@遊戲音樂
+745;en@Game maps|zh-CN@游戏地图|zh-TW@遊戲地圖
+746;en@Novel content|zh-CN@小说内容|zh-TW@小說內容
+747;en@E-book covers|zh-CN@电子书封面|zh-TW@電子書封面
+748;en@Cache directories|zh-CN@缓存目录|zh-TW@緩存目錄
+749;en@Recommended application downloads|zh-CN@推荐的应用下载|zh-TW@推薦的應用下載
+750;en@Downloaded instructional material|zh-CN@下载的教材|zh-TW@下載的教材
+751;en@Music|zh-CN@音乐|zh-TW@音樂
+752;en@Saved documents|zh-CN@储存的文档|zh-TW@儲存的文檔
+753;en@Database files|zh-CN@数据库文件|zh-TW@資料庫檔
+754;en@Data files|zh-CN@数据文件|zh-TW@資料檔案
+755;en@Shared files|zh-CN@分享过的文件|zh-TW@分享過的文件
+756;en@Offline books|zh-CN@离线书籍|zh-TW@離線書籍
+757;en@Downloaded books|zh-CN@下载的书籍|zh-TW@下載的書籍
+758;en@Ad thumbnail cache|zh-CN@广告缩略图缓存|zh-TW@廣告縮略圖緩存
+759;en@Book covers|zh-CN@书籍封面|zh-TW@書籍封面
+760;en@Game files|zh-CN@游戏文件|zh-TW@遊戲檔
+761;en@Preview image cache|zh-CN@图片预览图缓存|zh-TW@圖片預覽圖緩存
+762;en@Custom fonts|zh-CN@自定义的字体|zh-TW@自訂的字體
+763;en@Illustrated book images|zh-CN@绘本图片|zh-TW@繪本圖片
+764;en@Online music preview cache|zh-CN@在线试听缓存|zh-TW@線上試聽緩存
+765;en@Offline readings|zh-CN@离线阅读|zh-TW@離線閱讀
+766;en@Video profile cache|zh-CN@视频简介缓存|zh-TW@視頻簡介緩存
+767;en@Movie cover images|zh-CN@电影封面图片|zh-TW@電影封面圖片
+768;en@GIF images|zh-CN@GIF图片|zh-TW@GIF圖片
+769;en@Viewed images|zh-CN@浏览的图片|zh-TW@流覽的圖片
+770;en@Images from downloaded articles|zh-CN@下载的文章的图片|zh-TW@下載的文章的圖片
+771;en@Evernote useful tips messages|zh-CN@印象最前线的消息|zh-TW@印象最前線的消息
+772;en@Backed-up applications|zh-CN@备份的应用|zh-TW@備份的應用
+773;en@Photo wallpapers|zh-CN@照片壁纸|zh-TW@照片壁紙
+774;en@QR code cache|zh-CN@二维码缓存|zh-TW@二維碼緩存
+775;en@Downloaded alarms|zh-CN@下载的闹钟|zh-TW@下載的鬧鐘
+776;en@Whitelist files|zh-CN@白名单文件|zh-TW@白名單文件
+777;en@8-second videos taken|zh-CN@拍摄的8秒钟视频|zh-TW@拍攝的8秒鐘視頻
+778;en@Purchased game gears|zh-CN@购买的道具|zh-TW@購買的道具
+779;en@Link cache|zh-CN@链接缓存|zh-TW@連結緩存780;en@Abnormal Information|zh-CN@异常信息|zh-TW@異常訊息
+781;en@Accompany|zh-CN@伴奏|zh-TW@伴奏
+782;en@Accompany Cache|zh-CN@伴奏缓存|zh-TW@伴奏緩存
+783;en@Account Images|zh-CN@账目图片|zh-TW@帳目圖片
+784;en@Account Information|zh-CN@账号信息|zh-TW@帳號訊息
+785;en@Achievements recording cache|zh-CN@闯关录音缓存|zh-TW@闖關錄音緩存
+786;en@Activity Images|zh-CN@活动图片|zh-TW@活動圖片
+787;en@Ad Bar Images|zh-CN@广告栏图片|zh-TW@廣告欄圖片
+788;en@Ad Cached Images|zh-CN@广告缓存图片|zh-TW@廣告緩存圖片
+793;en@Ad Images|zh-CN@广告图片|zh-TW@廣告圖片
+789;en@Added birthday data|zh-CN@添加的生日|zh-TW@添加的生日
+790;en@Added images|zh-CN@添加的图片|zh-TW@添加的圖片
+791;en@Added recording|zh-CN@添加的录音|zh-TW@添加的錄音
+792;en@Added subscription|zh-CN@添加的订阅|zh-TW@添加的訂閱
+795;en@Advert Icon Cache|zh-CN@广告图标缓存|zh-TW@廣告圖示緩存
+796;en@Advert Image Cache|zh-CN@广告图片缓存|zh-TW@廣告圖片緩存
+797;en@Alarm clock background|zh-CN@闹钟背景图|zh-TW@鬧鐘背景圖
+798;en@Alarm created|zh-CN@设置的闹钟|zh-TW@設置的鬧鐘
+799;en@alarm ring|zh-CN@闹钟铃声|zh-TW@鬧鐘鈴聲
+800;en@Album Covers|zh-CN@专辑封面|zh-TW@專輯封面
+801;en@Album Images|zh-CN@专辑图片|zh-TW@專輯圖片
+802;en@Album Large Image Preview|zh-CN@相册大图预览|zh-TW@相冊大圖預覽
+803;en@Album Previews|zh-CN@相册预览图|zh-TW@相冊預覽圖
+804;en@Album Small-size Image Preview|zh-CN@相册小图预览|zh-TW@相冊小圖預覽
+805;en@Album Thumbnail|zh-CN@相册缩略图|zh-TW@相冊縮圖
+806;en@Album thumbnails|zh-CN@专辑缩略图|zh-TW@專輯縮圖
+809;en@Anim config Cache|zh-CN@彩蛋缓存|zh-TW@彩蛋緩存
+807;en@Animated Wallpaper Cache|zh-CN@动态图片缓存|zh-TW@動態圖片緩存
+808;en@Animated Wallpapers Downloading|zh-CN@下载中的动态壁纸|zh-TW@下載中的動態壁紙
+810;en@APK|zh-CN@安装包|zh-TW@安裝包
+811;en@APKs|zh-CN@传输的安装包|zh-TW@傳輸的安裝包
+813;en@App data files|zh-CN@程序数据文件|zh-TW@程式資料檔案
+814;en@app detail image|zh-CN@应用详情图片缓存|zh-TW@應用詳情圖片緩存
+815;en@App Icon Cache|zh-CN@推荐应用图片缓存|zh-TW@推薦應用圖片緩存
+816;en@App Info|zh-CN@应用信息|zh-TW@應用訊息
+812;en@AppCenter Cache|zh-CN@应用中心缓存|zh-TW@應用中心緩存
+817;en@Application Cache Images|zh-CN@应用缓存图|zh-TW@應用緩存圖
+818;en@Application Center Image Cache|zh-CN@应用中心图片缓存|zh-TW@應用中心圖片緩存
+819;en@Application details page cache|zh-CN@应用详情页缓存|zh-TW@應用詳情頁緩存
+820;en@Application Icon|zh-CN@应用图标|zh-TW@應用圖示
+821;en@Application Icon cache|zh-CN@应用图标缓存|zh-TW@應用圖示緩存
+822;en@Application Icon Favorite|zh-CN@收藏夹应用图标|zh-TW@我的最愛應用圖示
+823;en@Application Icons Uninstalled|zh-CN@未安装应用图标|zh-TW@未安裝應用圖示
+824;en@Application Images|zh-CN@应用图片|zh-TW@應用圖片
+825;en@Application List Cache|zh-CN@应用列表缓存|zh-TW@應用列表緩存
+826;en@Application Recommendation|zh-CN@应用推荐|zh-TW@應用推薦
+827;en@Application Recommendation Cache|zh-CN@应用推荐缓存|zh-TW@應用推薦緩存
+828;en@Application Thumbnails|zh-CN@应用缩略图|zh-TW@應用縮圖
+829;en@Applied Alarm Backgrounds|zh-CN@设置的闹钟背景|zh-TW@設置的鬧鐘背景
+830;en@Applied Background Images|zh-CN@设置的背景图|zh-TW@設置的背景圖
+831;en@Applied Backgrounds|zh-CN@设置的背景|zh-TW@設置的背景
+832;en@Applied Chat Background Images|zh-CN@设置的聊天背景图|zh-TW@設置的聊天背景圖
+833;en@Applied Chat Backgrounds|zh-CN@设置的聊天背景|zh-TW@設置的聊天背景
+834;en@Applied Skin|zh-CN@设置的皮肤|zh-TW@設置的背景
+835;en@APPS|zh-CN@恢复的安装包|zh-TW@恢復的安裝包
+836;en@Article Cache|zh-CN@文章缓存|zh-TW@文章緩存
+837;en@Artwork Cache|zh-CN@壁纸插图|zh-TW@壁紙插圖
+838;en@Attachment cache|zh-CN@笔记中的附件缓存|zh-TW@筆記中的附件緩存
+839;en@Attachments added|zh-CN@添加的附件|zh-TW@添加的附件
+840;en@Attachments adding|zh-CN@添加中的附件|zh-TW@添加中的附件
+841;en@Attachments cache|zh-CN@附件产生缓存|zh-TW@附件產生緩存
+842;en@Audio|zh-CN@音频|zh-TW@音訊
+844;en@Audio data|zh-CN@语音数据|zh-TW@語音資料
+845;en@Audio Downloading|zh-CN@下载中的音频|zh-TW@下載中的音訊
+846;en@Audio files|zh-CN@声音文件|zh-TW@音效檔
+847;en@Audio Files|zh-CN@音频文件|zh-TW@音訊檔
+848;en@Audio Material|zh-CN@音频素材|zh-TW@音訊素材
+849;en@Audio message cache|zh-CN@语音消息缓存|zh-TW@語音訊息緩存
+850;en@Audio Recording Caches in Notes|zh-CN@笔记中的录音缓存|zh-TW@筆記中的錄音緩存
+851;en@Audio Recording Files|zh-CN@录音文件|zh-TW@錄音文件
+852;en@Audio Recordings|zh-CN@录音|zh-TW@錄音
+853;en@Audio sample|zh-CN@音频示例|zh-TW@音訊範例
+854;en@Auto backup files|zh-CN@自动备份文件|zh-TW@自動備份檔案
+855;en@Avatar and ad Cache|zh-CN@头像及广告缓存|zh-TW@頭像及廣告緩存
+856;en@Baby Name Pronunciation|zh-CN@宝宝名字发音|zh-TW@寶寶名字發音
+857;en@Backed-up Camera Images|zh-CN@备份的相机图片|zh-TW@備份的相機圖片
+858;en@Backed-up Data Files|zh-CN@备份的数据文件|zh-TW@備份的資料檔案
+859;en@Backed-up events|zh-CN@备份的事件|zh-TW@備份的活動
+860;en@Backed-up Files|zh-CN@备份的文件|zh-TW@備份的檔案
+861;en@Backed-up Friend List|zh-CN@备份的朋友列表|zh-TW@備份的朋友列表
+862;en@Backed-up Independent Chat History|zh-CN@备份的独立聊天记录|zh-TW@備份的獨立聊天記錄
+864;en@Backed-up Photos|zh-CN@备份的照片|zh-TW@備份的照片
+865;en@Backed-up Singer Info|zh-CN@备份的歌手信息|zh-TW@備份的歌手資料
+867;en@Background Cache|zh-CN@壁纸背景图|zh-TW@背景圖
+866;en@Background cache|zh-CN@背景缓存|zh-TW@背景緩存
+868;en@Background Cache Uploaded by Users|zh-CN@|zh-TW@用戶上傳的背景緩存
+869;en@Background Data|zh-CN@背景数据|zh-TW@背景數據
+870;en@Background Data Cache|zh-CN@背景数据缓存|zh-TW@背景數據緩存
+871;en@Background Image Cache|zh-CN@背景图缓存|zh-TW@背景圖緩存
+872;en@Background image of settings|zh-CN@设置的背景图片|zh-TW@設置的背景圖片
+873;en@Background Images|zh-CN@背景图片|zh-TW@背景圖片
+874;en@Background Images Set by the User|zh-CN@用户设置的背景图|zh-TW@用戶設置的背景圖
+875;en@Background Picture Cache|zh-CN@背景图片缓存|zh-TW@背景圖片緩存
+877;en@Background Thumbnails|zh-CN@背景缩略图|zh-TW@背景縮圖
+878;en@Background Uploaded by Users|zh-CN@用户上传的背景|zh-TW@用戶上傳的背景
+876;en@Backgrounds|zh-CN@背景|zh-TW@背景
+879;en@Backup|zh-CN@备份|zh-TW@備份
+880;en@Backup calendar|zh-CN@备份的日历|zh-TW@備份的日曆
+881;en@Backup calls|zh-CN@备份的通话记录|zh-TW@備份的通話記錄
+882;en@Backup contact|zh-CN@备份的联系人|zh-TW@備份的連絡人
+883;en@Backup Data|zh-CN@备份数据|zh-TW@備份資料
+885;en@Backup image thumbnails|zh-CN@备份图片缩略图|zh-TW@備份圖片縮圖
+886;en@Backup Set Data|zh-CN@备份的设置数据|zh-TW@備份的設置資料
+887;en@Backup Sms|zh-CN@备份的短信|zh-TW@備份的簡訊
+888;en@Backups of native files|zh-CN@备份的本地文件|zh-TW@備份的本地檔
+889;en@Basic information|zh-CN@基本信息|zh-TW@基本資訊
+890;en@Bass recording|zh-CN@贝斯录音|zh-TW@貝斯錄音
+892;en@Bill images|zh-CN@账单图片|zh-TW@帳單圖片
+891;en@Billboard Image Cache|zh-CN@宣传栏图片缓存|zh-TW@宣傳欄圖片緩存
+893;en@Bios Archive|zh-CN@bios档案|zh-TW@Bios檔案
+894;en@Book Banner Recommendation Icon|zh-CN@图书标题推荐图标|zh-TW@圖書標題推薦圖示
+895;en@Book Cover|zh-CN@书籍封面|zh-TW@書籍封面
+896;en@Book Cover Cache|zh-CN@书籍封面缓存|zh-TW@書籍封面緩存
+897;en@Book Covers|zh-CN@图书封面|zh-TW@圖書封面
+898;en@Book Covers Cache|zh-CN@图书封面缓存|zh-TW@圖書封面緩存
+899;en@Book Directory|zh-CN@书籍目录|zh-TW@書籍目錄
+900;en@Book Info News Images|zh-CN@书讯新闻图片|zh-TW@書訊新聞圖片
+901;en@Book List Icon|zh-CN@图书书单图标|zh-TW@圖書書單圖示
+902;en@Bookmark backup|zh-CN@备份的书签|zh-TW@備份的書籤
+903;en@Bookmark Cache|zh-CN@书签缓存|zh-TW@書籤緩存
+904;en@Books|zh-CN@书籍文件|zh-TW@書籍文件
+905;en@Books Downloading|zh-CN@下载中的书籍|zh-TW@下載中的書籍
+906;en@Bookshelf Book Covers|zh-CN@书架书籍封面|zh-TW@書架書籍封面
+907;en@Bookshelf Cover Images|zh-CN@书架封面图片|zh-TW@書架封面圖片
+908;en@Boot Image|zh-CN@引导图片|zh-TW@引導圖片
+909;en@Boutique Icon Cache|zh-CN@精品屋图标缓存|zh-TW@精品屋圖示緩存
+910;en@Box Clould Storage|zh-CN@box云存储|zh-TW@box雲存儲
+911;en@Browsed albums cache|zh-CN@相册浏览缓存|zh-TW@相冊瀏覽緩存
+912;en@Browsed image cache|zh-CN@浏览过的图片缓存|zh-TW@瀏覽過的圖片緩存
+913;en@Browser Bookmarks|zh-CN@浏览器书签|zh-TW@瀏覽器書籤
+914;en@Browser Cache|zh-CN@浏览缓存|zh-TW@瀏覽緩存
+915;en@Browsing History|zh-CN@浏览记录|zh-TW@瀏覽記錄
+916;en@Built-in e-books|zh-CN@系统自带图书|zh-TW@系統自帶圖書
+917;en@Built-in material|zh-CN@自带的素材|zh-TW@自帶的素材
+918;en@Business Card|zh-CN@名片备注图片|zh-TW@名片備註圖片
+919;en@Business Cards Details|zh-CN@名片详细资料|zh-TW@名片詳細資料
+920;en@cache|zh-CN@云相册缓存|zh-TW@雲端相冊緩存
+921;en@Cache|zh-CN@缓存|zh-TW@緩存
+927;en@Cache Files|zh-CN@缓存文件|zh-TW@緩存檔案
+928;en@Cache for Browsing Recipes|zh-CN@浏览菜谱的缓存|zh-TW@瀏覽菜譜的緩存
+929;en@Cache Generated by Collages|zh-CN@拼贴图产生的缓存|zh-TW@拼貼圖產生的緩存
+930;en@Cache Generated by Download|zh-CN@下载产生的缓存|zh-TW@下載產生的緩存
+931;en@Cache Generated by Image Edit|zh-CN@编辑图片产生的缓存|zh-TW@編輯圖片產生的緩存
+932;en@Cache Generated By Image Enhancement|zh-CN@美化图片产生的缓存|zh-TW@美化圖片產生的緩存
+933;en@Cache Generated by Portrait Enhancement|zh-CN@人像美容产生的缓存|zh-TW@人像美容產生的緩存
+934;en@Cache generated by sharing|zh-CN@分享产生的缓存|zh-TW@分享產生的緩存
+935;en@Cache Listening|zh-CN@收听缓存|zh-TW@收聽緩存
+936;en@Cache Log|zh-CN@缓存日志|zh-TW@緩存日誌
+923;en@Cached Images|zh-CN@缓存图片|zh-TW@緩存圖片
+924;en@Cached Info|zh-CN@缓存信息|zh-TW@緩存訊息
+925;en@Cached Lyrics|zh-CN@缓存的歌词|zh-TW@緩存的歌詞
+926;en@Cached Music|zh-CN@缓存的音乐|zh-TW@緩存的音樂
+937;en@Caches of Album Uploaded Images|zh-CN@相册上传图片缓存|zh-TW@相冊上傳圖片緩存
+942;en@Call Recording Files|zh-CN@通话录音文件|zh-TW@通話錄音檔
+943;en@Call Recordings|zh-CN@通话录音|zh-TW@通話錄音
+938;en@Caller and Dialer Id Display Style|zh-CN@来去电显示风格|zh-TW@來去電顯示風格
+939;en@Calling Image|zh-CN@拨号图片|zh-TW@撥號圖片
+940;en@Calling Image Cache|zh-CN@拨号图片缓存|zh-TW@撥號圖片緩存
+941;en@Call log backup|zh-CN@通话记录备份|zh-TW@通話記錄備份
+944;en@Camera Plugins Zips|zh-CN@相机插件压缩包|zh-TW@相機外掛程式壓縮檔
+948;en@Car Images|zh-CN@汽车图片|zh-TW@汽車圖片
+945;en@Card Holder Backup|zh-CN@名片夹备份|zh-TW@名片夾備份
+946;en@Card Holder Images|zh-CN@名片夹图片|zh-TW@名片夾圖片
+947;en@Cards Cache|zh-CN@贺卡缓存|zh-TW@賀卡緩存
+949;en@Catalog Cover Cache|zh-CN@目录封面缓存|zh-TW@目錄封面緩存
+950;en@Catalog Image Cache|zh-CN@目录图片缓存|zh-TW@目錄圖片緩存
+951;en@Categories cache|zh-CN@分类缓存|zh-TW@分類緩存
+952;en@Cell Screenshot Images|zh-CN@手机截屏图片|zh-TW@手機截圖
+953;en@Certificate Photo|zh-CN@证件照片|zh-TW@證件照片
+954;en@Change Wallpapers|zh-CN@换壁纸|zh-TW@換桌面背景
+955;en@Channel Cache|zh-CN@频道缓存|zh-TW@頻道緩存
+956;en@Character Images|zh-CN@人物图片|zh-TW@人物圖片
+957;en@Character On File|zh-CN@人物存档|zh-TW@人物存檔
+958;en@Chat Backgrounds|zh-CN@聊天背景|zh-TW@聊天背景
+959;en@Chat Dialog Images|zh-CN@聊天对话框图片|zh-TW@聊天對話框圖片
+960;en@Chat History|zh-CN@聊天记录|zh-TW@聊天記錄
+961;en@Chatting app cache|zh-CN@聊吧缓存|zh-TW@聊吧緩存
+962;en@Chatting audio|zh-CN@聊天语音|zh-TW@聊天語音
+963;en@Chatting images|zh-CN@聊天的图片|zh-TW@聊天的圖片
+964;en@Chatting video|zh-CN@聊天的视频|zh-TW@聊天的視頻
+965;en@Cheat Code Files|zh-CN@作弊码文件|zh-TW@作弊碼文件
+966;en@Christmas Stamps|zh-CN@圣诞贴图|zh-TW@聖誕貼圖
+967;en@City Offline Data|zh-CN@城市离线数据|zh-TW@城市離線資料
+968;en@Clad assistant|zh-CN@穿衣助手|zh-TW@穿衣助手
+969;en@Client Script Framework|zh-CN@客户端脚本框架|zh-TW@用戶端指令碼框架
+970;en@Clock Weather Skins|zh-CN@时钟天气皮肤|zh-TW@時鐘天氣背景
+971;en@Cloud Backup|zh-CN@云端备份|zh-TW@雲端備份
+972;en@cloud files|zh-CN@云端文件|zh-TW@雲端文件
+973;en@Cloud Photo Album Images|zh-CN@云相册图片|zh-TW@雲相冊圖片
+974;en@Cloud Photo Album Thumbnails|zh-CN@云相册缩略图|zh-TW@雲相冊縮圖
+975;en@Cloud Reading Cache|zh-CN@云阅读缓存|zh-TW@雲閱讀緩存
+976;en@Code-scan cache|zh-CN@扫码缓存|zh-TW@掃碼緩存
+977;en@collected cover|zh-CN@收藏图书封面|zh-TW@收藏圖書封面
+978;en@Collection history|zh-CN@收藏记录|zh-TW@收藏記錄
+979;en@Collection of card images|zh-CN@收藏的卡片图片|zh-TW@收藏的卡片圖片
+980;en@Collection words|zh-CN@收集词库|zh-TW@收集詞庫
+981;en@Comics in reading|zh-CN@查看中的漫画|zh-TW@查看中的漫畫
+982;en@Comments|zh-CN@评论|zh-TW@評論
+983;en@Component image cache|zh-CN@组件图片缓存|zh-TW@元件圖片緩存
+984;en@Compressed Files|zh-CN@压缩的文件|zh-TW@壓縮檔
+985;en@Conference Recording|zh-CN@会议录音|zh-TW@會議錄音
+986;en@Configuration Cache|zh-CN@配置缓存|zh-TW@配置緩存
+987;en@Configuration Data|zh-CN@配置数据|zh-TW@配置資料
+988;en@Configuration Files|zh-CN@配置文件|zh-TW@設定檔
+989;en@Configuration Info Cache|zh-CN@配置信息缓存|zh-TW@配置資訊緩存
+990;en@Configuration Resources|zh-CN@配置资源|zh-TW@配置資源
+991;en@Connect|zh-CN@联系人|zh-TW@連絡人
+992;en@Contact Pictures|zh-CN@联系人图片|zh-TW@連絡人圖片
+993;en@Contact Profile Pictures|zh-CN@联系人头像|zh-TW@連絡人頭像
+994;en@Contacts backed-up|zh-CN@联系人备份|zh-TW@連絡人備份
+995;en@Contacts Backup|zh-CN@通讯录备份|zh-TW@通訊錄備份
+996;en@coupon|zh-CN@优惠券|zh-TW@優惠券
+997;en@course' zip|zh-CN@课件包|zh-TW@使用說明
+998;en@Cover Cache|zh-CN@封面缓存|zh-TW@封面緩存
+999;en@Cover Icon|zh-CN@封面图标|zh-TW@封面圖示
+1000;en@Cover Image|zh-CN@封面图片|zh-TW@封面圖片
+1001;en@Cover Image Cache|zh-CN@封面图片缓存|zh-TW@封面圖片緩存
+1002;en@Cover opened cache images|zh-CN@开启封面缓存图|zh-TW@開啟封面緩存圖
+1003;en@Crash Log|zh-CN@崩溃日志|zh-TW@崩潰日誌
+1004;en@Create Levels|zh-CN@编辑的游戏等级|zh-TW@編輯的遊戲等級
+1005;en@Current Theme Data|zh-CN@当前主题数据|zh-TW@當前主題資料
+1006;en@Custom Background|zh-CN@自定义聊天背景|zh-TW@自訂聊天背景
+1007;en@Custom Fonts|zh-CN@自定义字体|zh-TW@自訂字體
+1008;en@Customized Emoticons|zh-CN@自定义的表情|zh-TW@自訂表情
+1009;en@Customized Lock Screen Images|zh-CN@自定义锁屏图片|zh-TW@自訂鎖屏圖片
+1010;en@Customized Skin|zh-CN@自定义皮肤|zh-TW@自訂背景
+1011;en@Customized Wallpapers|zh-CN@自定义壁纸|zh-TW@自訂壁紙
+1017;en@Data Cache|zh-CN@数据缓存|zh-TW@數據緩存
+1018;en@Data Downloading|zh-CN@下载中的数据|zh-TW@下載中的資料
+1019;en@Data File|zh-CN@数据文件|zh-TW@資料檔案
+1020;en@Data Incompletely Downloaded|zh-CN@未完成下载的数据|zh-TW@未完成下載的數據
+1021;en@Data level|zh-CN@等级数据|zh-TW@等級資料
+1022;en@Data Packs|zh-CN@数据包|zh-TW@數據包
+1023;en@Data Packs Downloading|zh-CN@下载中的数据包|zh-TW@下載中的資料包
+1024;en@Data Pushing Cache|zh-CN@推送数据缓存|zh-TW@推送數據緩存
+1025;en@Data Resources|zh-CN@数据资源|zh-TW@資料資源
+1014;en@Database Cache|zh-CN@数据库缓存|zh-TW@資料庫緩存
+1015;en@Database Files|zh-CN@数据库文件|zh-TW@資料庫檔案
+1016;en@Databases|zh-CN@数据库|zh-TW@資料庫
+1026;en@Decoration Images|zh-CN@装饰图片|zh-TW@裝飾圖片
+1027;en@Default voice|zh-CN@默认语音文件|zh-TW@預設語音檔
+1028;en@Demanded Songs|zh-CN@点播的歌曲|zh-TW@點播的歌曲
+1029;en@Demo books|zh-CN@试读图书|zh-TW@試讀圖書
+1030;en@Desktop Backups|zh-CN@桌面备份|zh-TW@桌面備份
+1031;en@device info|zh-CN@设备信息|zh-TW@設備資訊
+1032;en@dictionary data|zh-CN@字典数据|zh-TW@字典資料
+1033;en@Dictionary Data|zh-CN@词典数据|zh-TW@詞典資廖
+1034;en@Dictionary database data|zh-CN@字典资料库数据|zh-TW@字典資料庫資料
+1035;en@Dictionary Explanation Packs|zh-CN@字典详解补丁|zh-TW@字典詳解更新檔
+1036;en@Dictionary Pronunciation Data|zh-CN@词典发音数据|zh-TW@詞典發音數據
+1037;en@Directory Cache|zh-CN@目录缓存|zh-TW@目錄緩存
+1038;en@Directory Image|zh-CN@目录图片|zh-TW@目錄圖片
+1039;en@DIY Animated Icons|zh-CN@diy的动态表情|zh-TW@DIY的動態表情
+1040;en@DIY effect|zh-CN@自定义的音效|zh-TW@自訂的音效
+1041;en@DIY Emotion cache|zh-CN@DIY表情缓存|zh-TW@DIY表情緩存
+1042;en@DIY Map Cache|zh-CN@DIY贴图的缓存|zh-TW@DIY貼圖的緩存
+1043;en@DIY Map Note Cache|zh-CN@DIY贴图的笔画缓存|zh-TW@DIY貼圖的筆劃緩存
+1044;en@DIY picture|zh-CN@保存的diy图片|zh-TW@保存的DIY圖片
+1045;en@DIY skin|zh-CN@DIY的皮肤|zh-TW@DIY的背景
+1046;en@DIY Voice|zh-CN@DIY的语音|zh-TW@DIY的語音
+1047;en@DIY Ringtone|zh-CN@diy的铃声|zh-TW@DIY的鈴聲
+1048;en@DIY Music Keyboard|zh-CN@diy音乐键盘|zh-TW@DIY音樂鍵盤
+1049;en@Documents|zh-CN@文档|zh-TW@文件
+1050;en@Doodle Image Preview|zh-CN@涂鸦图片预览|zh-TW@塗鴉圖片預覽
+1051;en@Download Cache|zh-CN@下载缓存|zh-TW@下載緩存
+1178;en@Download filters|zh-CN@下载的滤镜|zh-TW@下載的濾鏡
+1179;en@download hairstyle package|zh-CN@下载的发型包|zh-TW@下載的髮型包
+1180;en@Download Images|zh-CN@下载图片|zh-TW@下載圖片
+1187;en@Download Keyboard|zh-CN@下载的键盘|zh-TW@下載的鍵盤
+1188;en@download media|zh-CN@下载的媒体文件|zh-TW@下載的媒體文件
+1189;en@download offline map|zh-CN@下载的离线地图|zh-TW@下載的離線地圖
+1190;en@Download Previews|zh-CN@下载预览图|zh-TW@下載預覽圖
+1191;en@Download puzzle backgrounds|zh-CN@下载的拼图背景|zh-TW@下載的拼圖背景
+1192;en@Download screensavers|zh-CN@下载的屏保|zh-TW@下載的螢幕保護程式
+1193;en@download subway map|zh-CN@下载的地铁地图|zh-TW@下載的地鐵地圖
+1194;en@Download Tasks|zh-CN@下载的任务|zh-TW@下載的任務
+1196;en@Download the scene pictures|zh-CN@下载的情景图片|zh-TW@下載的情景圖片
+1195;en@Download Theme Stickers|zh-CN@下载主题贴纸|zh-TW@下載主題貼紙
+1074;en@Downloaded  cartoon stickers|zh-CN@下载的卡通大头贴|zh-TW@下載的卡通大頭貼
+1052;en@Downloaded Ability Cultivation Games|zh-CN@下载的能力培养游戏|zh-TW@下載的能力培養遊戲
+1053;en@Downloaded Accessory Images|zh-CN@下载的饰物图片|zh-TW@下載的裝飾品圖片
+1054;en@Downloaded Accessory Previews|zh-CN@下载的饰物预览|zh-TW@下載的裝飾品預覽
+1055;en@Downloaded Accompany|zh-CN@下载的伴奏|zh-TW@下載的伴奏
+1056;en@Downloaded action|zh-CN@下载的动作|zh-TW@下載的動作
+1057;en@Downloaded Animated Emoticons|zh-CN@下载的动图表情|zh-TW@下載的動態表情
+1058;en@Downloaded Animated Wallpapers|zh-CN@下载的动态壁纸|zh-TW@下載的動態背景
+1059;en@Downloaded articles and hearings|zh-CN@下载的文章和听力|zh-TW@下載的文章和聽力
+1060;en@Downloaded Attachments|zh-CN@下载的附件|zh-TW@下載的附件
+1061;en@Downloaded audio|zh-CN@下载的音效|zh-TW@下載的音效
+1062;en@Downloaded Audio|zh-CN@下载的音频|zh-TW@下載的音訊
+1063;en@Downloaded Audio Programs|zh-CN@下载的音频节目|zh-TW@下載的音訊節目
+1065;en@Downloaded audio stories|zh-CN@下载的故事音频|zh-TW@下載的故事音訊
+1064;en@Downloaded Audios and Images|zh-CN@下载的音频和图片|zh-TW@下載的音訊和圖片
+1066;en@Downloaded Background Cache Images|zh-CN@下载的背景缓存图片|zh-TW@下載的背景緩存圖片
+1067;en@Downloaded Background Images|zh-CN@下载的背景图|zh-TW@下載的背景圖
+1068;en@Downloaded Background Mode Preview|zh-CN@下载的背景模式预览|zh-TW@下載的背景模式預覽
+1069;en@Downloaded Background Preview|zh-CN@下载的背景预览|zh-TW@下載的背景預覽
+1070;en@Downloaded Backgrounds|zh-CN@下载的背景|zh-TW@下載的背景
+1071;en@Downloaded Bibles|zh-CN@下载的圣经|zh-TW@下載的聖經
+1073;en@Downloaded Books|zh-CN@下载的图书|zh-TW@下載的圖書
+1075;en@Downloaded Characterized Voices|zh-CN@下载的个性语音|zh-TW@下載的個性語音
+1076;en@Downloaded Chat Backgrounds|zh-CN@下载的聊天背景|zh-TW@下載的聊天背景
+1077;en@Downloaded Cloud Disk Images|zh-CN@下载的云盘图片|zh-TW@下載的雲盤圖片
+1078;en@Downloaded Comics|zh-CN@下载的漫画|zh-TW@下載的漫畫
+1079;en@Downloaded comics cover|zh-CN@下载的漫画封面|zh-TW@下載的漫畫封面
+1080;en@Downloaded Comics Images|zh-CN@下载的漫画图片|zh-TW@下載的漫畫圖片
+1081;en@Downloaded Comics Preview|zh-CN@下载的漫画预览|zh-TW@下載的漫畫預覽
+1082;en@Downloaded Coupon|zh-CN@下载的优惠券|zh-TW@下載的優惠券
+1083;en@Downloaded Crossroad Amplification Image|zh-CN@下载的路口放大图|zh-TW@下載的路口放大圖
+1084;en@Downloaded Data|zh-CN@下载的数据|zh-TW@下載的數據
+1085;en@Downloaded Data Packs|zh-CN@下载的数据包|zh-TW@下載的數據包
+1086;en@Downloaded Decoration Images|zh-CN@下载的装饰图|zh-TW@下載的裝飾圖
+1087;en@Downloaded Desktop Themes|zh-CN@下载的桌面主题|zh-TW@下載的桌面主題
+1088;en@Downloaded Dictionaries|zh-CN@下载的字典|zh-TW@下載的字典
+1089;en@Downloaded DJ media|zh-CN@下载的DJ节目|zh-TW@下載的DJ節目
+1090;en@Downloaded Documents|zh-CN@下载的文档|zh-TW@下載的檔案
+1092;en@Downloaded Emoticon Packs|zh-CN@下载的表情包|zh-TW@下載的表情包
+1093;en@Downloaded Emoticons|zh-CN@下载的表情|zh-TW@下載的表情
+1094;en@Downloaded Files|zh-CN@下载的文件|zh-TW@下載的文件
+1095;en@Downloaded Font Images|zh-CN@下载的字体图片|zh-TW@下載的字體圖片
+1096;en@Downloaded Fonts|zh-CN@下载的字体|zh-TW@下載的字體
+1097;en@Downloaded Fonts Preview|zh-CN@下载的字体预览|zh-TW@下載的字體預覽
+1098;en@Downloaded Frame|zh-CN@下载的边框|zh-TW@下載的邊框
+1099;en@Downloaded Frame Images|zh-CN@下载的相框图片|zh-TW@下載的相框圖片
+1100;en@Downloaded Frame Previews|zh-CN@下载的相框预览|zh-TW@下載的相框預覽
+1101;en@Downloaded Frames|zh-CN@下载的相框|zh-TW@下載的相框
+1102;en@Downloaded Freestyle Puzzle Backgrounds|zh-CN@下载的自由拼图背景|zh-TW@下載的自由拼圖背景
+1103;en@Downloaded funny sound effects|zh-CN@下载的趣味声效|zh-TW@下載的趣味聲效
+1104;en@Downloaded Game Packs|zh-CN@下载的游戏包|zh-TW@下載的遊戲包
+1106;en@Downloaded Game Simulator|zh-CN@下载的游戏模拟器|zh-TW@下載的遊戲模擬器
+1105;en@Downloaded Games|zh-CN@下载的游戏|zh-TW@下載的遊戲
+1107;en@Downloaded gif effects|zh-CN@下载的gif特效|zh-TW@下載的gif特效
+1109;en@Downloaded Input Pattern|zh-CN@下载的输入方式|zh-TW@下載的輸入方式
+1110;en@Downloaded Installers|zh-CN@下载的安装包|zh-TW@下載的安裝包
+1111;en@Downloaded Lexicon|zh-CN@下载的词库|zh-TW@下載的詞庫
+1112;en@Downloaded Lock Screen Data|zh-CN@下载的锁屏数据|zh-TW@下載的鎖屏數據
+1113;en@Downloaded lyrics|zh-CN@下载的歌词|zh-TW@下載的歌詞
+1114;en@Downloaded Magazines|zh-CN@下载的杂志|zh-TW@下載的雜誌
+1115;en@Downloaded Mail Attachments|zh-CN@下载的邮件附件|zh-TW@下載的郵件附件
+1116;en@Downloaded Map Data|zh-CN@下载的地图数据|zh-TW@下載的地圖資料
+1117;en@Downloaded Map Packs|zh-CN@下载的地图包|zh-TW@下載的地圖包
+1118;en@Downloaded Maps|zh-CN@下载的地图|zh-TW@下載的地圖
+1119;en@downloaded material|zh-CN@下载的素材图片|zh-TW@下載的素材圖片
+1120;en@Downloaded Material Archives|zh-CN@下载的资料档案|zh-TW@下載的資料檔案
+1121;en@Downloaded material packages|zh-CN@下载中的素材包|zh-TW@下載中的素材包
+1122;en@Downloaded Materials|zh-CN@下载的素材|zh-TW@下載的素材
+1123;en@Downloaded Menu|zh-CN@下载的菜谱|zh-TW@下載的食譜
+1124;en@Downloaded Metro Database|zh-CN@下载的地铁数据库|zh-TW@下載的地鐵資料庫
+1125;en@Downloaded Metro Map|zh-CN@下载的地铁图|zh-TW@下載的地鐵圖
+1126;en@Downloaded More Files|zh-CN@下载的其它文件|zh-TW@下載的其它文件
+1128;en@Downloaded music|zh-CN@下载中的音乐|zh-TW@下載中的音樂
+1129;en@Downloaded Music|zh-CN@下载的音乐|zh-TW@下載的音樂
+1130;en@Downloaded Music Videos|zh-CN@下载的音乐视频|zh-TW@下載的音樂視頻
+1131;en@Downloaded MVs|zh-CN@下载的MV|zh-TW@下載的MV
+1132;en@Downloaded Notification Ringtones|zh-CN@下载的通知铃声|zh-TW@下載的通知鈴聲
+1133;en@Downloaded Novels|zh-CN@下载的小说|zh-TW@下載的小說
+1134;en@Downloaded Offline Data|zh-CN@下载的离线数据|zh-TW@下載的離線數據
+1135;en@Downloaded Periodicals|zh-CN@下载的期刊|zh-TW@下載的期刊
+1136;en@Downloaded Plug-ins|zh-CN@下载的插件|zh-TW@下載的外掛程式
+1137;en@Downloaded poster|zh-CN@下载的海报|zh-TW@下載的海報
+1138;en@Downloaded Private Books|zh-CN@下载的隐私图书|zh-TW@下載的隱藏圖書
+1139;en@Downloaded Puzzle Frame|zh-CN@下载的拼图相框|zh-TW@下載的拼圖相框
+1140;en@Downloaded puzzle template|zh-CN@下载的拼图模板|zh-TW@下載的拼圖範本
+1141;en@Downloaded realistic images|zh-CN@下载的实景图|zh-TW@下載的實景圖
+1142;en@Downloaded Resources|zh-CN@下载的资源|zh-TW@下載的資源
+1143;en@Downloaded ringtone|zh-CN@缓存的铃声|zh-TW@緩存的鈴聲
+1144;en@Downloaded Ringtones|zh-CN@下载的铃声|zh-TW@下載的鈴聲
+1145;en@Downloaded Rom|zh-CN@下载的固件|zh-TW@下載的固件
+1146;en@Downloaded ROMs|zh-CN@下载的刷机包|zh-TW@下載的刷機包
+1147;en@Downloaded scenario data|zh-CN@下载的情景数据|zh-TW@下載的情景數據
+1148;en@Downloaded Singer Pictures|zh-CN@下载的歌手图片|zh-TW@下載的歌手圖片
+1149;en@Downloaded Skins|zh-CN@下载的皮肤|zh-TW@下載的背景
+1151;en@Downloaded Sounds|zh-CN@下载的声音|zh-TW@下載的音效
+1152;en@Downloaded Stickers|zh-CN@下载的贴图|zh-TW@下載的貼圖
+1153;en@Downloaded Stories|zh-CN@下载的故事|zh-TW@下載的故事
+1154;en@Downloaded System Background Images|zh-CN@下载的系统背景图片|zh-TW@下載的系統背景圖片
+1155;en@Downloaded Talking Books|zh-CN@下载的有声书籍|zh-TW@下載的有聲書籍
+1156;en@Downloaded templates|zh-CN@下载的模版|zh-TW@下載的樣版
+1157;en@Downloaded Templates|zh-CN@下载的模板|zh-TW@下載的範本
+1158;en@Downloaded temporary data|zh-CN@下载临时数据|zh-TW@下載臨時數據
+1159;en@Downloaded Texts|zh-CN@下载的文本|zh-TW@下載的文本
+1160;en@Downloaded Theme apk|zh-CN@下载的主题包|zh-TW@下載的主題包
+1161;en@Downloaded Theme Resource Packs|zh-CN@下载的主题资源包|zh-TW@下載的主題資源包
+1163;en@Downloaded Theme Wallpapers|zh-CN@下载的主题壁纸|zh-TW@下載的主題背景
+1162;en@Downloaded Themes|zh-CN@下载的主题|zh-TW@下載的主題
+1164;en@Downloaded Translation Packs|zh-CN@下载的翻译包|zh-TW@下載的翻譯包
+1165;en@Downloaded Underpainting Images|zh-CN@下载的底纹图片|zh-TW@下載的網底圖片
+1166;en@Downloaded Underpainting Previews|zh-CN@下载的底纹预览|zh-TW@下載的網底預覽
+1167;en@Downloaded updating APKs|zh-CN@升级的安装包|zh-TW@升級的安裝包
+1168;en@Downloaded Video Courses|zh-CN@下载的视频课程|zh-TW@下載的視頻課程
+1169;en@Downloaded Videos|zh-CN@下载的视频|zh-TW@下載的視頻
+1170;en@Downloaded Voice|zh-CN@下载的语音|zh-TW@下載的語音
+1171;en@Downloaded Voice Alarms|zh-CN@下载的语音闹钟|zh-TW@下載的語音鬧鐘
+1172;en@Downloaded Voice Data|zh-CN@下载的语音数据|zh-TW@下載的語音資料
+1173;en@Downloaded Voice Navigation|zh-CN@下载的语音导航|zh-TW@下載的語音導航
+1174;en@Downloaded Voice Pack|zh-CN@下载的语音包|zh-TW@下載的語音包
+1175;en@Downloaded Wallpapers|zh-CN@下载的壁纸|zh-TW@下載的背景
+1176;en@Downloaded Weather Backgrounds|zh-CN@下载的天气背景|zh-TW@下載的天氣背景
+1177;en@Downloaded Words|zh-CN@下载的单词|zh-TW@下載的單字
+1181;en@Downloading comics|zh-CN@下载中的漫画|zh-TW@下載中的漫畫
+1182;en@Downloading dictionaries|zh-CN@下载中的词典|zh-TW@下載中的詞典
+1183;en@Downloading files|zh-CN@下载中的文件|zh-TW@下載中的文件
+1184;en@Downloading map data|zh-CN@下载中的地图数据|zh-TW@下載中的地圖資料
+1185;en@Downloading MV|zh-CN@下载中MV|zh-TW@下載中MV
+1186;en@Downloading Stickers|zh-CN@下载中的贴纸|zh-TW@下載中的貼圖
+1197;en@Drafts|zh-CN@发送中的图片|zh-TW@發送中的圖片
+1198;en@Drafts Cache|zh-CN@草稿箱缓存|zh-TW@草稿箱緩存
+1199;en@Drawing Notes|zh-CN@绘图记事|zh-TW@繪圖記事
+1200;en@Dropbox Cloud Storage|zh-CN@dropbox云存储|zh-TW@Dropbox雲端硬碟
+1201;en@Drum recording|zh-CN@鼓机录音|zh-TW@鼓機錄音
+1202;en@Dynamic Effect Cache|zh-CN@动态效果缓存|zh-TW@動態效果緩存
+1204;en@E-book Cache|zh-CN@电子书缓存|zh-TW@電子書緩存
+1203;en@E-book cache|zh-CN@图书缓存|zh-TW@圖書緩存
+1205;en@E-book Illustrations|zh-CN@电子书插图|zh-TW@電子書插圖
+1211;en@Edit photo thumbnails|zh-CN@编辑图片缩略图|zh-TW@編輯圖片縮圖
+1206;en@Editable image created|zh-CN@生成的可编辑图片文件|zh-TW@生成的可編輯圖片檔
+1207;en@Edited Photos|zh-CN@编辑过的照片|zh-TW@編輯過的照片
+1208;en@edited ring|zh-CN@剪辑的铃声|zh-TW@剪輯的鈴聲
+1209;en@Editing Documents|zh-CN@编辑中的文档|zh-TW@編輯中的文檔
+1210;en@Editing Images|zh-CN@编辑图片|zh-TW@編輯圖片
+1212;en@Effect Picture Cache Taken|zh-CN@拍摄的效果图缓存|zh-TW@拍攝的效果圖緩存
+1213;en@Effects previews|zh-CN@效果预览图|zh-TW@效果預覽圖
+1214;en@Electronic Eye Data|zh-CN@电子眼数据|zh-TW@電子眼資料
+1215;en@Emoticon Animated Images|zh-CN@表情动图|zh-TW@表情動圖
+1216;en@Emoticon History Profile|zh-CN@表情历史头像|zh-TW@表情歷史頭像
+1217;en@Emoticon Naming|zh-CN@表情命名|zh-TW@表情命名
+1219;en@Emotion Previews Cache|zh-CN@表情预览图缓存|zh-TW@表情預覽圖緩存
+1222;en@Encrypt File|zh-CN@加密文件|zh-TW@加密文件
+1220;en@Encrypted file|zh-CN@加密的文件|zh-TW@加密的文件
+1221;en@Encrypted Images|zh-CN@加密的图片|zh-TW@加密的圖片
+1223;en@Encryption Pictures|zh-CN@加密图片|zh-TW@加密圖片
+1224;en@Entrance Images|zh-CN@入口图片|zh-TW@入口圖片
+1225;en@Error Data Cache|zh-CN@错误数据缓存|zh-TW@錯誤資料緩存
+1226;en@Error File|zh-CN@错误文件|zh-TW@錯誤文件
+1227;en@Error Log|zh-CN@错误日志|zh-TW@錯誤日誌
+1228;en@Error Log Cache|zh-CN@错误日志缓存|zh-TW@錯誤日誌緩存
+1229;en@Error reports|zh-CN@错误报告|zh-TW@錯誤報告
+1230;en@Essence Recommendation Cache|zh-CN@精品推荐缓存|zh-TW@精品推薦緩存
+1231;en@event video|zh-CN@事件视频|zh-TW@事件視頻
+1232;en@Exported Chat History|zh-CN@导出的聊天记录|zh-TW@匯出的聊天記錄
+1233;en@Exported data|zh-CN@导出的数据|zh-TW@匯出的數據
+1234;en@Exported Thumbnails|zh-CN@导出的缩略图|zh-TW@匯出的縮圖
+1235;en@Expression Thumbnails|zh-CN@表情缩略图|zh-TW@表情縮圖
+1236;en@Famous quotes image cache|zh-CN@名言警句图片缓存|zh-TW@名言警句圖片緩存
+1237;en@Favorite Address|zh-CN@喜爱地址|zh-TW@收藏的網址
+1238;en@Favorite recording|zh-CN@收藏的录音|zh-TW@收藏的錄音
+1239;en@Favorites|zh-CN@收藏夹|zh-TW@我的最愛
+1240;en@Favorites List|zh-CN@收藏列表|zh-TW@我的最愛列表
+1241;en@Favorites Synchronization|zh-CN@收藏同步|zh-TW@同步我的最愛
+1242;en@Feedback Log|zh-CN@反馈日志|zh-TW@反饋日誌
+1243;en@Figure Cards|zh-CN@卡片图|zh-TW@卡片圖
+1244;en@File Cache|zh-CN@文件缓存|zh-TW@文件緩存
+1245;en@Files downloaded from the cloud|zh-CN@从云端下载的文件|zh-TW@從雲端下載的文件
+1246;en@First aid model pictures|zh-CN@急救示范图片|zh-TW@急救示範圖片
+1247;en@Fly Screen Image Cache|zh-CN@飞屏图片缓存|zh-TW@飛屏圖片緩存
+1248;en@Fly Screen Images|zh-CN@飞屏图片|zh-TW@飛屏圖片
+1249;en@Font|zh-CN@字体|zh-TW@字體
+1250;en@Font Cache|zh-CN@字体缓存|zh-TW@字體緩存
+1251;en@Font Files|zh-CN@字体文件|zh-TW@字體檔
+1252;en@Font Previews|zh-CN@字体预览图|zh-TW@字體預覽圖
+1253;en@Font Resources|zh-CN@字体资源|zh-TW@字體資源
+1254;en@Font Thumbnails|zh-CN@字体缩略图|zh-TW@字體縮圖
+1255;en@Footprint data|zh-CN@足迹数据|zh-TW@足跡數據
+1256;en@Frame Cache|zh-CN@相框缓存|zh-TW@相框緩存
+1257;en@Frame Preview Cache|zh-CN@边框预览图缓存|zh-TW@邊框預覽圖緩存
+1259;en@Frame Thumbnail Cache|zh-CN@相框缩略图缓存|zh-TW@相框縮圖緩存
+1258;en@Frames|zh-CN@相框资源|zh-TW@相框資源
+1260;en@Freestyle Puzzle Background Cache|zh-CN@自由拼图背景缓存|zh-TW@自由拼圖背景緩存
+1261;en@Friend Profile Pictures|zh-CN@好友头像|zh-TW@好友頭像
+1263;en@Friends Images|zh-CN@朋友圈的图片|zh-TW@朋友圈的圖片
+1262;en@Friendship Photo Wall|zh-CN@交友照片墙|zh-TW@好友照片牆
+1264;en@Front Cover|zh-CN@封面|zh-TW@封面
+1265;en@Gallery Lock|zh-CN@隐藏的数据|zh-TW@隱藏的數據
+1266;en@Game Accomplishment Audio Recordings|zh-CN@闯关录音|zh-TW@闖關錄音
+1267;en@Game audio resources|zh-CN@游戏声音资源|zh-TW@遊戲聲音資源
+1268;en@Game Cache|zh-CN@游戏缓存|zh-TW@遊戲緩存
+1269;en@Game Configuration|zh-CN@游戏配置|zh-TW@遊戲配置
+1270;en@Game configuration data|zh-CN@游戏配置数据|zh-TW@遊戲配置資料
+1271;en@Game Configuration Files|zh-CN@游戏配置文件|zh-TW@遊戲設定檔
+1272;en@Game Data|zh-CN@游戏数据|zh-TW@遊戲數據
+1273;en@Game Data File|zh-CN@游戏数据文件|zh-TW@遊戲資料檔案
+1275;en@Game Download Cache|zh-CN@游戏下载缓存|zh-TW@遊戲下載緩存
+1276;en@Game Files|zh-CN@游戏文件|zh-TW@遊戲檔
+1277;en@Game History|zh-CN@游戏记录|zh-TW@遊戲記錄
+1278;en@Game History Files|zh-CN@游戏记录文件|zh-TW@遊戲記錄檔
+1279;en@Game Icon Cache|zh-CN@游戏图标缓存|zh-TW@遊戲圖標緩存
+1280;en@Game Icons|zh-CN@游戏图标|zh-TW@遊戲圖標緩存
+1281;en@Game Image Cache|zh-CN@游戏图片缓存|zh-TW@遊戲圖片緩存
+1282;en@game images|zh-CN@游戏图片数据|zh-TW@遊戲圖片資料
+1284;en@game map|zh-CN@游戏地图数据|zh-TW@遊戲地圖資料
+1285;en@Game Patching Data|zh-CN@游戏补丁数据|zh-TW@遊戲更新數據
+1286;en@Game Process Data|zh-CN@游戏进程数据|zh-TW@遊戲進程資料
+1287;en@Game Process Record|zh-CN@游戏进度记录|zh-TW@遊戲進度記錄
+1288;en@Game Recommendation Cache|zh-CN@游戏推荐缓存|zh-TW@遊戲推薦緩存
+1289;en@Game Records|zh-CN@游戏存档|zh-TW@遊戲存檔
+1290;en@Game Resource Pack|zh-CN@游戏资源包|zh-TW@遊戲資源包
+1291;en@Game Resources|zh-CN@游戏资源|zh-TW@遊戲資源
+1293;en@game sound|zh-CN@游戏声音数据|zh-TW@遊戲聲音資料
+1294;en@Game Sound Effects|zh-CN@游戏音效|zh-TW@遊戲音效
+1295;en@Game Startup Page Cache|zh-CN@游戏开启页面缓存|zh-TW@遊戲開啟頁面緩存
+1296;en@Game system data|zh-CN@游戏系统数据|zh-TW@遊戲系統資料
+1297;en@Game Topic|zh-CN@游戏专题|zh-TW@遊戲專題
+1292;en@Games Downloading|zh-CN@下载中的游戏|zh-TW@下載中的遊戲
+1298;en@Gas Station Data|zh-CN@加油站数据|zh-TW@加油站數據
+1299;en@Gateway Interface Images|zh-CN@入口界面图片|zh-TW@入口介面圖片
+1300;en@Gift Application Icon|zh-CN@礼包应用图标|zh-TW@禮包應用圖示
+1301;en@Google Drive Cloud Storage|zh-CN@Google Drive云存储|zh-TW@Google Drive雲端硬碟
+1302;en@Greeting Card Templates|zh-CN@贺卡模版图|zh-TW@賀卡樣版圖
+1303;en@Grid Covers|zh-CN@网格封面|zh-TW@網格封面
+1305;en@Group Buying Images|zh-CN@团购图片|zh-TW@團購圖片
+1304;en@Groupbuy|zh-CN@收藏的团购|zh-TW@收藏的團購
+1306;en@Guide images|zh-CN@引导图|zh-TW@引導圖
+1307;en@Halloween Stamps|zh-CN@万圣贴图|zh-TW@萬聖節貼圖
+1308;en@Handwritten Data Files|zh-CN@手写数据文件|zh-TW@手寫資料檔案
+1309;en@HD Images|zh-CN@清晰大图|zh-TW@高畫質圖片
+1310;en@Header Image|zh-CN@标题图片|zh-TW@標題圖片
+1311;en@help info|zh-CN@帮助信息|zh-TW@説明資料
+1312;en@hidden files|zh-CN@隐藏的文件|zh-TW@隱藏的文件
+1313;en@Historical Image Cache|zh-CN@历史图片缓存|zh-TW@歷史圖片緩存
+1315;en@History Cache|zh-CN@历史记录缓存|zh-TW@歷史記錄緩存
+1316;en@Home image|zh-CN@主页图片|zh-TW@主頁圖片
+1317;en@Home Image Cache|zh-CN@首页图片缓存|zh-TW@首頁圖片緩存
+1318;en@Home Ingredient Icons|zh-CN@首页食材图标|zh-TW@首頁食材圖示
+1319;en@Home Interface Cache|zh-CN@首界面缓存|zh-TW@首頁介面緩存
+1320;en@Home Page Background Image Set|zh-CN@设置的首页背景图|zh-TW@設置的首頁背景圖
+1323;en@Hot Topic Cache|zh-CN@热门专题缓存|zh-TW@熱門專題緩存
+1321;en@Hotfix Files|zh-CN@补丁文件|zh-TW@更新文件
+1322;en@Hotkey Cache|zh-CN@热门搜索缓存|zh-TW@熱門搜索緩存
+1324;en@Icon Cache|zh-CN@图标缓存|zh-TW@圖示緩存
+1325;en@Icon Cache Images|zh-CN@图标缓存图|zh-TW@圖示緩存圖
+1326;en@Icon Images|zh-CN@图标图片|zh-TW@圖示圖片
+1327;en@Icons and Images|zh-CN@图标及图片|zh-TW@圖示及圖片
+1328;en@ID Cache|zh-CN@身份缓存|zh-TW@身份緩存
+1329;en@image cache|zh-CN@验证码图片|zh-TW@驗證碼圖片
+1330;en@Image Cache|zh-CN@图片缓存|zh-TW@圖片緩存
+1331;en@Image Cache for Tasting the Night|zh-CN@品味夜色图片缓存|zh-TW@品味夜色圖片緩存
+1332;en@Image Cache on Holidays|zh-CN@节日图片缓存|zh-TW@節日圖片緩存
+1333;en@Image Cache Taken|zh-CN@拍摄的图片缓存|zh-TW@拍攝的圖片緩存
+1334;en@Image Digital Images|zh-CN@图片数字图片|zh-TW@圖片數位圖片
+1335;en@Image Favorites|zh-CN@收藏的图片|zh-TW@收藏的圖片
+1336;en@Image Materials|zh-CN@图片素材|zh-TW@圖片素材
+1337;en@Image message cache|zh-CN@图片消息缓存|zh-TW@圖片訊息緩存
+1338;en@Image Messages|zh-CN@图片消息|zh-TW@圖片訊息
+1339;en@Image Preview|zh-CN@图片预览|zh-TW@圖片預覽
+1340;en@Image Resources|zh-CN@图片资源|zh-TW@圖片資源
+1344;en@Image sharing cache|zh-CN@图片分享缓存|zh-TW@圖片分享緩存
+1345;en@Image Sharing Cache|zh-CN@分享图片缓存|zh-TW@分享圖片緩存
+1351;en@Image Temp Cache|zh-CN@图片临时缓存|zh-TW@圖片臨時緩存
+1352;en@Image Thumbnails|zh-CN@图片缩略图|zh-TW@圖片縮圖
+1341;en@Images|zh-CN@图片|zh-TW@圖片
+1342;en@Images cached in ads|zh-CN@广告缓存的图片|zh-TW@廣告緩存的圖片
+1343;en@Images from Chat|zh-CN@聊天中的图片|zh-TW@聊天中的圖片
+1346;en@Images Issuing|zh-CN@发布中的图片|zh-TW@發佈中的圖片
+1347;en@Images on Welcome Page|zh-CN@欢迎页图片|zh-TW@歡迎頁圖片
+1348;en@Images Taken|zh-CN@拍摄的图片|zh-TW@拍攝的圖片
+1349;en@Images Taken In Comments|zh-CN@评论拍摄的图片|zh-TW@評論拍攝的圖片
+1350;en@Images Uploading|zh-CN@上传中的图片|zh-TW@上傳中的圖片
+1353;en@Imported local books|zh-CN@导入的本地书籍|zh-TW@導入的本地書籍
+1354;en@Imported Maps|zh-CN@导入的地图|zh-TW@導入的地圖
+1355;en@Inbox Image Data|zh-CN@收件箱图片数据|zh-TW@收件箱圖片資料
+1356;en@index cache|zh-CN@索引缓存|zh-TW@索引緩存
+1357;en@Individualized Signature Icon|zh-CN@个性签名图标|zh-TW@個性簽名圖示
+1358;en@Info Cache|zh-CN@信息缓存|zh-TW@資料緩存
+1359;en@Information Cache|zh-CN@资讯缓存|zh-TW@資訊緩存
+1360;en@Information Temp Cache|zh-CN@信息临时缓存|zh-TW@資訊臨時緩存
+1361;en@Imported Themes|zh-CN@导入的主题|zh-TW@導入的主題
+1362;en@Input Cache|zh-CN@输入缓存|zh-TW@輸入緩存
+1363;en@Insert Cache|zh-CN@插入缓存|zh-TW@插入緩存
+1364;en@Installer Cache|zh-CN@安装包缓存|zh-TW@安裝包緩存
+1365;en@Interface Image Cache|zh-CN@界面图片缓存|zh-TW@介面圖片緩存
+1366;en@Interface Images|zh-CN@界面图片|zh-TW@介面圖片
+1367;en@Keyboard Background Images|zh-CN@键盘背景图|zh-TW@鍵盤背景圖
+1368;en@launcher backup|zh-CN@备份的桌面|zh-TW@備份的桌面
+1369;en@Layout Resources|zh-CN@布局资源|zh-TW@佈局資源
+1370;en@Leaderboards cache|zh-CN@排行榜缓存|zh-TW@排行榜緩存
+1371;en@Letter Voices|zh-CN@字母语音|zh-TW@字母語音
+1372;en@level editor|zh-CN@关卡编辑|zh-TW@關卡編輯
+1373;en@Lexicon Backup|zh-CN@词库备份|zh-TW@詞庫備份
+1374;en@Lexicon Update Log|zh-CN@词库更新日志|zh-TW@詞庫更新日誌
+1375;en@Life Privilege Cache|zh-CN@生活优惠缓存|zh-TW@生活優惠緩存
+1376;en@Line Coffee Full-size Cache|zh-CN@Line咖啡大图缓存|zh-TW@Line咖啡大圖緩存
+1377;en@Line Coffee Small-size Image Cache|zh-CN@Line咖啡小图缓存|zh-TW@Line咖啡小圖緩存
+1378;en@List Cache|zh-CN@列表缓存|zh-TW@列表緩存
+1379;en@List Covers|zh-CN@列表封面|zh-TW@列表封面
+1380;en@listened ring|zh-CN@试听的铃声|zh-TW@試聽的鈴聲
+1381;en@Listening history|zh-CN@收听历史|zh-TW@收聽歷史
+1382;en@Live Audio Recording Files|zh-CN@现场录音文件|zh-TW@現場錄音文件
+1383;en@Live Broadcast Cache|zh-CN@直播缓存|zh-TW@直播緩存
+1385;en@Load Tags|zh-CN@加载标记|zh-TW@載入標記
+1384;en@Loaded Pronunciation|zh-CN@加载的发音|zh-TW@載入的發音
+1386;en@Local Accompany|zh-CN@本地的伴奏|zh-TW@本地的伴奏
+1387;en@Local albums preview|zh-CN@本地相册预览图|zh-TW@本地相冊預覽圖
+1388;en@Local Audio Recordings|zh-CN@本地录音|zh-TW@本地錄音
+1389;en@local backup|zh-CN@本地备份|zh-TW@本地備份
+1390;en@Local Comics|zh-CN@本地漫画|zh-TW@本地漫畫
+1391;en@Local Data of Image Favorites|zh-CN@收藏图片本地数据|zh-TW@收藏圖片本地資料
+1392;en@Local game data|zh-CN@本地游戏数据|zh-TW@本地遊戲數據
+1393;en@Local Songs|zh-CN@本地歌曲|zh-TW@本地歌曲
+1394;en@Local Storage|zh-CN@本地存储|zh-TW@本機存放區
+1396;en@Local Theme Thumbnail|zh-CN@本地主题缩略图|zh-TW@本地主題縮圖
+1395;en@Local Themes|zh-CN@本地主题|zh-TW@本地主題
+1397;en@Local Video thumbnails|zh-CN@本地视频缩略图|zh-TW@本地視頻縮圖
+1398;en@Location Cache|zh-CN@位置缓存|zh-TW@位置緩存
+1399;en@Location Data|zh-CN@位置数据|zh-TW@位置資料
+1400;en@Lock Screen Images|zh-CN@锁屏图片|zh-TW@鎖屏圖片
+1401;en@Log|zh-CN@日志|zh-TW@日誌
+1402;en@Log Cache|zh-CN@日志缓存|zh-TW@日誌緩存
+1403;en@Log Files|zh-CN@日志文件|zh-TW@日誌檔
+1404;en@Log Images|zh-CN@日志图片|zh-TW@日誌圖片
+1405;en@Login Cache|zh-CN@登录缓存|zh-TW@登錄緩存
+1407;en@Login Image Cache|zh-CN@登录图片缓存|zh-TW@登錄圖片緩存
+1408;en@Login screen images|zh-CN@登录界面图片|zh-TW@登錄介面圖片
+1406;en@Login-generated Cache|zh-CN@登录产生的缓存|zh-TW@登錄產生的緩存
+1409;en@Love Tree Image Cache|zh-CN@爱情树图片缓存|zh-TW@愛情樹圖片緩存
+1410;en@Lyric Cache|zh-CN@歌词缓存|zh-TW@歌詞緩存
+1411;en@Lyrics|zh-CN@歌词|zh-TW@歌詞
+1413;en@magazine cover|zh-CN@杂志封面|zh-TW@雜誌封面
+1412;en@Magazine Article|zh-CN@杂志文章|zh-TW@雜誌文章
+1414;en@Magazine Images|zh-CN@杂志图片|zh-TW@雜誌圖片
+1415;en@Magazine list|zh-CN@杂志目录|zh-TW@雜誌目錄
+1416;en@Mail Attachments|zh-CN@邮件附件|zh-TW@郵件附件
+1417;en@Mail Large File Attachment|zh-CN@邮件大文件附件|zh-TW@郵件大檔附件
+1418;en@Mail List Icon|zh-CN@邮件列表图标|zh-TW@郵寄清單圖示
+1419;en@Make Effects|zh-CN@Make特效|zh-TW@Make特效
+1420;en@Mall Data|zh-CN@邮件数据|zh-TW@郵件資料
+1421;en@Map|zh-CN@地图|zh-TW@地圖
+1422;en@Map Cache|zh-CN@地图缓存|zh-TW@地圖緩存
+1423;en@Map data|zh-CN@地图数据|zh-TW@地圖資料
+1424;en@Map Location Cache|zh-CN@地图定位缓存|zh-TW@地圖定位緩存
+1425;en@Map Packs Downloading|zh-CN@下载中的地图包|zh-TW@下載中的地圖包
+1426;en@Map Postcard Images|zh-CN@地图明星片图片|zh-TW@地圖明信片圖片
+1427;en@Marriage Background Image Cache|zh-CN@婚姻背景图片缓存|zh-TW@婚姻背景圖片緩存
+1428;en@Material|zh-CN@贴图素材|zh-TW@貼圖素材
+1429;en@material cache|zh-CN@素材缓存|zh-TW@素材緩存
+1430;en@Material icon|zh-CN@素材图标|zh-TW@素材圖示
+1431;en@Material Images|zh-CN@素材图片|zh-TW@素材圖片
+1432;en@media|zh-CN@拍摄的媒体文件|zh-TW@拍攝的媒體文件
+1433;en@Media Data|zh-CN@媒体数据|zh-TW@媒體數據
+1434;en@Media Files in Notes|zh-CN@笔记中的媒体文件|zh-TW@筆記中的媒體檔
+1435;en@Media Messages|zh-CN@媒体消息|zh-TW@媒體消息
+1436;en@Message Backups|zh-CN@短信备份|zh-TW@訊息備份
+1437;en@Message Cache|zh-CN@消息缓存|zh-TW@消息緩存
+1438;en@Message Center Cache|zh-CN@消息中心缓存|zh-TW@消息中心緩存
+1439;en@Message Image|zh-CN@消息图片|zh-TW@消息圖片
+1441;en@Metro Info Cache|zh-CN@地铁信息缓存|zh-TW@地鐵消息緩存
+1442;en@Mode Setting|zh-CN@设置模式|zh-TW@設置模式
+1443;en@Modified Files|zh-CN@修改后的文件|zh-TW@修改後的文件
+1444;en@Module Data|zh-CN@模块数据|zh-TW@模組資料
+1446;en@Monitor Logs|zh-CN@监控日志|zh-TW@監控日誌
+1445;en@Monitoring Cache|zh-CN@监控缓存|zh-TW@監控緩存
+1447;en@More widget|zh-CN@更多小插件|zh-TW@更多外掛程式
+1450;en@Music audition cache|zh-CN@试听缓存|zh-TW@試聽緩存
+1451;en@Music Cache|zh-CN@音乐缓存|zh-TW@音樂緩存
+1452;en@Music Data|zh-CN@音乐数据|zh-TW@音樂資料
+1453;en@Music Favorites|zh-CN@收藏的音乐|zh-TW@收藏的音樂
+1454;en@Music Files|zh-CN@音乐文件|zh-TW@音樂檔
+1455;en@Music Imported From Computer|zh-CN@从电脑导入的音乐|zh-TW@從電腦導入的音樂
+1456;en@Music Library Cache|zh-CN@乐库缓存|zh-TW@音樂庫緩存
+1457;en@Music Lyrics|zh-CN@音乐歌词|zh-TW@音樂歌詞
+1458;en@Music Pack|zh-CN@音乐包|zh-TW@音樂包
+1459;en@Music Resources|zh-CN@音乐资源|zh-TW@音樂資源
+1449;en@Musical Accompaniment|zh-CN@音乐伴奏|zh-TW@音樂伴奏
+1460;en@My Animated Emoticons|zh-CN@制作的动图表情|zh-TW@製作的動態表情
+1461;en@My Bookshelf Books|zh-CN@我的书架书籍|zh-TW@我的書架書籍
+1462;en@My Bookshelf Cover|zh-CN@我的书架封面|zh-TW@我的書架封面
+1463;en@My Business Card|zh-CN@我的名片|zh-TW@我的名片
+1464;en@My Emoticon Animated Images|zh-CN@制作的表情动图|zh-TW@製作的動泰貼圖
+1465;en@My Emoticon Thumbnails|zh-CN@制作的表情缩略图|zh-TW@製作的表情縮圖
+1466;en@My Greeting Cards|zh-CN@制作的贺卡|zh-TW@製作的賀卡
+1467;en@My Music|zh-CN@我的音乐|zh-TW@我的音樂
+1468;en@My record|zh-CN@我的记录|zh-TW@我的記錄
+1469;en@My Stack Cover|zh-CN@我的书库封面|zh-TW@我的書庫封面
+1470;en@My Videos|zh-CN@制作的视频|zh-TW@製作的視頻
+1471;en@Navigation audio|zh-CN@导航音效|zh-TW@導航音效
+1472;en@Navigation Cache|zh-CN@导航缓存|zh-TW@導航緩存
+1473;en@Navigation Data Packs|zh-CN@导航数据包|zh-TW@導航數據包
+1474;en@Navigation Data Record|zh-CN@导航数据记录|zh-TW@導航資料記錄
+1475;en@Navigation Fork Data|zh-CN@导航岔口数据|zh-TW@導航岔口數據
+1476;en@Navigation Info Cache|zh-CN@导航信息缓存|zh-TW@導航資訊緩存
+1477;en@Nearby Image Cache|zh-CN@附近图片缓存|zh-TW@附近圖片緩存
+1478;en@Net Friend Profile Picture Cache|zh-CN@网友头像缓存|zh-TW@網友頭像緩存
+1479;en@Network Cache|zh-CN@网络缓存|zh-TW@網路緩存
+1480;en@Network Pack Cache|zh-CN@网络包缓存|zh-TW@網路包緩存
+1481;en@New photo album|zh-CN@新建的照片专辑|zh-TW@新建的照片專輯
+1487;en@New Video Notification Cache|zh-CN@新视频通知缓存|zh-TW@新視頻通知緩存
+1482;en@News Cache|zh-CN@新闻缓存|zh-TW@新聞緩存
+1483;en@News Favorites|zh-CN@收藏的新闻|zh-TW@收藏的新聞
+1484;en@News Image Cache|zh-CN@新闻图片缓存|zh-TW@新聞圖片緩存
+1485;en@News Images|zh-CN@新闻图片|zh-TW@新聞圖片
+1486;en@News Logs|zh-CN@新闻日志|zh-TW@新聞日誌
+1488;en@Note Image Cache|zh-CN@笔记图片缓存|zh-TW@筆記圖片緩存
+1489;en@Notes|zh-CN@记录的笔记|zh-TW@記錄的筆記
+1490;en@Novel Cache|zh-CN@小说缓存|zh-TW@小說緩存
+1491;en@Novel Image Cache|zh-CN@小说图片缓存|zh-TW@小說圖片緩存
+1492;en@Object files|zh-CN@目标文件|zh-TW@目標文件
+1493;en@Object Images|zh-CN@物品图片|zh-TW@物品圖片
+1494;en@Offline Articles|zh-CN@离线文章|zh-TW@離線文章
+1495;en@Offline Book Cache|zh-CN@离线图书缓存|zh-TW@離線圖書緩存
+1496;en@Offline Books|zh-CN@离线书籍|zh-TW@離線書籍
+1497;en@Offline Cache|zh-CN@离线缓存|zh-TW@離線緩存
+1498;en@Offline Chinese-English translations|zh-CN@英中离线翻译|zh-TW@英中離線翻譯
+1499;en@Offline Chinese-Japanese translations|zh-CN@中日离线翻译|zh-TW@中日離線翻譯
+1500;en@Offline Chinese-Korean translations|zh-CN@中韩离线翻译|zh-TW@中韓離線翻譯
+1501;en@Offline Connotation Jokes|zh-CN@离线内涵段子|zh-TW@離線隱喻笑話
+1502;en@Offline Downloaded Data|zh-CN@离线下载数据|zh-TW@離線下載數據
+1503;en@Offline Downloaded Images|zh-CN@离线下载图片|zh-TW@離線下載圖片
+1504;en@Offline English-Chinese translations|zh-CN@中英离线翻译|zh-TW@中英離線翻譯
+1505;en@Offline GPS data|zh-CN@离线导航数据|zh-TW@離線導航數據
+1506;en@Offline Images|zh-CN@离线图片|zh-TW@離線圖片
+1507;en@Offline Japanese-Chinese translations|zh-CN@日中离线翻译|zh-TW@日中離線翻譯
+1508;en@Offline Korean-Chinese translations|zh-CN@韩中离线翻译|zh-TW@韓中離線翻譯
+1509;en@Offline Language Packs|zh-CN@离线的语言包|zh-TW@離線的語言包
+1510;en@Offline Listening Resources|zh-CN@离线听力资源|zh-TW@離線聽力資源
+1511;en@Offline Maps|zh-CN@离线地图|zh-TW@離線地圖
+1512;en@Offline Music|zh-CN@离线音乐|zh-TW@離線音樂
+1513;en@Offline News|zh-CN@离线新闻|zh-TW@離線新聞
+1514;en@Offline Novels|zh-CN@离线小说|zh-TW@離線小說
+1515;en@Offline Song Lists|zh-CN@离线歌单|zh-TW@離線歌單
+1516;en@Offline Street View Data|zh-CN@离线街景数据|zh-TW@離線街景數據
+1517;en@Offline Study Data|zh-CN@离线学习数据|zh-TW@離線學習數據
+1519;en@Offline Videos|zh-CN@离线视频|zh-TW@離線視頻
+1520;en@Offline word pronunciations|zh-CN@单词离线语音|zh-TW@單字離線語音
+1518;en@Offline Trip Data|zh-CN@离线旅行数据|zh-TW@離線旅行數據
+1521;en@One-touch Switch Cache|zh-CN@一键换机缓存|zh-TW@一鍵換機緩存
+1522;en@Online Cache|zh-CN@在线缓存|zh-TW@線上緩存
+1523;en@Online Classification Images|zh-CN@在线分类图片|zh-TW@線上分類圖片
+1524;en@Online Desktop Clock 1x2 Previews|zh-CN@在线桌面时钟1x2预览图|zh-TW@線上桌面時鐘1x2預覽圖
+1525;en@Online Desktop Clock 1x2 Thumbnails|zh-CN@在线桌面时钟1x2缩略图|zh-TW@線上桌面時鐘1x2縮圖
+1526;en@Online Desktop Clock 2x2 Previews|zh-CN@在线桌面时钟2x2预览图|zh-TW@線上桌面時鐘2x2預覽圖
+1527;en@Online Desktop Clock 2x2 Thumbnail|zh-CN@在线桌面时钟2x2缩略图|zh-TW@線上桌面時鐘2x2縮圖
+1528;en@Online Desktop Clock 2x4 Previews|zh-CN@在线桌面时钟2x4预览图|zh-TW@線上桌面時鐘2x4預覽圖
+1529;en@Online Desktop Clock 2x4 Thumbnail|zh-CN@在线桌面时钟2x4缩略图|zh-TW@線上桌面時鐘2x4縮圖
+1530;en@Online Desktop Frame 2x4 Previews|zh-CN@在线桌面相框2x4预览图|zh-TW@線上桌面相框2x4預覽圖
+1531;en@Online Desktop Frame 2X4 Thumbnails|zh-CN@在线桌面相框2x4缩略图|zh-TW@線上桌面相框2x4縮圖
+1532;en@Online Desktop Frame 4x4 Previews|zh-CN@在线桌面相框4x4预览图|zh-TW@線上桌面相框4x4預覽圖
+1533;en@Online Desktop Frame 4x4 Thumbnail|zh-CN@在线桌面相框4x4缩略图|zh-TW@線上桌面相框4x4縮圖
+1534;en@online image cache|zh-CN@在线图片缓存|zh-TW@線上圖片緩存
+1535;en@Online Reading Cache|zh-CN@在线阅读缓存|zh-TW@線上閱讀緩存
+1536;en@Online Reading Data|zh-CN@在线阅读数据|zh-TW@線上閱讀資料
+1537;en@Online Theme Image Cache|zh-CN@在线主题图片缓存|zh-TW@線上主題圖片緩存
+1538;en@Online Theme Previews|zh-CN@在线主题预览图|zh-TW@線上主題預覽圖
+1539;en@Order images cache|zh-CN@订单图片缓存|zh-TW@訂單圖片緩存
+1540;en@Original Drawings of Images|zh-CN@图片原图|zh-TW@圖片原圖
+1541;en@Original Wallpapers|zh-CN@壁纸原图|zh-TW@壁紙原圖
+1542;en@Other Stamps|zh-CN@其他贴图|zh-TW@其他貼圖
+1543;en@Packaged Contacts|zh-CN@打包的通讯录|zh-TW@打包的通訊錄
+1544;en@Page Cache|zh-CN@页面缓存|zh-TW@頁面緩存
+1545;en@Page Style Cache|zh-CN@页面样式缓存|zh-TW@頁面樣式緩存
+1546;en@Painting history|zh-CN@画图记录|zh-TW@畫圖記錄
+1547;en@PDF Font File|zh-CN@pdf字体编码文件|zh-TW@PDF字體編碼檔
+1548;en@Personal Homepage Background Cache|zh-CN@个人主页背景缓存|zh-TW@個人主頁背景緩存
+1549;en@Phone Call History|zh-CN@通话记录|zh-TW@通話記錄
+1550;en@Photo Album Cache|zh-CN@相册缓存|zh-TW@相冊緩存
+1551;en@Photo Album Images|zh-CN@相册图片|zh-TW@相冊圖片
+1552;en@Photo books|zh-CN@照片书|zh-TW@照片書
+1553;en@Photo Cache|zh-CN@照片缓存|zh-TW@照片緩存
+1556;en@Photo Settings|zh-CN@照片设置|zh-TW@照片設置
+1554;en@Photographed Shopping Caches|zh-CN@拍照购物缓存|zh-TW@拍照購物緩存
+1555;en@photos|zh-CN@添加的照片|zh-TW@添加的照片
+1557;en@Photos not Sent|zh-CN@未发布的照片|zh-TW@未發佈的照片
+1558;en@Photos taken|zh-CN@拍摄过的图片|zh-TW@拍攝過的圖片
+1561;en@Play Cache|zh-CN@播放缓存|zh-TW@播放緩存
+1566;en@play record|zh-CN@播放完成记录|zh-TW@播放完成記錄
+1560;en@Playback and collection history|zh-CN@播放和收藏记录|zh-TW@播放和收藏記錄
+1562;en@Players|zh-CN@玩家信息|zh-TW@玩家訊息
+1563;en@playing ringtone|zh-CN@播放中的铃声|zh-TW@播放中的鈴聲
+1564;en@Playlist cache|zh-CN@播放列表缓存|zh-TW@播放清單緩存
+1565;en@Playlists|zh-CN@播放列表|zh-TW@播放清單
+1567;en@Plug-in Cache|zh-CN@插件缓存|zh-TW@外掛程式緩存
+1568;en@Plug-in Files|zh-CN@插件文件|zh-TW@外掛程式文件
+1569;en@Plug-in Icons|zh-CN@插件图标|zh-TW@外掛程式圖示
+1570;en@Plug-in Image Cache|zh-CN@插件图片缓存|zh-TW@外掛程式圖片緩存
+1571;en@Plug-ins Downloading|zh-CN@下载中的插件|zh-TW@下載中的外掛程式
+1572;en@Popular Animated Emoticons|zh-CN@热门动图表情|zh-TW@熱門動態表情
+1573;en@Popular Animated Image thumbnails|zh-CN@热门动图缩略图|zh-TW@熱門動態表情縮圖
+1574;en@Posted Photos|zh-CN@发布的照片|zh-TW@發佈的照片
+1575;en@Posted Voice|zh-CN@发布的语音|zh-TW@發佈的語音
+1576;en@Poster Images|zh-CN@海报图片|zh-TW@海報圖片
+1577;en@Practice Recording|zh-CN@练习录音|zh-TW@練習錄音
+1578;en@Preferences|zh-CN@偏好设置|zh-TW@偏好設置
+1579;en@Preserve Cache|zh-CN@保留缓存|zh-TW@保留緩存
+1580;en@Preview Cache|zh-CN@预览图缓存|zh-TW@預覽圖緩存
+1581;en@Previewed Music|zh-CN@试听的音乐|zh-TW@試聽的音樂
+1582;en@Previews|zh-CN@预览图|zh-TW@預覽圖
+1583;en@Private Files|zh-CN@隐私文件|zh-TW@隱私文件
+1584;en@Process Cache|zh-CN@流程缓存|zh-TW@流程緩存
+1585;en@Profile Icons|zh-CN@头像图标|zh-TW@頭像圖示
+1586;en@Profile Picture and Image Cache|zh-CN@头像和图片缓存|zh-TW@頭像和圖片緩存
+1587;en@Profile Picture Cache|zh-CN@头像缓存|zh-TW@頭像緩存
+1588;en@Profile Picture Previews|zh-CN@头像预览图|zh-TW@頭像預覽圖
+1590;en@Profile Picture Thumbnails|zh-CN@头像缩略图|zh-TW@頭像縮圖
+1589;en@Profile Pictures|zh-CN@头像图片|zh-TW@頭像圖片
+1591;en@Profile Temp Cache|zh-CN@头像临时缓存|zh-TW@頭像臨時緩存
+1592;en@Pronunciation Cache|zh-CN@发音缓存|zh-TW@發音緩存
+1593;en@Pronunciation Data|zh-CN@发音数据|zh-TW@發音數據
+1594;en@Pronunciations|zh-CN@发音|zh-TW@發音
+1595;en@Punctuation Note Creating|zh-CN@创建中的圈点笔记|zh-TW@創建中的圈點筆記
+1597;en@Push Cache|zh-CN@推送缓存|zh-TW@推送緩存
+1596;en@Push cache|zh-CN@推荐缓存|zh-TW@推薦緩存
+1598;en@Pushed Log|zh-CN@推送日志|zh-TW@推送日誌
+1599;en@Pushed Messages|zh-CN@推送的消息|zh-TW@推送的消息
+1600;en@Puzzle|zh-CN@拼图|zh-TW@拼圖
+1601;en@Puzzle Cache|zh-CN@拼图缓存|zh-TW@拼圖緩存
+1602;en@Puzzle Frame Cache|zh-CN@拼图相框缓存|zh-TW@拼圖相框緩存
+1603;en@Puzzle Templates|zh-CN@拼图模版|zh-TW@拼圖樣版
+1604;en@QQ Profile Picture Cache|zh-CN@QQ头像缓存|zh-TW@QQ頭像緩存
+1605;en@Qzone Temporary Cache|zh-CN@空间临时缓存|zh-TW@空間臨時緩存
+1606;en@Radio Cache|zh-CN@收音机缓存|zh-TW@收音機緩存
+1607;en@Reading Cache|zh-CN@阅读缓存|zh-TW@閱讀緩存
+1608;en@Reading Center Database Files|zh-CN@阅读中心数据库文件|zh-TW@閱讀中心資料庫檔
+1609;en@Reading info cache|zh-CN@阅读信息缓存|zh-TW@閱讀資訊緩存
+1610;en@Reading Progress Data|zh-CN@阅读进度数据|zh-TW@閱讀進度資料
+1611;en@Real Image Cache|zh-CN@实景图片缓存|zh-TW@實景圖片緩存
+1612;en@Real-time Traffic Icons|zh-CN@实时路况图标|zh-TW@即時路況圖示
+1613;en@Received Apks|zh-CN@接收的安装包|zh-TW@接收的安裝包
+1614;en@Received Application Apks|zh-CN@接收的应用安装包|zh-TW@接收的應用安裝包
+1615;en@Received audio|zh-CN@接收的音频|zh-TW@接收的音訊
+1616;en@Received contacts|zh-CN@接收的联系人|zh-TW@接收的連絡人
+1618;en@Received File Thumbnails|zh-CN@接收文件缩略图|zh-TW@接收文件縮圖
+1617;en@Received Files|zh-CN@接收的文件|zh-TW@接收的文件
+1619;en@Received Images|zh-CN@接收的图片|zh-TW@接收的圖片
+1620;en@Received Music|zh-CN@接收的音乐|zh-TW@接收的音樂
+1621;en@Received Videos|zh-CN@接收的视频|zh-TW@接收的視頻
+1622;en@Receiving Files|zh-CN@接受中的文件|zh-TW@接受中的文件
+1623;en@Recommendation App Images|zh-CN@推荐应用图片|zh-TW@推薦應用圖片
+1624;en@Recommendation cache|zh-CN@书城推荐缓存|zh-TW@書城推薦緩存
+1625;en@Recommendation Icon Cache|zh-CN@推荐图标缓存|zh-TW@推薦圖示緩存
+1626;en@Record Data|zh-CN@记录数据|zh-TW@記錄資料
+1637;en@record message|zh-CN@录音消息|zh-TW@錄音訊息
+1627;en@Recorded Audios|zh-CN@录制的音频|zh-TW@錄製的音訊
+1628;en@Recorded cache|zh-CN@录制的缓存|zh-TW@錄製的緩存
+1629;en@Recorded files|zh-CN@录制的文件|zh-TW@錄製的檔
+1630;en@Recorded Greeting Card Sound|zh-CN@录制的贺卡声音|zh-TW@錄製的賀卡聲音
+1631;en@Recorded Music|zh-CN@录制的音乐|zh-TW@錄製的音樂
+1632;en@Recorded ringtone|zh-CN@录制的铃声|zh-TW@錄製的鈴聲
+1633;en@Recorded Videos|zh-CN@录制的视频|zh-TW@錄製的視頻
+1634;en@Recorded Voice|zh-CN@录制的语音|zh-TW@錄製的語音
+1635;en@Recording Cache|zh-CN@录音缓存|zh-TW@錄音緩存
+1636;en@Recording data packet|zh-CN@录音数据包|zh-TW@錄音數據包
+1638;en@Records|zh-CN@记录|zh-TW@記錄
+1639;en@Recycle files|zh-CN@回收站文件|zh-TW@回收站文件
+1640;en@Registration Image|zh-CN@注册图片|zh-TW@註冊圖片
+1641;en@Remote program|zh-CN@遥控程序|zh-TW@遙控程式
+1642;en@Rendering Data|zh-CN@渲染数据|zh-TW@渲染數據
+1643;en@Resource Cache|zh-CN@资源缓存|zh-TW@資源緩存
+1644;en@Resource Configuration Files|zh-CN@资源配置文件|zh-TW@資源設定檔
+1645;en@Resource Data|zh-CN@资源数据|zh-TW@資來源資料
+1646;en@Resource Files|zh-CN@资源文件|zh-TW@資源檔
+1647;en@Resource Pack Data|zh-CN@资源包数据|zh-TW@資源包資料
+1648;en@Ringtone preview cache|zh-CN@试听铃声缓存|zh-TW@試聽鈴聲緩存
+1649;en@Role Images|zh-CN@角色图片|zh-TW@角色圖片
+1650;en@Root App|zh-CN@root软件|zh-TW@Root軟體
+1651;en@Root Permission Data|zh-CN@root权限数据|zh-TW@Root許可權數據
+1652;en@RSS Cache|zh-CN@RSS缓存|zh-TW@RSS緩存
+1653;en@Safebox Data|zh-CN@保险箱数据|zh-TW@保險箱數據
+1655;en@Sample Files|zh-CN@示例文件|zh-TW@示範文件
+1654;en@Sample files|zh-CN@样本文件|zh-TW@樣本檔
+1656;en@Sample Records|zh-CN@样本记录|zh-TW@樣本記錄
+1689;en@Save the drawings|zh-CN@保存的图纸|zh-TW@保存的草稿
+1658;en@Saved Bar Code|zh-CN@保存的条形码|zh-TW@保存的條碼
+1659;en@Saved Books|zh-CN@保存的图书|zh-TW@保存的圖書
+1660;en@Saved Comics|zh-CN@保存的漫画|zh-TW@保存的漫畫
+1661;en@Saved data|zh-CN@保存的数据|zh-TW@保存的資料
+1662;en@Saved Documents|zh-CN@保存的文档|zh-TW@保存的文檔
+1663;en@Saved Doodle|zh-CN@保存的涂鸦|zh-TW@保存的塗鴉
+1664;en@saved effect|zh-CN@保存的音效|zh-TW@保存的音效
+1665;en@Saved Emoticon Packs|zh-CN@保存的表情包|zh-TW@保存的表情包
+1666;en@Saved Emoticons|zh-CN@保存的表情|zh-TW@保存的表情
+1667;en@Saved Files|zh-CN@保存的文件|zh-TW@保存的檔
+1668;en@Saved Gif Images|zh-CN@保存的gif图片|zh-TW@保存的gif圖片
+1669;en@Saved Images|zh-CN@保存的图片|zh-TW@保存的圖片
+1670;en@Saved Map Image|zh-CN@保存的地图图片|zh-TW@保存的地圖圖片
+1671;en@Saved media|zh-CN@保存的媒体|zh-TW@保存的媒體
+1672;en@Saved Music Alarm|zh-CN@保存的音乐闹钟|zh-TW@保存的音樂鬧鐘
+1673;en@Saved Notes|zh-CN@保存的笔记|zh-TW@保存的筆記
+1674;en@Saved or Taken Images|zh-CN@保存或拍摄的图片|zh-TW@保存或拍攝的圖片
+1675;en@Saved pages|zh-CN@保存的页面|zh-TW@保存的頁面
+1676;en@Saved Panoramic Images|zh-CN@保存的全景图片|zh-TW@保存的全景圖片
+1677;en@Saved photos|zh-CN@拍摄保存的图片|zh-TW@拍攝保存的圖片
+1678;en@Saved Photos|zh-CN@保存的照片|zh-TW@保存的照片
+1679;en@Saved QR Code|zh-CN@保存的二维码|zh-TW@保存的二維碼
+1680;en@Saved Record|zh-CN@保存的记录|zh-TW@保存的記錄
+1682;en@Saved Screenshots|zh-CN@保存的截图|zh-TW@保存的截圖
+1683;en@Saved Songs|zh-CN@保存的歌曲|zh-TW@保存的歌曲
+1684;en@Saved Text|zh-CN@保存的文本|zh-TW@保存的文字檔
+1685;en@Saved Videos|zh-CN@保存的视频|zh-TW@保存的視頻
+1686;en@Saved Wallpapers|zh-CN@保存的壁纸|zh-TW@保存的背景圖
+1687;en@Saved Web|zh-CN@保存的网页|zh-TW@保存的網頁
+1688;en@Saved Web Screenshots|zh-CN@保存的网页截图|zh-TW@保存的網頁截圖
+1690;en@Scene Cache|zh-CN@场景缓存|zh-TW@場景緩存
+1691;en@Scene Character Images|zh-CN@场景角色图片|zh-TW@場景角色圖片
+1692;en@Scene list|zh-CN@场景列表|zh-TW@場景列表
+1693;en@Scene Recorded Audios|zh-CN@场景录制的音频|zh-TW@場景錄製的音訊
+1695;en@Scene System Audios|zh-CN@场景系统音频|zh-TW@場景系統音訊
+1694;en@Scenery Images|zh-CN@场景图片|zh-TW@場景圖片
+1696;en@School Schedule Image Cache|zh-CN@课表图片缓存|zh-TW@課表圖片緩存
+1698;en@Screen Shot Image|zh-CN@截屏图片|zh-TW@截屏圖片
+1697;en@Screenshot Cache|zh-CN@截图缓存|zh-TW@截圖緩存
+1699;en@Screenshot Images|zh-CN@截屏的图片|zh-TW@截圖的圖片
+1700;en@Screenshots|zh-CN@截图|zh-TW@截圖
+1701;en@Script Cache|zh-CN@脚本缓存|zh-TW@腳本緩存
+1702;en@Script Files|zh-CN@脚本文件|zh-TW@指令檔
+1703;en@Scripts created|zh-CN@创建的脚本|zh-TW@創建的腳本
+1704;en@Search Cache|zh-CN@搜索缓存|zh-TW@搜索緩存
+1705;en@Search keywords|zh-CN@搜索中的关键字|zh-TW@搜索中的關鍵字
+1706;en@Search Records|zh-CN@搜索记录|zh-TW@搜索記錄
+1707;en@Selected Image Cache|zh-CN@精选图片缓存|zh-TW@精選圖片緩存
+1708;en@Selected Theme Images|zh-CN@精选专题图片|zh-TW@精選專題圖片
+1709;en@APKs being sent|zh-CN@发送中的安装包|zh-TW@發送中的安裝包
+1710;en@Sent Attachments|zh-CN@发送的附件|zh-TW@發送的附件
+1711;en@Sent Chat History|zh-CN@发送的对话记录|zh-TW@發送的對話記錄
+1712;en@Sent Images|zh-CN@发过的图片|zh-TW@發過的圖片
+1713;en@Sent QQ Emoticon Records|zh-CN@发送的QQ表情记录|zh-TW@發送的QQ表情記錄
+1714;en@Sent Video Messages|zh-CN@发送的视频消息|zh-TW@發送的視頻消息
+1715;en@Settings Backup|zh-CN@设置备份|zh-TW@設置備份
+1716;en@Settings Cache|zh-CN@设置缓存|zh-TW@設置緩存
+1717;en@Shake-and-capture Screenshot Images|zh-CN@甩动截屏保存的图片|zh-TW@甩動截屏保存的圖片
+1724;en@Share Images by Screenshots|zh-CN@截图分享图片|zh-TW@截圖分享圖片
+1718;en@Shared Image Cache|zh-CN@分享的图片缓存|zh-TW@分享的圖片緩存
+1719;en@Shared Images|zh-CN@分享的图片|zh-TW@分享的圖片
+1720;en@Shared Lock Screen Images|zh-CN@分享的锁屏图片|zh-TW@分享的鎖屏圖片
+1721;en@Shared palmistry pictures|zh-CN@分享的手相图片|zh-TW@分享的手相圖片
+1722;en@Shared recipes images|zh-CN@分享的菜谱图片|zh-TW@分享的食譜圖片
+1723;en@Shared Songs|zh-CN@分享的歌曲|zh-TW@分享的歌曲
+1726;en@Singer Album|zh-CN@歌手相册|zh-TW@歌手相冊
+1727;en@Singer Image Cache|zh-CN@歌手图片缓存|zh-TW@歌手圖片緩存
+1728;en@Singer Info|zh-CN@歌手信息|zh-TW@歌手信息
+1729;en@Singer Profile Picture|zh-CN@歌手头像|zh-TW@歌手頭像
+1730;en@Skin|zh-CN@皮肤|zh-TW@背景
+1731;en@skin cache|zh-CN@皮肤图片缓存|zh-TW@背景圖片緩存
+1732;en@Skin Cache|zh-CN@皮肤缓存|zh-TW@皮膚緩存
+1733;en@Skin images|zh-CN@皮肤图片|zh-TW@背景圖片
+1734;en@Skin Preview Image|zh-CN@皮肤预览图|zh-TW@背景預覽圖
+1735;en@Skins Downloaded by Users|zh-CN@用户下载的皮肤|zh-TW@用戶下載的背景
+1736;en@Skydrive Cloud Storage|zh-CN@Skydrive云存储|zh-TW@Skydrive雲端硬碟
+1737;en@SMS Clean-up Cache|zh-CN@短信清理缓存|zh-TW@簡訊清理緩存
+1738;en@Software content|zh-CN@下载的内容|zh-TW@下載的內容
+1739;en@Software Icons|zh-CN@软件图标|zh-TW@軟體圖示
+1740;en@Software Recommendation Icons|zh-CN@软件推荐图标|zh-TW@軟體推薦圖示
+1741;en@Song Cache|zh-CN@歌曲缓存|zh-TW@歌曲緩存
+1742;en@Songs In Cache|zh-CN@缓存的歌曲|zh-TW@緩存的歌曲
+1744;en@Sound Cache|zh-CN@声音缓存|zh-TW@音效緩存
+1743;en@Sound cache|zh-CN@音效缓存|zh-TW@音效緩存
+1745;en@Sound file|zh-CN@发音文件|zh-TW@音效文件
+1746;en@Space Cache|zh-CN@空间缓存|zh-TW@空間緩存
+1747;en@Star Picture Cache|zh-CN@明星图片缓存|zh-TW@明星圖片緩存
+1748;en@Start page|zh-CN@起始页面|zh-TW@起始頁面
+1749;en@Start Page Images|zh-CN@启动页图片|zh-TW@啟動頁圖片
+1750;en@Startup Screen Image Cache|zh-CN@启动画面图片缓存|zh-TW@啟動畫面圖片緩存
+1751;en@Sticker Cache|zh-CN@表情缓存|zh-TW@表情緩存
+1752;en@Sticker Materials|zh-CN@贴纸素材|zh-TW@貼圖素材
+1754;en@Sticker Store Image Cache|zh-CN@贴图商店图片缓存|zh-TW@貼圖商店圖片緩存
+1755;en@Sticker Thumbnail Cache|zh-CN@贴图缩略图缓存|zh-TW@貼圖縮圖緩存
+1753;en@Stickers|zh-CN@贴图图片|zh-TW@貼圖圖片
+1756;en@Still Image Preview|zh-CN@静图预览|zh-TW@靜圖預覽
+1758;en@Store image cache|zh-CN@商店图片缓存|zh-TW@商店圖片緩存
+1759;en@Store thumbnail cache|zh-CN@商店缩略图缓存|zh-TW@商店縮圖緩存
+1757;en@Stored Documents|zh-CN@储存的文档|zh-TW@儲存的文件
+1760;en@Street view cache|zh-CN@街景地图缓存|zh-TW@街景地圖緩存
+1761;en@Street View Configuration Data|zh-CN@街景配置数据|zh-TW@街景配置資料
+1762;en@Study Record Cache|zh-CN@学习记录缓存|zh-TW@學習記錄緩存
+1763;en@Style Images|zh-CN@风格样式图片|zh-TW@風格樣式圖片
+1764;en@Subscribed Cache|zh-CN@订阅缓存|zh-TW@訂閱緩存
+1765;en@Subscribed Channel Icons|zh-CN@订阅频道的图标|zh-TW@訂閱頻道的圖示
+1766;en@Subscribed Icon Cache|zh-CN@订阅图标缓存|zh-TW@訂閱圖示緩存
+1767;en@Subscribed Image Cache|zh-CN@订阅图片缓存|zh-TW@訂閱圖片緩存
+1768;en@Subway Circuit Diagram|zh-CN@地铁线路图|zh-TW@地鐵線路圖
+1769;en@Synchronized files|zh-CN@同步的文件|zh-TW@同步的文件
+1770;en@System Audios|zh-CN@系统音频|zh-TW@系統音訊
+1771;en@System Background Image|zh-CN@系统底纹图片|zh-TW@系統網底圖片
+1772;en@System Background Thumbnails|zh-CN@系统背景缩略图|zh-TW@系統背景縮圖
+1773;en@System cache|zh-CN@系统缓存|zh-TW@系統緩存
+1774;en@System Data|zh-CN@系统数据|zh-TW@系統資料
+1775;en@System Frame Images|zh-CN@系统相框图片|zh-TW@系統相框圖片
+1776;en@System Images|zh-CN@系统图片|zh-TW@系統圖片
+1777;en@Table Cache|zh-CN@表格缓存|zh-TW@表格緩存
+1778;en@Temp Audio Recording Cache|zh-CN@临时录音缓存|zh-TW@臨時錄音緩存
+1779;en@temp backup|zh-CN@临时备份|zh-TW@臨時備份
+1781;en@Temp Cache for Animated Images|zh-CN@动图临时缓存|zh-TW@動態圖片臨時緩存
+1782;en@Temp Cache of Magazine Reading|zh-CN@杂志阅读临时缓存|zh-TW@雜誌閱讀臨時緩存
+1783;en@Temp File Cache|zh-CN@临时文件缓存|zh-TW@暫存檔案緩存
+1784;en@Temp Image Cache|zh-CN@临时图片缓存|zh-TW@臨時圖片緩存
+1786;en@Temp lyrics|zh-CN@临时歌词缓存|zh-TW@臨時歌詞緩存
+1785;en@Template Data|zh-CN@模板数据|zh-TW@範本資料
+1787;en@Temporary audio|zh-CN@临时语音|zh-TW@臨時語音
+1789;en@Text Cache|zh-CN@文本缓存|zh-TW@文字檔緩存
+1790;en@Text Files|zh-CN@文本文件|zh-TW@文字檔
+1791;en@Text Resources|zh-CN@文本资源|zh-TW@文字檔資源
+1792;en@The audio diary|zh-CN@有声日记|zh-TW@有聲日記
+1808;en@The picture of the hidden|zh-CN@隐藏的图片|zh-TW@隱藏的圖片
+1793;en@Theme|zh-CN@主题背景|zh-TW@主題背景
+1794;en@Theme Cache|zh-CN@主题缓存|zh-TW@主題緩存
+1795;en@Theme Classification Image Previews|zh-CN@主题分类图预览|zh-TW@主題分類圖預覽
+1796;en@Theme DIY image cache|zh-CN@DIY主题图片缓存|zh-TW@DIY主題圖片緩存
+1797;en@Theme Image|zh-CN@主题图片|zh-TW@主題圖片
+1798;en@Theme Image Cache|zh-CN@主题图片缓存|zh-TW@主題圖片緩存
+1799;en@Theme Incompletely Downloaded|zh-CN@下载未完成的主题|zh-TW@下載未完成的主題
+1801;en@Theme Preview Images|zh-CN@主题预览图|zh-TW@主題預覽圖
+1802;en@Theme Resource Packs Downloading|zh-CN@下载中主题资源包|zh-TW@下載中主題資源包
+1803;en@Theme Resources|zh-CN@主题资源|zh-TW@主題資源
+1805;en@Theme Sticker Cache|zh-CN@主题贴纸缓存|zh-TW@主題貼紙緩存
+1806;en@Theme Thumbnail Cache|zh-CN@主题缩略图缓存|zh-TW@主題縮圖緩存
+1807;en@Theme Thumbnails|zh-CN@主题缩略图|zh-TW@主題縮圖
+1804;en@Themes|zh-CN@主题|zh-TW@主題
+1809;en@Thrown Spitball Images|zh-CN@扔的纸团图片|zh-TW@扔的紙團圖片
+1810;en@Thumbnail Cache|zh-CN@缩略图缓存|zh-TW@縮圖緩存
+1811;en@Thumbnails|zh-CN@缩略图|zh-TW@縮圖
+1812;en@Thumbnails of Selected Streetview Images|zh-CN@精选街景图片缩略图|zh-TW@精選街景圖片縮圖
+1813;en@Thumbs|zh-CN@相框图片|zh-TW@相框圖片
+1814;en@Time Machine Cache|zh-CN@时光机缓存|zh-TW@時光機緩存
+1815;en@Tool Icon Cache|zh-CN@工具图标缓存|zh-TW@工具圖示緩存
+1816;en@Track Location Cache|zh-CN@定位缓存|zh-TW@定位緩存
+1817;en@Track Records|zh-CN@轨迹记录|zh-TW@軌跡記錄
+1818;en@Trading images|zh-CN@交易图片|zh-TW@交易圖片
+1819;en@training courses|zh-CN@教程|zh-TW@教程
+1820;en@Transfer files|zh-CN@传输文件|zh-TW@傳輸文件
+1821;en@Transferred Files|zh-CN@传输的文件|zh-TW@傳輸的文件
+1822;en@Transferred Voices|zh-CN@发送的语音|zh-TW@發送的語音
+1823;en@UI data|zh-CN@界面数据|zh-TW@介面資料
+1824;en@Uncompleted Menu|zh-CN@未完成的菜谱|zh-TW@未完成的食譜
+1825;en@Unsaved Note Attachment Cache|zh-CN@未保存的笔记附件缓存|zh-TW@未保存的筆記附件緩存
+1826;en@Update Apks|zh-CN@升级安装包|zh-TW@升級安裝包
+1827;en@Update Cache|zh-CN@更新缓存|zh-TW@更新緩存
+1828;en@Update Data|zh-CN@更新数据|zh-TW@更新資料
+1829;en@Update Files|zh-CN@更新文件|zh-TW@更新檔
+1830;en@Update Installers|zh-CN@更新的安装包|zh-TW@更新的安裝包
+1831;en@Update log|zh-CN@更新日志|zh-TW@更新日誌
+1833;en@Upload cache|zh-CN@上传缓存|zh-TW@上傳緩存
+1844;en@Upload Image Cache|zh-CN@上传图片缓存|zh-TW@上傳圖片緩存
+1847;en@upload theme|zh-CN@上传的主题|zh-TW@上傳的主題
+1848;en@upload thumb|zh-CN@上传的主题预览图|zh-TW@上傳的主題預覽圖
+1834;en@Uploaded Audio Recordings|zh-CN@上传的录音|zh-TW@上傳的錄音
+1835;en@Uploaded Audios|zh-CN@上传的音频|zh-TW@上傳的音訊
+1836;en@Uploaded Data|zh-CN@上传的数据|zh-TW@上傳的數據
+1837;en@Uploaded Files|zh-CN@上传的文件|zh-TW@上傳的文件
+1838;en@Uploaded image cache|zh-CN@上传的图片缓存|zh-TW@上傳的圖片緩存
+1840;en@Uploaded images cache|zh-CN@上传图片的缓存|zh-TW@上傳圖片的緩存
+1841;en@Uploaded Menu Photos|zh-CN@上传的菜谱照|zh-TW@上傳的食譜照片
+1842;en@Uploaded photos|zh-CN@拍摄并上传的照片|zh-TW@拍攝並上傳的照片
+1843;en@Uploaded Photos|zh-CN@上传的照片|zh-TW@上傳的照片
+1845;en@Uploading background images|zh-CN@上传的背景图|zh-TW@上傳的背景圖
+1846;en@Uploading files|zh-CN@上传中的文件|zh-TW@上傳中的文件
+1849;en@User|zh-CN@用户资源|zh-TW@用戶資源
+1850;en@User Audio Recording Cache|zh-CN@用户录音缓存|zh-TW@用戶錄音緩存
+1851;en@User avatar shot|zh-CN@拍摄的用户头像|zh-TW@拍攝的用戶頭像
+1852;en@User Cache|zh-CN@用户缓存|zh-TW@用戶緩存
+1853;en@User Data|zh-CN@用户数据|zh-TW@使用者資料
+1854;en@User Data Cache|zh-CN@用户数据缓存|zh-TW@使用者資料緩存
+1856;en@user file|zh-CN@用户文档|zh-TW@用戶文檔
+1857;en@User Images|zh-CN@用户图片|zh-TW@使用者圖片
+1858;en@User Information|zh-CN@用户信息|zh-TW@使用者資訊
+1859;en@User Profile Picture|zh-CN@用户头像|zh-TW@用戶頭像
+1860;en@User Profile Picture Cache|zh-CN@用户头像缓存|zh-TW@用戶頭像緩存
+1862;en@User Themes|zh-CN@用户的主题|zh-TW@使用者的主題
+1855;en@User-defined map|zh-CN@用户定义地图|zh-TW@用戶定義地圖
+1861;en@User's wallpaper|zh-CN@本地图片|zh-TW@本地圖片
+1863;en@Vehicle Trips Favorites|zh-CN@收藏的车次|zh-TW@收藏的車班資訊
+1864;en@video|zh-CN@添加的视频|zh-TW@添加的視頻
+1865;en@Video Added in Diary|zh-CN@日记添加的视频|zh-TW@日記添加的視頻
+1866;en@Video Cache|zh-CN@视频缓存|zh-TW@視頻緩存
+1867;en@Video Covers|zh-CN@视频封面|zh-TW@視頻封面
+1868;en@Video Frame|zh-CN@视屏图框|zh-TW@視屏圖框
+1869;en@Video images|zh-CN@视频图片|zh-TW@視頻圖片
+1870;en@Video Messages|zh-CN@视频消息|zh-TW@視頻消息
+1871;en@Video Player Cache|zh-CN@视频播放器缓存|zh-TW@視頻播放機緩存
+1872;en@Video Preview Images|zh-CN@视频预览图|zh-TW@視頻預覽圖
+1873;en@Video Screenshots|zh-CN@视频截图|zh-TW@視頻截圖
+1875;en@Video Temp Cache|zh-CN@视频临时缓存|zh-TW@視頻臨時緩存
+1876;en@Video Thumbnails|zh-CN@视频缩略图|zh-TW@視頻縮圖
+1874;en@Videos Recorded by User|zh-CN@用户录制的视频|zh-TW@使用者錄製的視頻
+1877;en@Viewed Images|zh-CN@浏览的图片|zh-TW@瀏覽的圖片
+1878;en@Voice|zh-CN@语音|zh-TW@語音
+1879;en@Voice Cache|zh-CN@语音缓存|zh-TW@語音緩存
+1880;en@Voice Files|zh-CN@语音文件|zh-TW@語音檔
+1881;en@Voice Files From Chat|zh-CN@聊天中的语音|zh-TW@聊天中的語音
+1882;en@Voice Memo|zh-CN@声音记事|zh-TW@聲音記事
+1883;en@Voice Message History|zh-CN@语音消息记录|zh-TW@語音訊息記錄
+1884;en@Voice Messages|zh-CN@语音消息|zh-TW@語音訊息
+1885;en@Voice Pack|zh-CN@语音包|zh-TW@語音包
+1886;en@wallpaper|zh-CN@拍照的壁纸|zh-TW@拍照的背景
+1887;en@Wallpaper Cache|zh-CN@壁纸缓存|zh-TW@背景緩存
+1888;en@Wallpaper Data|zh-CN@壁纸数据|zh-TW@背景數據
+1889;en@Wallpaper Preview Images|zh-CN@壁纸预览图|zh-TW@背景預覽圖
+1890;en@Wallpaper Thumbnail Cache|zh-CN@壁纸缩略图缓存|zh-TW@背景縮圖緩存
+1891;en@Wallpaper Thumbnails|zh-CN@壁纸缩略图|zh-TW@背景縮圖
+1893;en@Web Configuration Data|zh-CN@网页配置数据|zh-TW@網頁配置資料
+1894;en@Web Data|zh-CN@网页数据|zh-TW@網頁數據
+1896;en@Web Image Cache|zh-CN@网页图片缓存|zh-TW@網頁圖片緩存
+1897;en@Web Page Configuration Files|zh-CN@网页配置文件|zh-TW@網頁設定檔
+1899;en@Web Page Temp Cache|zh-CN@网页临时缓存|zh-TW@網頁臨時緩存
+1900;en@Web Video Cache|zh-CN@网页视频缓存|zh-TW@網頁視頻緩存
+1898;en@Webpage Playing Together|zh-CN@网页一起玩|zh-TW@網頁一起玩
+1901;en@Weibo Cache|zh-CN@微博缓存|zh-TW@微博緩存
+1902;en@Whatsapp日志|zh-CN@Whatsapp日志|zh-TW@Whatsapp日誌
+1903;en@Wi-fi Output Books|zh-CN@WIFI输出的书籍|zh-TW@WIFI輸出的書籍
+1904;en@Wi-fi Transferred Books|zh-CN@wifi传输的书籍|zh-TW@wifi傳輸的書籍
+1905;en@Word Pronunciation|zh-CN@单词发音|zh-TW@單字發音
+1906;en@Words backup|zh-CN@单词备份|zh-TW@單字備份
+1907;en@YY Friends Profile Photo|zh-CN@YY的好友头像|zh-TW@YY的好友頭像
+1908;en@YY History|zh-CN@YY的记录|zh-TW@YY的記錄
+1909;en@YY Log|zh-CN@YY的日志|zh-TW@YY的日誌
+1910;en@YY Photo Cache|zh-CN@YY的图片缓存|zh-TW@YY的圖片緩存
+1911;en@YY Voice Message|zh-CN@YY的语音消息|zh-TW@YY的語音訊息
+1912;en@YY Temporary Folder|zh-CN@YY临时文件|zh-TW@YY暫存檔案
+1913;en@Unzipped apks|zh-CN@解压的安装包|zh-TW@解壓縮的安裝包
+1915;en@Zone Photo Thumbnails|zh-CN@空间照片缩略图|zh-TW@空間照片縮圖
+1914;en@Zone Photos|zh-CN@空间照片|zh-TW@空間照片
+1916;en@Zone Thumbnails|zh-CN@空间缩略图|zh-TW@空間縮圖
+1926;en@Baby Name Pronunciations|zh-CN@宝贝名字发音|zh-TW@寶貝名字發音
+1917;en@Locally Saved Photos|zh-CN@保存到本地的图片|zh-TW@保存到本地的圖片
+1918;en@Local Abbreviation|zh-CN@保存的个性短语|zh-TW@保存的個性短語
+1919;en@Save Process|zh-CN@保存的进程|zh-TW@保存的進程
+1920;en@Saved Alarm|zh-CN@保存的闹铃|zh-TW@保存的鬧鈴
+1921;en@Saved Settings|zh-CN@保存的设置|zh-TW@保存的設置
+1922;en@Saved Profile Photo|zh-CN@保存的头像挂件|zh-TW@保存的頭像掛件
+1923;en@Saved Music|zh-CN@保存的音频|zh-TW@保存的音訊
+1924;en@Saved Sound Settings|zh-CN@保存的音效配置|zh-TW@保存的音效配置
+1927;en@Accompany Singing Type|zh-CN@备份的伴唱类型|zh-TW@備份的伴唱類型
+1928;en@SMS Document|zh-CN@备份短信文件|zh-TW@備份訊息檔
+1929;en@Background music|zh-CN@背景音乐|zh-TW@背景音樂
+1930;en@Local Plugin|zh-CN@本地插件缓存|zh-TW@本地外掛程式緩存
+1931;en@Note Details|zh-CN@笔记内容|zh-TW@筆記內容
+1932;en@Note Compressed Thumbnails|zh-CN@笔记缩略图|zh-TW@筆記縮圖
+1933;en@Wallpaper|zh-CN@壁纸图片|zh-TW@背景圖片
+1934;en@Edited Photo|zh-CN@编辑的图片|zh-TW@編輯的圖片
+1935;en@Emoticon Document|zh-CN@表情文件|zh-TW@表情文件
+1936;en@Broadcast Language Document|zh-CN@播报语音文件|zh-TW@播報語音檔
+1937;en@Operation log|zh-CN@操作日志|zh-TW@操作日誌
+1938;en@Operation data|zh-CN@操作引导数据|zh-TW@操作引導資料
+1939;en@Plugin|zh-CN@插件|zh-TW@外掛程式
+1940;en@Plugin Preview Photo|zh-CN@插件预览图|zh-TW@外掛程式預覽圖
+1941;en@Plugin Theme|zh-CN@插件主题|zh-TW@外掛程式主題
+1942;en@Super DIY Photo Scene|zh-CN@超级DIY场景图片|zh-TW@超級DIY場景圖片
+1943;en@Station Details|zh-CN@车站详情|zh-TW@車站詳情
+1944;en@App Crash Log|zh-CN@程序崩溃日志|zh-TW@程式崩潰日誌
+1945;en@Map Browsing Cache|zh-CN@地图浏览缓存|zh-TW@地圖瀏覽緩存
+1946;en@Map Resource|zh-CN@地图资源|zh-TW@地圖資源
+1947;en@Music Cache|zh-CN@点歌缓存|zh-TW@點歌緩存
+1948;en@Animated Wallpaper Cache|zh-CN@动态壁纸缓存|zh-TW@動態壁紙緩存
+1949;en@Multitrack Recording File|zh-CN@多轨录音文件|zh-TW@多軌錄音文件
+1950;en@Photo Release|zh-CN@发布的图片|zh-TW@發佈的圖片
+1951;en@Voice Feedback|zh-CN@反馈语音|zh-TW@反饋語音
+1952;en@Categorize Cache|zh-CN@分类列表缓存|zh-TW@分類列表緩存
+1953;en@Nearby Activity Clear Photo|zh-CN@附近活动清晰大图|zh-TW@附近活動清晰大圖
+1954;en@Lyric Document|zh-CN@歌谱文件|zh-TW@歌譜文件
+1955;en@Song Info Cache|zh-CN@歌曲信息缓存|zh-TW@歌曲信息緩存
+1956;en@Singer Photo|zh-CN@歌手图片|zh-TW@歌手圖片
+1957;en@File Format Conversion Document|zh-CN@格式转换文件|zh-TW@格式轉換檔
+1958;en@Personal Data|zh-CN@个人数据|zh-TW@個人資料
+1959;en@Renew Resource|zh-CN@更新的资源|zh-TW@更新的資源
+1960;en@Communication Log|zh-CN@沟通记录|zh-TW@溝通記錄
+1961;en@Concept Photo|zh-CN@构思图片|zh-TW@構思圖片
+1962;en@Story Photo Cache|zh-CN@故事照片缓存|zh-TW@故事照片緩存
+1963;en@Plaza Activity Photo Cache|zh-CN@广场活动图片缓存|zh-TW@廣場活動圖片緩存
+1964;en@Ad Info|zh-CN@广告信息|zh-TW@廣告資訊
+1965;en@Friends Activity Cache|zh-CN@好友动态缓存|zh-TW@好友動態緩存
+1966;en@Number Cache|zh-CN@号码缓存|zh-TW@號碼緩存
+1967;en@Restore SMS Document|zh-CN@恢复短信的文件|zh-TW@恢復簡訊的文件
+1968;en@Receiving Document|zh-CN@回收站中的文件|zh-TW@回收站中的文件
+1969;en@Friends Photo Cache|zh-CN@交友照片缓存|zh-TW@交友照片緩存
+1970;en@Kingsoft Cloud Storage Tray|zh-CN@金山快盘云存储|zh-TW@金山快盤雲端硬碟
+1971;en@Cleanable Document|zh-CN@可清理文件|zh-TW@可清理文件
+1972;en@Course Store Cache|zh-CN@课程商店缓存|zh-TW@課程商店緩存
+1973;en@Course Photo Cache|zh-CN@课程中心图片缓存|zh-TW@課程中心圖片緩存
+1974;en@Push Cache|zh-CN@酷我推送缓存|zh-TW@酷我推送緩存
+1975;en@Fast Transfer Install Package|zh-CN@快传的安装包|zh-TW@快傳的安裝包
+1976;en@Fast Transfer Music|zh-CN@快传的音频|zh-TW@快傳的音訊
+1977;en@Disconnect Data|zh-CN@离线数据|zh-TW@離線數據
+1978;en@History Browse Photo|zh-CN@历史记录预览图|zh-TW@歷史記錄預覽圖
+1979;en@Brightness Generated Cache|zh-CN@亮眼产生的缓存|zh-TW@亮眼產生的緩存
+1980;en@Chat Background Cache|zh-CN@聊天背景缓存|zh-TW@聊天背景緩存
+1981;en@Chat Cache|zh-CN@聊天缓存|zh-TW@聊天緩存
+1982;en@Chat Data|zh-CN@聊天数据|zh-TW@聊天數據
+1983;en@Chart Information|zh-CN@列表信息|zh-TW@清單訊息
+1984;en@Temp Upload Photo|zh-CN@临时上传图片|zh-TW@臨時上傳圖片
+1985;en@Temp Photo|zh-CN@临时图片|zh-TW@臨時圖片
+1986;en@Temp Music Cache|zh-CN@临时音乐缓存|zh-TW@臨時音樂緩存
+1987;en@Browse Data|zh-CN@浏览数据|zh-TW@瀏覽資料
+1988;en@Browse Photo Cache|zh-CN@浏览图片缓存|zh-TW@瀏覽圖片緩存
+1989;en@Forum Photo Cache|zh-CN@论坛图片缓存|zh-TW@論壇圖片緩存
+1990;en@Travel Photo|zh-CN@旅行图片|zh-TW@旅行圖片
+1991;en@Daily Photo|zh-CN@每日一图|zh-TW@每日一圖
+1992;en@App Generated Cache|zh-CN@美颜产生的缓存|zh-TW@美顏產生的緩存
+1993;en@Magic Box video|zh-CN@魔力盒视频|zh-TW@魔力盒視頻
+1994;en@Default Bookmark|zh-CN@默认书签|zh-TW@預設書籤
+1995;en@Recorded Photo and Videos|zh-CN@拍下的照片和视频|zh-TW@拍下的照片和視頻
+1996;en@Photo Temp Cache|zh-CN@拍照临时缓存|zh-TW@拍照臨時緩存
+1997;en@Theme Settings|zh-CN@皮肤设置|zh-TW@背景設置
+1998;en@Collage Background Template|zh-CN@拼贴背景模版|zh-TW@拼貼背景樣版
+1999;en@Spell Check Cache|zh-CN@拼写检查缓存|zh-TW@拼寫檢查緩存
+2000;en@Photo Edit Cache|zh-CN@祛黑眼圈产生的缓存|zh-TW@祛黑眼圈產生的緩存
+2001;en@Splash Cache|zh-CN@闪屏缓存|zh-TW@閃屏緩存
+2002;en@Upload Document|zh-CN@上传的附件|zh-TW@上傳的附件
+2003;en@Upload Cache Document|zh-CN@上传的缓存文件|zh-TW@上傳的快取檔案
+2004;en@Upload Photo and Video|zh-CN@上传的图片和视频|zh-TW@上傳的圖片和視頻
+2005;en@Incoming Call Photo|zh-CN@设置的来电炫图|zh-TW@設置的來電炫圖
+2006;en@Wallpaper|zh-CN@使用的壁纸|zh-TW@使用的背景圖
+2007;en@World Cup Emoticons|zh-CN@世界杯表情包|zh-TW@世界盃表情包
+2008;en@World Cup Photo Cache|zh-CN@世界杯图片缓存|zh-TW@世界盃圖片緩存
+2009;en@Video Document|zh-CN@视频文件|zh-TW@視頻檔
+2010;en@View Cache|zh-CN@视图缓存|zh-TW@視圖緩存
+2011;en@Manual Backup Document|zh-CN@手动备份的文件|zh-TW@手動備份的檔
+2012;en@Drawn Photo|zh-CN@手绘贴图|zh-TW@手繪貼圖
+2013;en@Home Page Ad Photo|zh-CN@首页广告图片|zh-TW@首頁廣告圖片
+2014;en@Home Page Cache|zh-CN@首页缓存|zh-TW@首頁緩存
+2015;en@Face Lift Generated Cache|zh-CN@瘦脸瘦身产生的缓存|zh-TW@瘦臉瘦身產生的緩存
+2016;en@Book Data|zh-CN@书籍数据|zh-TW@書籍數據
+2017;en@Talk Talk Photo|zh-CN@说说的图片|zh-TW@說說的圖片
+2018;en@Lock Screen Preview Cache|zh-CN@锁屏预览图缓存|zh-TW@鎖屏預覽圖緩存
+2019;en@Set Ringtone Photo|zh-CN@套装铃声图片|zh-TW@套裝鈴聲圖片
+2020;en@Special Generated Cache|zh-CN@特效产生的缓存|zh-TW@特效產生的緩存
+2021;en@Post Bar Image Cache|zh-CN@贴吧图片缓存|zh-TW@貼吧圖片緩存
+2022;en@Avatar Photo Cache|zh-CN@头像图片缓存|zh-TW@頭像圖片緩存
+2023;en@Avatar Original Image|zh-CN@头像原图|zh-TW@頭像原圖
+2024;en@Preview Icon Cache|zh-CN@图标预览图缓存|zh-TW@圖示預覽圖緩存
+2025;en@Recommended Makeup Image|zh-CN@推荐的妆容图片|zh-TW@推薦的妝容圖片
+2026;en@Speedtest Cache|zh-CN@网速测试缓存|zh-TW@網速測試緩存
+2027;en@Webpage Browse Data|zh-CN@网页浏览数据|zh-TW@網頁瀏覽資料
+2028;en@Wechat Contacts|zh-CN@微信通讯录|zh-TW@微信通訊錄
+2029;en@Satellite Map Cache|zh-CN@卫星地图缓存|zh-TW@衛星地圖緩存
+2030;en@Text Note|zh-CN@文本记事|zh-TW@記事本記事
+2031;en@File Icon|zh-CN@文件图标|zh-TW@文件圖示
+2032;en@My Food Diary|zh-CN@我的美食日记|zh-TW@我的美食日記
+2033;en@Downloaded DIY Material|zh-CN@下载的diy素材|zh-TW@下載的DIY素材
+2034;en@Downloaded Rom|zh-CN@下载的rom|zh-TW@下載的唯讀記憶體
+2035;en@Downloaded Dynamic Framework|zh-CN@下载的动态框架|zh-TW@下載的動態框架
+2036;en@Downloaded Animated Effect|zh-CN@下载的动态效果|zh-TW@下載的動態效果
+2037;en@Downloaded Frame|zh-CN@下载的框架|zh-TW@下載的框架
+2038;en@Downloaded Offline Dictionary|zh-CN@下载的离线词典|zh-TW@下載的離線詞典
+2039;en@Downloaded Collage Background|zh-CN@下载的拼贴背景|zh-TW@下載的拼貼背景
+2040;en@Downloaded Books|zh-CN@下载的书卷|zh-TW@下載的書卷
+2041;en@Downloaded Material Package|zh-CN@下载的素材包|zh-TW@下載的素材包
+2042;en@Downloaded Lock Screen|zh-CN@下载的锁屏|zh-TW@下載的鎖屏
+2043;en@Downloaded Language|zh-CN@下载的语言|zh-TW@下載的語言
+2044;en@Downloaded Magazine Cover|zh-CN@下载的杂志封面|zh-TW@下載的雜誌封面
+2045;en@Downloaded Comments|zh-CN@下载的注释|zh-TW@下載的注釋
+2046;en@Downloaded History|zh-CN@下载历史|zh-TW@下載歷史
+2047;en@Downloaded Temporary Cache|zh-CN@下载临时缓存|zh-TW@下載臨時緩存
+2048;en@Detail Photo|zh-CN@详情图片|zh-TW@詳情圖片
+2049;en@Desktop Photo|zh-CN@秀桌面图片|zh-TW@秀桌面圖片
+2050;en@Eye Enlargement Cache|zh-CN@眼睛放大产生的缓存|zh-TW@眼睛放大產生的緩存
+2051;en@Shake and Clean Cache|zh-CN@摇一摇缓存|zh-TW@搖一搖緩存
+2052;en@Installed Fonts|zh-CN@已安装的字体|zh-TW@已安裝的字體
+2053;en@Evernote Cache|zh-CN@印象笔记缓存|zh-TW@印象筆記緩存
+2054;en@App Update Package|zh-CN@应用更新包|zh-TW@應用更新包
+2055;en@App Image Cache|zh-CN@应用图片缓存|zh-TW@應用圖片緩存
+2056;en@App Data Cache|zh-CN@应用信息缓存|zh-TW@應用資訊緩存
+2057;en@User Backup Document|zh-CN@用户备份的文件|zh-TW@用戶備份的檔案
+2058;en@User Export File|zh-CN@用户导出文件|zh-TW@用戶匯出檔案
+2059;en@User Setting Data|zh-CN@用户配置信息|zh-TW@使用者配置資訊
+2060;en@User Setting|zh-CN@用户设置|zh-TW@用戶設置
+2061;en@User Information Cache|zh-CN@用户信息缓存|zh-TW@使用者資訊緩存
+2062;en@User Image Cache|zh-CN@用户照片缓存|zh-TW@用戶照片緩存
+2063;en@Game Screenshot|zh-CN@游戏截图|zh-TW@遊戲截圖
+2064;en@Voice Temporary Cache|zh-CN@语音临时缓存|zh-TW@語音臨時緩存
+2065;en@Cloud History Cache|zh-CN@云历史缓存|zh-TW@雲歷史緩存
+2066;en@Online Browser Cache|zh-CN@在线浏览缓存|zh-TW@線上瀏覽緩存
+2067;en@Online Desktop 2x2 Thumbnail|zh-CN@在线桌面相框2x2缩略图|zh-TW@線上桌面相框2x2縮圖
+2068;en@Online Desktop 2x2 Preview Image|zh-CN@在线桌面相框2x2预览图|zh-TW@線上桌面相框2x2預覽圖
+2069;en@Generated Ringtone|zh-CN@制作的铃声|zh-TW@製作的鈴聲
+2070;en@Intelligent Generated Cache|zh-CN@智能优化产生的缓存|zh-TW@智慧優化產生的緩存
+2071;en@Nearby Service Image Cache|zh-CN@周边服务的图片缓存|zh-TW@周邊服務的圖片緩存
+2072;en@Theme Background Image Cache|zh-CN@主题场景预览图缓存|zh-TW@主題場景預覽圖緩存
+2073;en@Album Cover Cache|zh-CN@专辑封面缓存|zh-TW@專輯封面緩存
+2074;en@Transfer Install Package|zh-CN@转移的安装包|zh-TW@轉移的安裝包
+2075;en@Makeup Information Cache|zh-CN@妆容信息缓存|zh-TW@妝容信息緩存
+2076;en@Desktop Shortcut Backup|zh-CN@桌面快捷方式备份|zh-TW@桌面快捷方式備份
+2077;en@Resource|zh-CN@资源|zh-TW@資源
+2079;en@Own Song|zh-CN@自唱的歌曲|zh-TW@自唱的歌曲
+2080;en@Custom Equalizer|zh-CN@自定义的均衡器|zh-TW@自訂的等化器
+2081;en@Custom Gesture|zh-CN@自定义手势|zh-TW@自訂手勢
+2082;en@Automatic Backup Document|zh-CN@自动备份的文件|zh-TW@自動備份的文件
+2078;en@Font Data|zh-CN@字体数据|zh-TW@字體資料
+2083;en@Recent Notes|zh-CN@最近查看的笔记|zh-TW@最近查看的筆記
+2084;en@Advert Cache|zh-CN@广告缓存|zh-TW@廣告緩存
+2085;en@Album Cache|zh-CN@相册缓存|zh-TW@相冊緩存
+2086;en@Backed-up Installer|zh-CN@已备份安装包|zh-TW@已備份安裝包
+2087;en@Backup Fonts|zh-CN@备份字体|zh-TW@備份字體
+2088;en@Backup notes|zh-CN@备份笔记|zh-TW@備份筆記
+2089;en@Cached Videos|zh-CN@缓存视频|zh-TW@緩存視頻
+2090;en@Cache / Unity Shader Cache|zh-CN@Unity Shader缓存|zh-TW@Unity Shader缓存
+2091;en@Channel Icon Thumbnail|zh-CN@频道图标缩略图|zh-TW@頻道圖標縮圖
+2092;en@Color Cache|zh-CN@颜色缓存|zh-TW@顏色緩存
+2093;en@Cropped Pictures|zh-CN@已裁剪图片|zh-TW@已裁剪圖片
+2094;en@Data|zh-CN@数据|zh-TW@數據
+2095;en@Data Backup|zh-CN@数据备份|zh-TW@數據備份
+2096;en@Device Picture|zh-CN@设备图片|zh-TW@設備圖片
+2097;en@Downloading Materials|zh-CN@下载资料|zh-TW@下載資料
+2098;en@Exported Pictures|zh-CN@已导出图片|zh-TW@已導出圖片
+2099;en@My Favorites|zh-CN@我的最爱|zh-TW@我的最愛
+2100;en@Net Logs|zh-CN@网络日志|zh-TW@網路日誌
+2101;en@Offline Data|zh-CN@离线数据|zh-TW@離線數據
+2102;en@Rankings|zh-CN@排名|zh-TW@排名
+2103;en@Recovery File|zh-CN@复原文件|zh-TW@復原文件
+2104;en@Sent Videos|zh-CN@已发送视频|zh-TW@已發送視頻
+2105;en@Shared APPs|zh-CN@分享应用|zh-TW@分享應用
+2106;en@Sharing Cache|zh-CN@分享缓存|zh-TW@分享緩存
+2107;en@Video Clips|zh-CN@视频|zh-TW@視頻
+2108;en@Received Audio|zh-CN@接收的语音|zh-TW@接收的語音
+2109;en@Offline Dictionary|zh-CN@离线词典|zh-TW@離線辭典
+2110;en@Offline Dictionary|zh-CN@离线字典|zh-TW@離線字典
+2111;en@Downloaded Icons|zh-CN@下载的图标|zh-TW@下載的圖標
