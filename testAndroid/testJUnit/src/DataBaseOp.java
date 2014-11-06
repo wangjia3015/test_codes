@@ -3,10 +3,7 @@ import info.RootPathInfo;
 import info.SubPathInfo;
 import info.TrashInfoDesc;
 import sqlite.SqliteDatabase;
-import tools.LocalFileParser;
-import tools.MD5EncryptUtils;
-import tools.TextUtils;
-import tools.Utils;
+import tools.*;
 
 import java.io.*;
 import java.sql.Connection;
@@ -20,8 +17,13 @@ import java.util.prefs.PreferenceChangeEvent;
  * Created by wangjia-s on 14-11-4.
  */
 public class DataBaseOp {
+    private static final String DES_KEY;
 
-    private static final String DES_KEY = Utils.DES_decrypt("603d5c3d2bc1246c34a4a15abfd1a453", "jtest*confxy@1");
+    static {
+        DES_KEY = Utils.DES_decrypt("603d5c3d2bc1246c34a4a15abfd1a453", "jtest*confxy@1");
+    }
+
+    public static final String getDesKey() { return DES_KEY; }
 
     public static List<String> getLines(String filePath) {
         File file = new File(filePath);
@@ -79,6 +81,20 @@ public class DataBaseOp {
         // genAppInfo
         String app_info_path = base_path + DataBaseHelper.LOCAL_APP_NAME_PATH;
         genAppInfo(getLines(app_info_path), database);
+
+        // gzip file
+        File gzipFile = new File(DataBaseHelper.DB_NAME + ".gzip");
+        File gzipTimestamp = new File(DataBaseHelper.DB_NAME + ".gzip.timestamp");
+        gzipFile.delete();
+        gzipTimestamp.delete();
+
+        try {
+            ZipUtil.GzipOneFile(new File(DataBaseHelper.DB_NAME), gzipFile);
+            FileUtil.writeFile(gzipTimestamp, String.valueOf(System.currentTimeMillis() / 1000));
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
     }
 
     protected void genAppInfo(List<String> lines, SqliteDatabase database) throws SQLException {
@@ -139,7 +155,7 @@ public class DataBaseOp {
         connection.commit();
     }
 
-    public String getAllPathMD5(String path) {
+    public static String getAllPathMD5(String path) {
         String[] paths = path.split("\\/");
         String md5 = "";
         for (String p : paths) {
@@ -187,7 +203,8 @@ public class DataBaseOp {
 
             pre_stmt.setInt(1, info.appId);
             pre_stmt.setString(2, Utils.DES_encrypt(info.appName, DES_KEY));
-            pre_stmt.setString(3, MD5EncryptUtils.encrypt(info.appRootPath, DES_KEY));
+//            pre_stmt.setString(3, MD5EncryptUtils.encrypt(info.appRootPath, DES_KEY));  // TODO
+            pre_stmt.setString(3, getAllPathMD5(info.appRootPath));  // TODO
             pre_stmt.setInt(4, info.appType);
             pre_stmt.setInt(5, info.fileType);
             pre_stmt.setInt(6, info.clearType);
@@ -218,7 +235,8 @@ public class DataBaseOp {
         connection.commit();
     }
 
-    public String getRootPath(String path) {
+    // 针对 ROOT_COLUMN_ROOT_FIST_PATH 不同情况取FIRST_ROOT_PATH不同
+    public static String getRootPath(String path) {
         // 如果... 处理全部计算
         // 如果... 并且子路径大于... 取 ...
         // 其他去首个子路径

@@ -129,15 +129,19 @@ public class DataBaseHelper  {
         }
     }
 
-    public SqliteDatabase getWritableDatabase() {
+    public static SqliteDatabase getWritableDatabase(String dbName) {
         try {
-            Connection connection = DriverManager.getConnection("jdbc:sqlite:" + DB_NAME);
+            Connection connection = DriverManager.getConnection("jdbc:sqlite:" + dbName);
             connection.setAutoCommit(false);
             return new SqliteDatabase(connection);
         } catch (SQLException e) {
             e.printStackTrace();
         }
         return null;
+    }
+
+    public static SqliteDatabase getWritableDatabase() {
+        return getWritableDatabase(DB_NAME);
     }
 
 /*
